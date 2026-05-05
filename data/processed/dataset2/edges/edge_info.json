@@ -1,0 +1,1142 @@
+{
+    "P910": {
+        "itemLabel": "topic's main category",
+        "itemComment": "-",
+        "itemDescription": "main Wikimedia category"
+    },
+    "P88": {
+        "itemLabel": "commissioned by",
+        "itemComment": "-",
+        "itemDescription": "person or organization that commissioned this work"
+    },
+    "P123": {
+        "itemLabel": "publisher",
+        "itemComment": "-",
+        "itemDescription": "organization or person responsible for publishing a work, such as a book, periodical, printed music, podcast, game or software"
+    },
+    "P1365": {
+        "itemLabel": "replaces",
+        "itemComment": "-",
+        "itemDescription": "person, state or item replaced. Use \"structure replaces\" (P1398) for structures. Use \"follows\" (P155) if the previous item was not replaced or predecessor and successor are identical"
+    },
+    "P186": {
+        "itemLabel": "made from material",
+        "itemComment": "-",
+        "itemDescription": "material the subject or the object is made of or derived from (do not confuse with P10672 which is used for processes)"
+    },
+    "P6275": {
+        "itemLabel": "copyright representative",
+        "itemComment": "-",
+        "itemDescription": "person or organisation who represents the copyright for this person or work of art"
+    },
+    "P641": {
+        "itemLabel": "sport",
+        "itemComment": "-",
+        "itemDescription": "sport that the subject participates or participated in or is associated with"
+    },
+    "P279": {
+        "itemLabel": "subclass of",
+        "itemComment": "-",
+        "itemDescription": "this item is a subclass (subset) of that item; ALL instances of this item are instances of that item; different from P31 (instance of), e.g.: volcano is a subclass of mountain; Everest is an instance of mountain"
+    },
+    "P1366": {
+        "itemLabel": "replaced by",
+        "itemComment": "-",
+        "itemDescription": "other person or item which continues the item by replacing it in its role. Use P156 (\"followed by\") if the item is not replaced nor identical, but adds to the series (e.g. books in a series)."
+    },
+    "P1192": {
+        "itemLabel": "connecting service",
+        "itemComment": "-",
+        "itemDescription": "service stopping at a station"
+    },
+    "P559": {
+        "itemLabel": "terminus",
+        "itemComment": "-",
+        "itemDescription": "the feature (intersecting road, train station, etc.) at the end of a linear feature"
+    },
+    "P156": {
+        "itemLabel": "followed by",
+        "itemComment": "-",
+        "itemDescription": "immediately following item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has been replaced, e.g. political offices, use \"replaced by\" (P1366)]"
+    },
+    "P2341": {
+        "itemLabel": "indigenous to",
+        "itemComment": "-",
+        "itemDescription": "place or ethnic group where a language, art genre, cultural tradition or expression, cooking style or food, or biological species or variety is found (or was originally found)"
+    },
+    "P485": {
+        "itemLabel": "archives at",
+        "itemComment": "-",
+        "itemDescription": "the institution holding the subject's archives"
+    },
+    "P19": {
+        "itemLabel": "place of birth",
+        "itemComment": "-",
+        "itemDescription": "most specific known birth location of a person, animal or fictional character"
+    },
+    "P749": {
+        "itemLabel": "parent organization or unit",
+        "itemComment": "-",
+        "itemDescription": "parent organization or unit of an organization or unit, opposite of child organization or unit (P355); use instance of (P31) to distinguish organization (Q43229) and organization unit (Q10387680)"
+    },
+    "P112": {
+        "itemLabel": "founded by",
+        "itemComment": "-",
+        "itemDescription": "founder or co-founder of this organization, religion, place or entity"
+    },
+    "P800": {
+        "itemLabel": "notable work",
+        "itemComment": "-",
+        "itemDescription": "notable scientific, artistic or literary work, or other work of significance among subject's works"
+    },
+    "P1552": {
+        "itemLabel": "has characteristic",
+        "itemComment": "-",
+        "itemDescription": "inherent or distinguishing quality or feature of the entity. Use a more specific property when possible"
+    },
+    "P127": {
+        "itemLabel": "owned by",
+        "itemComment": "-",
+        "itemDescription": "owner of the subject"
+    },
+    "P155": {
+        "itemLabel": "follows",
+        "itemComment": "-",
+        "itemDescription": "immediately prior item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has replaced the preceding item, e.g. political offices, use \"replaces\" (P1365)]"
+    },
+    "P750": {
+        "itemLabel": "distributed by",
+        "itemComment": "-",
+        "itemDescription": "distributor of a creative work; distributor for a record label; news agency; film distributor"
+    },
+    "P1542": {
+        "itemLabel": "has effect",
+        "itemComment": "-",
+        "itemDescription": "effect of this item"
+    },
+    "P1343": {
+        "itemLabel": "described by source",
+        "itemComment": "-",
+        "itemDescription": "work where this item is described"
+    },
+    "P277": {
+        "itemLabel": "programmed in",
+        "itemComment": "-",
+        "itemDescription": "the programming language(s) in which the software is developed"
+    },
+    "P306": {
+        "itemLabel": "operating system",
+        "itemComment": "-",
+        "itemDescription": "operating system (OS) on which a software works or the OS installed on hardware"
+    },
+    "P6291": {
+        "itemLabel": "advertises",
+        "itemComment": "-",
+        "itemDescription": "cause, organization or product targeted by the advertising campaign, character, jingle or slogan"
+    },
+    "P1066": {
+        "itemLabel": "student of",
+        "itemComment": "-",
+        "itemDescription": "person who has taught this person"
+    },
+    "P5009": {
+        "itemLabel": "complies with",
+        "itemComment": "-",
+        "itemDescription": "the product or work complies with a certain norm or passes a test"
+    },
+    "P166": {
+        "itemLabel": "award received",
+        "itemComment": "-",
+        "itemDescription": "award or recognition received by a person, organization or creative work"
+    },
+    "P7888": {
+        "itemLabel": "merged into",
+        "itemComment": "-",
+        "itemDescription": "the subject was dissolved and merged into the object, that existed previously"
+    },
+    "P361": {
+        "itemLabel": "part of",
+        "itemComment": "-",
+        "itemDescription": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670))"
+    },
+    "P50": {
+        "itemLabel": "author",
+        "itemComment": "-",
+        "itemDescription": "main creator(s) of a written work (use on works, not humans); use P2093 (author name string) when Wikidata item is unknown or does not exist"
+    },
+    "P162": {
+        "itemLabel": "producer",
+        "itemComment": "-",
+        "itemDescription": "person(s) who produced the film, musical work, theatrical production, etc. (for film, this does not include executive producers, associate producers, etc.) [for production company, use P272, video games - use P178]"
+    },
+    "P1071": {
+        "itemLabel": "location of creation",
+        "itemComment": "-",
+        "itemDescription": "place where the item was conceived or made; where applicable, location of final assembly"
+    },
+    "P108": {
+        "itemLabel": "employer",
+        "itemComment": "-",
+        "itemDescription": "person or organization for which the subject works or worked"
+    },
+    "P178": {
+        "itemLabel": "developer",
+        "itemComment": "-",
+        "itemDescription": "organization or person that developed the item"
+    },
+    "P451": {
+        "itemLabel": "unmarried partner",
+        "itemComment": "-",
+        "itemDescription": "someone with whom the person is in a relationship without being married. Use \"spouse\" (P26) for married couples"
+    },
+    "P527": {
+        "itemLabel": "has part(s)",
+        "itemComment": "-",
+        "itemDescription": "part of this subject; inverse property of \"part of\" (P361). See also \"has parts of the class\" (P2670)."
+    },
+    "P40": {
+        "itemLabel": "child",
+        "itemComment": "-",
+        "itemDescription": "subject has object as child. Do not use for stepchildren\u2014use \"relative\" (P1038), qualified with \"type of kinship\" (P1039)"
+    },
+    "P706": {
+        "itemLabel": "located in/on physical feature",
+        "itemComment": "-",
+        "itemDescription": "located on the specified (geo)physical feature. Should not be used when the value is only political/administrative (P131) or a mountain range (P4552). Use P206 for things in/on bodies of water."
+    },
+    "P1398": {
+        "itemLabel": "structure replaces",
+        "itemComment": "-",
+        "itemDescription": "the item this building or structure replaced, at the same geographic location"
+    },
+    "P1889": {
+        "itemLabel": "different from",
+        "itemComment": "-",
+        "itemDescription": "item that is different from another item, with which it may be confused"
+    },
+    "P1444": {
+        "itemLabel": "destination point",
+        "itemComment": "-",
+        "itemDescription": "destination for this route (journey, flight, sailing, exploration, migration, etc.)"
+    },
+    "P2813": {
+        "itemLabel": "house publication",
+        "itemComment": "-",
+        "itemDescription": "media that speaks for an organization or a movement, and that is usually edited by its members"
+    },
+    "P144": {
+        "itemLabel": "based on",
+        "itemComment": "-",
+        "itemDescription": "the work(s) or inputs used as the basis for subject item; for fictional analog use P1074"
+    },
+    "P138": {
+        "itemLabel": "named after",
+        "itemComment": "-",
+        "itemDescription": "entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier \"applies to name\" (P5168) can be used to indicate which one"
+    },
+    "P2770": {
+        "itemLabel": "source of income",
+        "itemComment": "-",
+        "itemDescription": "source of income of an organization or person"
+    },
+    "P3032": {
+        "itemLabel": "adjacent building",
+        "itemComment": "-",
+        "itemDescription": "building adjacent to the item"
+    },
+    "P802": {
+        "itemLabel": "student",
+        "itemComment": "-",
+        "itemDescription": "notable student(s) of the subject individual"
+    },
+    "P1427": {
+        "itemLabel": "start point",
+        "itemComment": "-",
+        "itemDescription": "starting place of this journey, flight, voyage, trek, migration etc."
+    },
+    "P101": {
+        "itemLabel": "field of work",
+        "itemComment": "-",
+        "itemDescription": "specialization of a person or organization; see P106 for the occupation"
+    },
+    "P3173": {
+        "itemLabel": "offers view on",
+        "itemComment": "-",
+        "itemDescription": "things, places this place offers views on"
+    },
+    "P1056": {
+        "itemLabel": "product or material produced",
+        "itemComment": "-",
+        "itemDescription": "material or product, including services, produced or provided by an organization, industry, facility, or process"
+    },
+    "P1478": {
+        "itemLabel": "has immediate cause",
+        "itemComment": "-",
+        "itemDescription": "nearest, proximate thing that directly resulted in the subject as outcome or effect. Used in conjunction with 'has cause' (i.e. underlying cause) and 'has contributing factor'. See 'Help:Modeling causes'."
+    },
+    "P5607": {
+        "itemLabel": "located in the religious territorial entity",
+        "itemComment": "-",
+        "itemDescription": "the item is located on the territory of the following religious entity. Use P708 (diocese) for dioceses"
+    },
+    "P3373": {
+        "itemLabel": "sibling",
+        "itemComment": "-",
+        "itemDescription": "the subject and the object have at least one common parent (brother, sister, etc. including half-siblings); use \"relative\" (P1038) for siblings-in-law (brother-in-law, sister-in-law, etc.) and step-siblings (step-brothers, step-sisters, etc.)"
+    },
+    "P740": {
+        "itemLabel": "location of formation",
+        "itemComment": "-",
+        "itemDescription": "location where a group or organization was formed"
+    },
+    "P2348": {
+        "itemLabel": "time period",
+        "itemComment": "-",
+        "itemDescription": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred or with which it is associated"
+    },
+    "P1269": {
+        "itemLabel": "facet of",
+        "itemComment": "-",
+        "itemDescription": "topic of which this item is an aspect; item that offers a broader perspective on the same topic"
+    },
+    "P1038": {
+        "itemLabel": "relative",
+        "itemComment": "-",
+        "itemDescription": "family member (qualify with \"kinship to subject\", P1039; for direct family member please use specific property)"
+    },
+    "P2789": {
+        "itemLabel": "connects with",
+        "itemComment": "-",
+        "itemDescription": "item with which the item is physically connected"
+    },
+    "P452": {
+        "itemLabel": "industry",
+        "itemComment": "-",
+        "itemDescription": "specific industry of company or organization"
+    },
+    "P1535": {
+        "itemLabel": "used by",
+        "itemComment": "-",
+        "itemDescription": "item or concept that makes use of the subject (use sub-properties when appropriate)"
+    },
+    "P3018": {
+        "itemLabel": "located in protected area",
+        "itemComment": "-",
+        "itemDescription": "protected area where a place or geographical feature is physically located"
+    },
+    "P31": {
+        "itemLabel": "instance of",
+        "itemComment": "-",
+        "itemDescription": "type to which this subject corresponds/belongs. Different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain"
+    },
+    "P5940": {
+        "itemLabel": "plot expanded in",
+        "itemComment": "-",
+        "itemDescription": "a narrative of this creative work is expanded in another work while '''not necessarily''' being part of the same series. For series use P179 instead"
+    },
+    "P5869": {
+        "itemLabel": "model item",
+        "itemComment": "-",
+        "itemDescription": "defines which item is a best practice example of modelling a subject, which is described by the value of this property, usage instructions at Wikidata:Model items"
+    },
+    "P941": {
+        "itemLabel": "inspired by",
+        "itemComment": "-",
+        "itemDescription": "work, human, place or event which inspired this creative work or fictional entity"
+    },
+    "P2578": {
+        "itemLabel": "is the study of",
+        "itemComment": "-",
+        "itemDescription": "the object that an academic field studies; distinct from field of work (P101), which is used for human, organization, etc."
+    },
+    "P8956": {
+        "itemLabel": "compatible with",
+        "itemComment": "-",
+        "itemDescription": "this work, product, object or standard can interact with another work, product, object or standard"
+    },
+    "P553": {
+        "itemLabel": "website account on",
+        "itemComment": "-",
+        "itemDescription": "website that the person or organization has an account on (use with P554) Note: only used with reliable source or if the person or organization disclosed it."
+    },
+    "P197": {
+        "itemLabel": "adjacent station",
+        "itemComment": "-",
+        "itemDescription": "the stations next to this station, sharing the same line(s)"
+    },
+    "P81": {
+        "itemLabel": "connecting line",
+        "itemComment": "-",
+        "itemDescription": "railway line(s) subject is directly connected to"
+    },
+    "P463": {
+        "itemLabel": "member of",
+        "itemComment": "-",
+        "itemDescription": "organization, club or musical group to which the subject belongs. Do not use for membership in ethnic or social groups, nor for holding a political position, such as a member of parliament (use P39 for that)"
+    },
+    "P190": {
+        "itemLabel": "twinned administrative body",
+        "itemComment": "-",
+        "itemDescription": "twin towns, sister cities, twinned municipalities and other localities that have a partnership or cooperative agreement, either legally or informally acknowledged by their governments"
+    },
+    "P1068": {
+        "itemLabel": "instruction set",
+        "itemComment": "-",
+        "itemDescription": "set of machine code instructions on which a processor architecture is based"
+    },
+    "P1441": {
+        "itemLabel": "present in work",
+        "itemComment": "-",
+        "itemDescription": "this (fictional or fictionalized) entity, place, or person appears in that work as part of the narration (use P2860 for works citing other works, P361/P1433 for works being part of other works, P1343 for entities described in non-fictional accounts)"
+    },
+    "P807": {
+        "itemLabel": "separated from",
+        "itemComment": "-",
+        "itemDescription": "subject was founded or started by separating from identified object"
+    },
+    "P126": {
+        "itemLabel": "maintained by",
+        "itemComment": "-",
+        "itemDescription": "person or organization in charge of keeping the subject (for instance an infrastructure) in functioning order"
+    },
+    "P1582": {
+        "itemLabel": "natural product of taxon",
+        "itemComment": "-",
+        "itemDescription": "links a natural product with its source (animal, plant, fungal, algal, etc.)"
+    },
+    "P2652": {
+        "itemLabel": "partnership with",
+        "itemComment": "-",
+        "itemDescription": "partnership (commercial or/and non-commercial) between this organization and another organization or institution"
+    },
+    "P710": {
+        "itemLabel": "participant",
+        "itemComment": "-",
+        "itemDescription": "person, group of people or organization (object) that actively takes/took part in an event or process (subject). Preferably qualify with \"object has role\" (P3831). Use P1923 for participants that are teams."
+    },
+    "P1376": {
+        "itemLabel": "capital of",
+        "itemComment": "-",
+        "itemDescription": "country, state, department, canton or other administrative division of which the municipality is the governmental seat"
+    },
+    "P2546": {
+        "itemLabel": "sidekick of",
+        "itemComment": "-",
+        "itemDescription": "close companion of a fictional character"
+    },
+    "P8411": {
+        "itemLabel": "set in environment",
+        "itemComment": "-",
+        "itemDescription": "environment (geographic feature, building type, etc.) the narrative work is set in"
+    },
+    "P1672": {
+        "itemLabel": "this taxon is source of",
+        "itemComment": "-",
+        "itemDescription": "links a taxon to natural products it produces. Note that it does not say \"this taxon is the source of\" or \"this taxon is a source of\" as this may vary. Some products may be yielded by more than one taxon."
+    },
+    "P195": {
+        "itemLabel": "collection",
+        "itemComment": "-",
+        "itemDescription": "art, museum, archival, or bibliographic collection of which the subject is part (item is in the collection of X)"
+    },
+    "P3931": {
+        "itemLabel": "copyright holder",
+        "itemComment": "-",
+        "itemDescription": "person or organisation who holds the copyright of a work according to the Berne Convention"
+    },
+    "P4969": {
+        "itemLabel": "derivative work",
+        "itemComment": "-",
+        "itemDescription": "new work of art (film, book, software, etc.) derived from major part of this work"
+    },
+    "P355": {
+        "itemLabel": "child organization or unit",
+        "itemComment": "-",
+        "itemDescription": "child organization/unit of a organization/unit; for companies, generally a fully owned separate corp., see business division (P199); opposite of parent org./unit (P749); use instance of (P31) to distinguish org. (Q43229) and org. unit (Q10387680)"
+    },
+    "P287": {
+        "itemLabel": "designed by",
+        "itemComment": "-",
+        "itemDescription": "person or organization which designed the object. For buildings use \"architect\" (Property:P84)"
+    },
+    "P629": {
+        "itemLabel": "edition or translation of",
+        "itemComment": "-",
+        "itemDescription": "is an edition or translation of this entity"
+    },
+    "P859": {
+        "itemLabel": "sponsor",
+        "itemComment": "-",
+        "itemDescription": "organization or individual that sponsors this item"
+    },
+    "P1001": {
+        "itemLabel": "applies to jurisdiction",
+        "itemComment": "-",
+        "itemDescription": "the item (institution, law, public office, public register, etc) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, etc)"
+    },
+    "P8001": {
+        "itemLabel": "endorsed by",
+        "itemComment": "-",
+        "itemDescription": "public support given by a person or organization to a political or other campaign"
+    },
+    "P664": {
+        "itemLabel": "organizer",
+        "itemComment": "-",
+        "itemDescription": "person or institution organizing an event"
+    },
+    "P8363": {
+        "itemLabel": "study type",
+        "itemComment": "-",
+        "itemDescription": "classification system for clinical trial, experiment, research"
+    },
+    "P1299": {
+        "itemLabel": "depicted by",
+        "itemComment": "-",
+        "itemDescription": "object depicting this subject (object being creative works such as books, films, paintings)"
+    },
+    "P414": {
+        "itemLabel": "stock exchange",
+        "itemComment": "-",
+        "itemDescription": "exchange on which this company is traded"
+    },
+    "P937": {
+        "itemLabel": "work location",
+        "itemComment": "-",
+        "itemDescription": "location where persons or organisations were actively participating in employment, business or other work"
+    },
+    "P17": {
+        "itemLabel": "country",
+        "itemComment": "-",
+        "itemDescription": "sovereign state that this item is in (not to be used for human beings)"
+    },
+    "P2670": {
+        "itemLabel": "has part(s) of the class",
+        "itemComment": "-",
+        "itemDescription": "the subject has one or more parts of the object class"
+    },
+    "P2210": {
+        "itemLabel": "relative to",
+        "itemComment": "-",
+        "itemDescription": "qualifier: what a statement value is relative to"
+    },
+    "P159": {
+        "itemLabel": "headquarters location",
+        "itemComment": "-",
+        "itemDescription": "city or town where an organization's headquarters is or has been situated. Use P276 qualifier for specific building"
+    },
+    "P1434": {
+        "itemLabel": "takes place in fictional universe",
+        "itemComment": "-",
+        "itemDescription": "the subject is a work describing a fictional universe, i.e. whose plot occurs in this universe"
+    },
+    "P9234": {
+        "itemLabel": "supplement to",
+        "itemComment": "-",
+        "itemDescription": "subject work or edition updates or otherwise complements the object work or edition"
+    },
+    "P10754": {
+        "itemLabel": "distributed from",
+        "itemComment": "-",
+        "itemDescription": "place or location where a good or service is distributed from"
+    },
+    "P180": {
+        "itemLabel": "depicts",
+        "itemComment": "-",
+        "itemDescription": "entity visually depicted in an image, literarily described in a work, or otherwise incorporated into an audiovisual or other medium; see also P921, 'main subject'"
+    },
+    "P1557": {
+        "itemLabel": "manifestation of",
+        "itemComment": "-",
+        "itemDescription": "inherent and characteristic embodiment of a given concept"
+    },
+    "P1716": {
+        "itemLabel": "brand",
+        "itemComment": "-",
+        "itemDescription": "commercial brand associated with the item"
+    },
+    "P8431": {
+        "itemLabel": "course",
+        "itemComment": "-",
+        "itemDescription": "course type of a food dish (appetizer, dessert, drink, main course, salad, side dish)"
+    },
+    "P2283": {
+        "itemLabel": "uses",
+        "itemComment": "-",
+        "itemDescription": "item or concept used by the subject or in the operation (see also instrument [P1303] and armament [P520])"
+    },
+    "P167": {
+        "itemLabel": "structure replaced by",
+        "itemComment": "-",
+        "itemDescription": "the item which replaced this building or structure, at the same geographic location"
+    },
+    "P2512": {
+        "itemLabel": "has spin-off",
+        "itemComment": "-",
+        "itemDescription": "works that are spin-offs of this item"
+    },
+    "P2159": {
+        "itemLabel": "computes solution to",
+        "itemComment": "-",
+        "itemDescription": "problem that this algorithm or method solves"
+    },
+    "P2541": {
+        "itemLabel": "operating area",
+        "itemComment": "-",
+        "itemDescription": "geographic area or jurisdiction an organisation or industry operates in, serves, or has responsibility for"
+    },
+    "P797": {
+        "itemLabel": "authority",
+        "itemComment": "-",
+        "itemDescription": "entity having executive power on given entity"
+    },
+    "P921": {
+        "itemLabel": "main subject",
+        "itemComment": "-",
+        "itemDescription": "primary topic of a work or act of communication"
+    },
+    "P501": {
+        "itemLabel": "enclave within",
+        "itemComment": "-",
+        "itemDescription": "territory is entirely surrounded (enclaved) by the other territory"
+    },
+    "P4584": {
+        "itemLabel": "first appearance",
+        "itemComment": "-",
+        "itemDescription": "work in which a fictional/mythical character or entity first appeared"
+    },
+    "P437": {
+        "itemLabel": "distribution format",
+        "itemComment": "-",
+        "itemDescription": "method (or type) of distribution for the subject"
+    },
+    "P2094": {
+        "itemLabel": "competition class",
+        "itemComment": "-",
+        "itemDescription": "official classification by a regulating body under which the subject (events, teams, participants, or equipment) qualifies for inclusion"
+    },
+    "P1429": {
+        "itemLabel": "has pet",
+        "itemComment": "-",
+        "itemDescription": "pet that a person owns"
+    },
+    "P301": {
+        "itemLabel": "category's main topic",
+        "itemComment": "-",
+        "itemDescription": "primary topic of the subject Wikimedia category"
+    },
+    "P135": {
+        "itemLabel": "movement",
+        "itemComment": "-",
+        "itemDescription": "literary, artistic, scientific or philosophical movement or scene associated with this person or work. For political ideologies use P1142."
+    },
+    "P366": {
+        "itemLabel": "has use",
+        "itemComment": "-",
+        "itemDescription": "main use of the subject (includes current and former usage)"
+    },
+    "P241": {
+        "itemLabel": "military branch",
+        "itemComment": "-",
+        "itemDescription": "branch to which this military unit, award, office, or person belongs, e.g. Royal Navy"
+    },
+    "P1830": {
+        "itemLabel": "owner of",
+        "itemComment": "-",
+        "itemDescription": "entities owned by the subject"
+    },
+    "P25": {
+        "itemLabel": "mother",
+        "itemComment": "-",
+        "itemDescription": "female parent of the subject. For stepmother, use \"stepparent\" (P3448)"
+    },
+    "P8571": {
+        "itemLabel": "external auditor",
+        "itemComment": "-",
+        "itemDescription": "external company or person appointed to audit a business' or an organization's books, requirement for many companies"
+    },
+    "P36": {
+        "itemLabel": "capital",
+        "itemComment": "-",
+        "itemDescription": "seat of government of a country, province, state or other type of administrative territorial entity"
+    },
+    "P461": {
+        "itemLabel": "opposite of",
+        "itemComment": "-",
+        "itemDescription": "item that is in some way the opposite of this item"
+    },
+    "P7719": {
+        "itemLabel": "generalization of",
+        "itemComment": "-",
+        "itemDescription": "theory/notion/statement/algorithm which in some sense this theory/notion/statement/algorithm generalizes"
+    },
+    "P2416": {
+        "itemLabel": "sports discipline competed in",
+        "itemComment": "-",
+        "itemDescription": "discipline an athlete competed in within a sport"
+    },
+    "P479": {
+        "itemLabel": "input device",
+        "itemComment": "-",
+        "itemDescription": "input device used to interact with a software or a device"
+    },
+    "P136": {
+        "itemLabel": "genre",
+        "itemComment": "-",
+        "itemDescription": "creative work's genre or an artist's field of work (P101). Use main subject (P921) to relate creative works to their topic"
+    },
+    "P2959": {
+        "itemLabel": "permanent duplicated item",
+        "itemComment": "-",
+        "itemDescription": "this item duplicates another item and the two can't be merged, as one Wikimedia project includes two pages, e.g. in different scripts or languages (only applies to some wikis, e.g.: cdowiki, gomwiki, nanwiki). Use P31=Q17362920 for other wikis."
+    },
+    "P2868": {
+        "itemLabel": "subject has role",
+        "itemComment": "-",
+        "itemDescription": "role held by the item the statement appears on (\"subject\") in the context of that statement. For the role of the statement object/value, use P3831 (\"object has role\"). For acting roles, use P453 (\"character role\"). For persons, use P39."
+    },
+    "P495": {
+        "itemLabel": "country of origin",
+        "itemComment": "-",
+        "itemDescription": "country of origin of this item (creative work, food, phrase, product, etc.)"
+    },
+    "P460": {
+        "itemLabel": "said to be the same as",
+        "itemComment": "-",
+        "itemDescription": "this item is said to be the same as that item, though this may be uncertain or disputed"
+    },
+    "P7047": {
+        "itemLabel": "enemy",
+        "itemComment": "-",
+        "itemDescription": "opponent character or group of this fictive character or group"
+    },
+    "P199": {
+        "itemLabel": "organizational divisions",
+        "itemComment": "-",
+        "itemDescription": "organizational divisions of this organization (which are not independent legal entities)"
+    },
+    "P47": {
+        "itemLabel": "shares border with",
+        "itemComment": "-",
+        "itemDescription": "countries or administrative subdivisions, of equal level, that this item borders, either by land or water. A single common point is enough."
+    },
+    "P3095": {
+        "itemLabel": "practiced by",
+        "itemComment": "-",
+        "itemDescription": "type of agents that study this subject or work in this field"
+    },
+    "P751": {
+        "itemLabel": "introduced feature",
+        "itemComment": "-",
+        "itemDescription": "feature introduced by this version of a product item"
+    },
+    "P400": {
+        "itemLabel": "platform",
+        "itemComment": "-",
+        "itemDescription": "platform for which a work was developed or released, or the specific platform version of a software product"
+    },
+    "P2992": {
+        "itemLabel": "software quality assurance",
+        "itemComment": "-",
+        "itemDescription": "quality assurance process in place for a particular software"
+    },
+    "P137": {
+        "itemLabel": "operator",
+        "itemComment": "-",
+        "itemDescription": "person, profession, organization or entity that operates the equipment, facility, or service"
+    },
+    "P828": {
+        "itemLabel": "has cause",
+        "itemComment": "-",
+        "itemDescription": "underlying cause, entity that ultimately resulted in this effect"
+    },
+    "P2650": {
+        "itemLabel": "interested in",
+        "itemComment": "-",
+        "itemDescription": "item of special or vested interest to this person or organisation"
+    },
+    "P1080": {
+        "itemLabel": "from narrative universe",
+        "itemComment": "-",
+        "itemDescription": "subject's fictional entity is in the object narrative. See also P1441 (present in work) and P1445 (fictional universe described in)"
+    },
+    "P1414": {
+        "itemLabel": "GUI toolkit or framework",
+        "itemComment": "-",
+        "itemDescription": "framework or toolkit a program uses to display the graphical user interface"
+    },
+    "P8324": {
+        "itemLabel": "funder",
+        "itemComment": "-",
+        "itemDescription": "entity that gives money to a person, organization, or project for a specific purpose"
+    },
+    "P175": {
+        "itemLabel": "performer",
+        "itemComment": "-",
+        "itemDescription": "actor, musician, band or other performer associated with this role or musical work"
+    },
+    "P3712": {
+        "itemLabel": "has goal",
+        "itemComment": "-",
+        "itemDescription": "desired result or outcome"
+    },
+    "P767": {
+        "itemLabel": "contributor to the creative work or subject",
+        "itemComment": "-",
+        "itemDescription": "person or organization that contributed to a subject: co-creator of a creative work or subject"
+    },
+    "P880": {
+        "itemLabel": "CPU",
+        "itemComment": "-",
+        "itemDescription": "central processing unit found within the subject item"
+    },
+    "P1327": {
+        "itemLabel": "partner in business or sport",
+        "itemComment": "-",
+        "itemDescription": "professional collaborator"
+    },
+    "P610": {
+        "itemLabel": "highest point",
+        "itemComment": "-",
+        "itemDescription": "point with highest elevation in a region or path"
+    },
+    "P1416": {
+        "itemLabel": "affiliation",
+        "itemComment": "-",
+        "itemDescription": "organization that a person or organization is affiliated with (not necessarily member of or employed by)"
+    },
+    "P106": {
+        "itemLabel": "occupation",
+        "itemComment": "-",
+        "itemDescription": "occupation of a person. See also \"field of work\" (Property:P101), \"position held\" (Property:P39). Not for groups of people. There, use \"field of work\" (Property:P101), \"industry\" (Property:P452), \"members have occupation\" (Property:P3989)."
+    },
+    "P6440": {
+        "itemLabel": "maintenance method",
+        "itemComment": "-",
+        "itemDescription": "method or steps that maintain, clean up, or repair this item and lengthens its lifespan"
+    },
+    "P1383": {
+        "itemLabel": "contains settlement",
+        "itemComment": "-",
+        "itemDescription": "settlement which an administrative division contains"
+    },
+    "P4387": {
+        "itemLabel": "update method",
+        "itemComment": "-",
+        "itemDescription": "method used by an app/OS to receive updates or self-update"
+    },
+    "P3447": {
+        "itemLabel": "mirrors data from",
+        "itemComment": "-",
+        "itemDescription": "the website automatically crawls or mirrors another website as its data source"
+    },
+    "P2851": {
+        "itemLabel": "payment types accepted",
+        "itemComment": "-",
+        "itemDescription": "types of payment accepted by a venue"
+    },
+    "P176": {
+        "itemLabel": "manufacturer",
+        "itemComment": "-",
+        "itemDescription": "(main or final) manufacturer or producer of this product"
+    },
+    "P912": {
+        "itemLabel": "has facility",
+        "itemComment": "-",
+        "itemDescription": "the subject item has this type of facility, e.g. toilet, car park"
+    },
+    "P4552": {
+        "itemLabel": "mountain range",
+        "itemComment": "-",
+        "itemDescription": "range or subrange to which the geographical item belongs"
+    },
+    "P150": {
+        "itemLabel": "contains the administrative territorial entity",
+        "itemComment": "-",
+        "itemDescription": "(list of) direct subdivisions of an administrative territorial entity"
+    },
+    "P2184": {
+        "itemLabel": "history of topic",
+        "itemComment": "-",
+        "itemDescription": "item about the historical development of a subject's topic, example: \"history of Argentina\" for \"Argentina\". To list key events of the topic, use \"significant event\" (P793)"
+    },
+    "P13047": {
+        "itemLabel": "leased to",
+        "itemComment": "-",
+        "itemDescription": "person or organisation that holds or was granted a lease on the subject"
+    },
+    "P248": {
+        "itemLabel": "stated in",
+        "itemComment": "-",
+        "itemDescription": "to be used in the references field to refer to the information document or database in which a claim is made; for qualifiers use P805; for the type of document in which a claim is made use P3865"
+    },
+    "P276": {
+        "itemLabel": "location",
+        "itemComment": "-",
+        "itemDescription": "location of the object, structure or event; use P131 to indicate the containing administrative entity, P8138 for statistical entities, or P706 for geographic entities; use P7153 for locations associated with the object"
+    },
+    "P3158": {
+        "itemLabel": "enclosure",
+        "itemComment": "-",
+        "itemDescription": "the type of structure enclosing another structure"
+    },
+    "P1408": {
+        "itemLabel": "licensed to broadcast to",
+        "itemComment": "-",
+        "itemDescription": "place that a radio/TV station is licensed/required to broadcast to"
+    },
+    "P425": {
+        "itemLabel": "field of this occupation",
+        "itemComment": "-",
+        "itemDescription": "field corresponding to this occupation or profession (use only for occupations/professions - for people use Property:P101, for companies use P452)"
+    },
+    "P408": {
+        "itemLabel": "software engine",
+        "itemComment": "-",
+        "itemDescription": "software engine employed by the subject item"
+    },
+    "P57": {
+        "itemLabel": "director",
+        "itemComment": "-",
+        "itemDescription": "director(s) of film, TV-series, stageplay, video game or similar"
+    },
+    "P1382": {
+        "itemLabel": "partially coincident with",
+        "itemComment": "-",
+        "itemDescription": "object that partially overlaps with the subject in its instances, parts, or members"
+    },
+    "P7959": {
+        "itemLabel": "historic county",
+        "itemComment": "-",
+        "itemDescription": "traditional, geographical division of Great Britain and Ireland"
+    },
+    "P275": {
+        "itemLabel": "copyright license",
+        "itemComment": "-",
+        "itemDescription": "license under which this copyrighted work is released"
+    },
+    "P2500": {
+        "itemLabel": "league level below",
+        "itemComment": "-",
+        "itemDescription": "the league below this sports league"
+    },
+    "P2633": {
+        "itemLabel": "geography of topic",
+        "itemComment": "-",
+        "itemDescription": "item that deals with the geography of the subject. Sample: \"Rio de Janeiro\" uses this property with value \"geography of Rio de Janeiro\" (Q10288853). For the location of a subject, use \"location\" (P276)."
+    },
+    "P1454": {
+        "itemLabel": "legal form",
+        "itemComment": "-",
+        "itemDescription": "legal form of an entity"
+    },
+    "P1142": {
+        "itemLabel": "political ideology",
+        "itemComment": "-",
+        "itemDescription": "political ideology of an organization or person or of a work (such as a newspaper)"
+    },
+    "P10568": {
+        "itemLabel": "maintains linking to",
+        "itemComment": "-",
+        "itemDescription": "this collection resource maintains a consistent linking to this other collection resource"
+    },
+    "P747": {
+        "itemLabel": "has edition or translation",
+        "itemComment": "-",
+        "itemDescription": "item that is an edition or translation of this item"
+    },
+    "P3342": {
+        "itemLabel": "significant person",
+        "itemComment": "-",
+        "itemDescription": "person linked to the item in any possible way"
+    },
+    "P1445": {
+        "itemLabel": "fictional universe described in",
+        "itemComment": "-",
+        "itemDescription": "to link a fictional universe with a work that describes it: <universe> \"described in the work:\" <work>"
+    },
+    "P2499": {
+        "itemLabel": "league level above",
+        "itemComment": "-",
+        "itemDescription": "the league above this sports league"
+    },
+    "P4330": {
+        "itemLabel": "contains",
+        "itemComment": "-",
+        "itemDescription": "contents, item or substance located within this wrapping item, but not part of this receptacle or container; does not describe the ingredients or components of this container"
+    },
+    "P674": {
+        "itemLabel": "characters",
+        "itemComment": "-",
+        "itemDescription": "characters which appear in this item (like plays, operas, operettas, books, comics, films, TV series, video games)"
+    },
+    "P2825": {
+        "itemLabel": "via",
+        "itemComment": "-",
+        "itemDescription": "intermediate point on a journey - stopover location, waystation or routing point"
+    },
+    "P8345": {
+        "itemLabel": "media franchise",
+        "itemComment": "-",
+        "itemDescription": "this creative work belongs to this media franchise"
+    },
+    "P1433": {
+        "itemLabel": "published in",
+        "itemComment": "-",
+        "itemDescription": "larger work that a given work was published in, like a journal, a website, a collection, a book or a music album"
+    },
+    "P551": {
+        "itemLabel": "residence",
+        "itemComment": "-",
+        "itemDescription": "the place where the person is or has been, resident"
+    },
+    "P3719": {
+        "itemLabel": "regulated by",
+        "itemComment": "-",
+        "itemDescription": "organization that acts as regulator of an activity, financial market, or stock exchange"
+    },
+    "P737": {
+        "itemLabel": "influenced by",
+        "itemComment": "-",
+        "itemDescription": "the subject (person, idea, etc.) was influenced or inspired by this object entity, e.g. \"Heidegger was influenced by Aristotle\""
+    },
+    "P4290": {
+        "itemLabel": "official app",
+        "itemComment": "-",
+        "itemDescription": "official app for this organization or other entity (a downloadable application for Android, iOS, etc.)"
+    },
+    "P1547": {
+        "itemLabel": "depends on software",
+        "itemComment": "-",
+        "itemDescription": "subject software depends on object software"
+    },
+    "P2596": {
+        "itemLabel": "culture",
+        "itemComment": "-",
+        "itemDescription": "human culture or people (or several cultures) associated with this item"
+    },
+    "P4428": {
+        "itemLabel": "implementation of",
+        "itemComment": "-",
+        "itemDescription": "implementation of a standard, program, specification or programming language"
+    },
+    "P10695": {
+        "itemLabel": "introduced in",
+        "itemComment": "-",
+        "itemDescription": "work that introduced this concept or feature"
+    },
+    "P449": {
+        "itemLabel": "original broadcaster",
+        "itemComment": "-",
+        "itemDescription": "network(s) or service(s) that originally broadcast a radio or television program"
+    },
+    "P840": {
+        "itemLabel": "narrative location",
+        "itemComment": "-",
+        "itemDescription": "the narrative of the work is set in this location"
+    },
+    "P2079": {
+        "itemLabel": "fabrication method",
+        "itemComment": "-",
+        "itemDescription": "method, process or technique used to grow, cook, weave, build, assemble, manufacture the item"
+    },
+    "P3438": {
+        "itemLabel": "vehicle normally used",
+        "itemComment": "-",
+        "itemDescription": "vehicle the subject normally uses"
+    },
+    "P22": {
+        "itemLabel": "father",
+        "itemComment": "-",
+        "itemDescription": "male parent of the subject. For stepfather, use \"stepparent\" (P3448)"
+    },
+    "P131": {
+        "itemLabel": "located in the administrative territorial entity",
+        "itemComment": "-",
+        "itemDescription": "the item is located on the territory of the following administrative entity. Use P276 for specifying locations that are non-administrative places and for items about events. Use P1382 if the item falls only partially into the administrative entity."
+    },
+    "P272": {
+        "itemLabel": "production company",
+        "itemComment": "-",
+        "itemDescription": "company that produced this film, audio or performing arts work"
+    },
+    "P6889": {
+        "itemLabel": "microarchitecture",
+        "itemComment": "-",
+        "itemDescription": "processor microarchitecture"
+    },
+    "P618": {
+        "itemLabel": "source of energy",
+        "itemComment": "-",
+        "itemDescription": "describes the source of energy an animated object (machine or animal) uses"
+    },
+    "P3113": {
+        "itemLabel": "does not have part",
+        "itemComment": "-",
+        "itemDescription": "expected part that the item does not have (for qualities, use P6477)"
+    },
+    "P2361": {
+        "itemLabel": "online service",
+        "itemComment": "-",
+        "itemDescription": "online service or online service provider tied to an item"
+    },
+    "P11197": {
+        "itemLabel": "build system",
+        "itemComment": "-",
+        "itemDescription": "build system used by a software during its development"
+    },
+    "P5008": {
+        "itemLabel": "on focus list of Wikimedia project",
+        "itemComment": "-",
+        "itemDescription": "property to indicate that an item is of particular interest for a Wikimedia project. This property does not add notability. Items should not be created with this property if they are not notable for Wikidata. See also P6104, P972, P2354."
+    },
+    "P121": {
+        "itemLabel": "item operated",
+        "itemComment": "-",
+        "itemDescription": "equipment, installation or service operated by the subject"
+    },
+    "P26": {
+        "itemLabel": "spouse",
+        "itemComment": "-",
+        "itemDescription": "the subject has the object as their spouse (husband, wife, partner, etc.). Use \"unmarried partner\" (P451) for non-married companions"
+    },
+    "P291": {
+        "itemLabel": "place of publication",
+        "itemComment": "-",
+        "itemDescription": "geographical place of publication of the edition (use 1st edition when referring to works)"
+    },
+    "P179": {
+        "itemLabel": "part of the series",
+        "itemComment": "-",
+        "itemDescription": "series which contains the subject"
+    },
+    "P793": {
+        "itemLabel": "significant event",
+        "itemComment": "-",
+        "itemDescription": "significant or notable events associated with the subject"
+    },
+    "P2860": {
+        "itemLabel": "cites work",
+        "itemComment": "-",
+        "itemDescription": "citation from one creative or scholarly work to another"
+    },
+    "P915": {
+        "itemLabel": "filming location",
+        "itemComment": "-",
+        "itemDescription": "actual place where this scene/film was shot. For the setting, use \"narrative location\" (P840)"
+    },
+    "P170": {
+        "itemLabel": "creator",
+        "itemComment": "-",
+        "itemDescription": "maker of this creative work or other object (where no more specific property exists)"
+    },
+    "P2579": {
+        "itemLabel": "studied by",
+        "itemComment": "-",
+        "itemDescription": "subject is studied by this science or domain"
+    },
+    "P6477": {
+        "itemLabel": "does not have characteristic",
+        "itemComment": "-",
+        "itemDescription": "expected quality that the item does not possess"
+    }
+}

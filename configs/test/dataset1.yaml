@@ -1,0 +1,10 @@
+general:
+  pbar: True
+  in_dir: data/raw/pruning-datasets/dataset1
+  out_dir: data/processed/test-dataset1
+dataset:
+  name: dataset1
+  filtered: True
+  size: 50
+wrapper:
+  url: https://query.wikidata.org/sparql

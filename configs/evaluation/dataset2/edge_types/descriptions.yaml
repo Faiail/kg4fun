@@ -1,0 +1,27 @@
+general:
+  out_dir: reports/metrics/dataset2/edge_types
+  pbar: True
+  out_fname: descriptions.json
+data:
+  name: EdgeTypeDataset
+  config:
+    generated_edge_types: data/processed/dataset2/edge_types/summarization/qwen-8b/edge_type_info.json
+    edge_type_info: data/processed/dataset2/edges/edge_info.json
+    connected_components: data/processed/dataset2/edges/connected_components.json
+    target_content_key: itemDescription
+loader:
+  batch_size: 10
+  shuffle: False
+  drop_last: False
+  num_workers: 8
+metrics:
+  component_sem_score:
+    name: DecisionSEMScore
+    config:
+      model_name: &model_name all-MiniLM-L6-v2
+      device: &device cuda:1
+      gt_key: &positive_key positive
+  component_rouge_score:
+    name: DecisionROUGEScore
+    config:
+      gt_key: *positive_key

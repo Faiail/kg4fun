@@ -1,0 +1,89 @@
+general:
+  out_dir: data/processed/dataset1/edge_types/summarization/qwen-8b
+  pbar: True
+  out_fname: edge_type_info.json
+data:
+  name: EdgeTypeDataset
+  config:
+    connected_components: data/processed/dataset1/edges/connected_components.json
+    edge_info: data/processed/dataset1/edges/edge_info.json
+    edge_types: data/processed/dataset1/edges/edge_types.json
+    node_summaries: data/processed/dataset1/node_types/summarization/qwen3-8b/node_type_info.json
+loader:
+  batch_size: 4
+  shuffle: False
+  num_workers: 16
+  drop_last: False
+model:
+  name: HuggingFaceSummarizer
+  config:
+    model_name: AutoModelForCausalLM
+    model_config:
+      pretrained_model_name_or_path: &llm_name Qwen/Qwen3-8B
+      device_map: cuda:1
+    quantization_config:
+      load_in_4bit: True
+      bnb_4bit_compute_dtype: bfloat16
+      bnb_4bit_use_double_quant: True
+      bnb_4bit_quant_type: nf4
+    shots:
+      0: |
+        InfluenceBasedOn\nMobile phone standards influence or are influenced by other standards or works they are based on, showing a bidirectional relationship between foundational and derivative technologies.
+      1: |
+        ContradictoryStandard\nMobile phone standards that are either stated to be the same or different from each other, reflecting conflicting or uncertain relationships between telecommunications data transmission standards.
+      2: |
+        FollowsInStandard\nMobile phone standards are sequentially followed by subsequent standards in the evolution of mobile data and voice communication technologies.
+      3: |
+        PartOf\nMobile phone standards are part of each other, indicating a hierarchical or component relationship within telecommunications standards.
+    system_prompt: |
+      You are an ontology edge type generator.
+
+      Your task is to merge different edge types into a single edge. The edges that will be provided are just among two classes.
+      It may also be that both classes for each provided edge type are the same. In this case edge types are just self loops.
+      You should still merge them.
+
+      To underline semantic relationships between edge types, you will be provided with an additional list of relationships between predicates (PIDs) that are involved in the provided edge types. These relationships can be of different types, such as "related_property" or "subproperty_of", and they indicate how the properties are semantically connected.
+
+      Your task is to generate exactly two fields:
+
+      1. EdgeTypeName
+      2. EdgeTypeDescription
+
+      Input:
+      Each prompt will contain:
+      - A list of edge types in the format: (head node type, PID, tail node type).
+      - A list of relationships between PIDs (e.g., related_property, subproperty_of), indicating how the properties are semantically connected, expressed in the format (PID_h, rel, PID_t).
+
+      Output Requirements:
+      - Output exactly two lines.
+      - Line 1: The EdgeTypeName — a very concise and informative label (preferably 2–6 words).
+      - Line 2: The EdgeTypeDescription — a clear and coherent description elaborating the meaning inferred from the provided edges and PID relationships.
+      - The EdgeTypeDescription should be a natural language explanation of the relationship between the head and tail node types, informed by the PID and its relationships.
+      - Do not include any additional text.
+      - Do not include explanations, reasoning, formatting, bullet points, or commentary.
+      - Do not repeat the input.
+      - Do not prefix the lines with field names.
+      - The output must be plain text only.
+
+      Output Format:
+      EdgeTypeName
+      EdgeTypeDescription
+
+      Generate only the two required lines and nothing else.
+    tokenizer_name: AutoTokenizer
+    tokenizer_config:
+      pretrained_model_name_or_path: *llm_name
+      padding_side: left
+    tokenizer_kwargs:
+      return_tensors: pt
+      padding: True
+      truncation: True
+    generation_kwargs:
+      max_new_tokens: 500
+      temperature: 0.1
+      do_sample: False
+    chat_template_kwargs:
+      tokenize: False
+      add_generation_prompt: False
+      enable_thinking: False
+    think: False

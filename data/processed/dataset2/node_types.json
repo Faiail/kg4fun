@@ -1,0 +1,5132 @@
+{
+    "Q28406404": {
+        "positive": [
+            {
+                "QID": "Q28051323",
+                "label": "video-conferencing software",
+                "depth": 1
+            },
+            {
+                "QID": "Q19967801",
+                "label": "online service",
+                "depth": 1
+            },
+            {
+                "QID": "Q474157",
+                "label": "collaborative software",
+                "depth": 1
+            },
+            {
+                "QID": "Q2462003",
+                "label": "instant messaging client",
+                "depth": 1
+            },
+            {
+                "QID": "Q15548100",
+                "label": "free instant messaging client",
+                "depth": 2
+            },
+            {
+                "QID": "Q12313595",
+                "label": "collaborative real-time editor",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q28135300",
+                "label": "Workplace from Meta",
+                "depth": 2
+            },
+            {
+                "QID": "Q734413",
+                "label": "LAN messenger",
+                "depth": 2
+            },
+            {
+                "QID": "Q7705753",
+                "label": "test automation management tool",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 0
+    },
+    "Q17130715": {
+        "positive": [
+            {
+                "QID": "Q620615",
+                "label": "mobile app",
+                "depth": 1
+            },
+            {
+                "QID": "Q43229",
+                "label": "organization",
+                "depth": 1
+            },
+            {
+                "QID": "Q2462003",
+                "label": "instant messaging client",
+                "depth": 1
+            },
+            {
+                "QID": "Q166142",
+                "label": "application",
+                "depth": 1
+            },
+            {
+                "QID": "Q58542",
+                "label": "multi protocol instant messaging clients",
+                "depth": 2
+            },
+            {
+                "QID": "Q15548100",
+                "label": "free instant messaging client",
+                "depth": 2
+            },
+            {
+                "QID": "Q10417670",
+                "label": "IRC client",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q1132944",
+                "label": "Science shop",
+                "depth": 2
+            },
+            {
+                "QID": "Q15505266",
+                "label": "Login manager",
+                "depth": 2
+            },
+            {
+                "QID": "Q3023650",
+                "label": "social rental office",
+                "depth": 2
+            },
+            {
+                "QID": "Q2401485",
+                "label": "expedition",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 1
+    },
+    "Q23572": {
+        "positive": [
+            {
+                "QID": "Q5398426",
+                "label": "television series",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 2
+    },
+    "Q133215": {
+        "positive": [
+            {
+                "QID": "Q6664710",
+                "label": "Locals casino",
+                "depth": 1
+            },
+            {
+                "QID": "Q7279719",
+                "label": "racino",
+                "depth": 1
+            },
+            {
+                "QID": "Q655686",
+                "label": "commercial building",
+                "depth": 1
+            },
+            {
+                "QID": "Q16852719",
+                "label": "casino hotel",
+                "depth": 1
+            },
+            {
+                "QID": "Q7338100",
+                "label": "Riverboat casino",
+                "depth": 1
+            },
+            {
+                "QID": "Q770881",
+                "label": "online casino",
+                "depth": 1
+            },
+            {
+                "QID": "Q32350958",
+                "label": "bingo hall",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 3
+    },
+    "Q105674": {
+        "positive": [
+            {
+                "QID": "Q2312410",
+                "label": "sports discipline",
+                "depth": 1
+            },
+            {
+                "QID": "Q2093999",
+                "label": "trail running",
+                "depth": 1
+            },
+            {
+                "QID": "Q349",
+                "label": "sport",
+                "depth": 1
+            },
+            {
+                "QID": "Q3694563",
+                "label": "snowshoe running",
+                "depth": 1
+            },
+            {
+                "QID": "Q2167372",
+                "label": "mountain running",
+                "depth": 1
+            },
+            {
+                "QID": "Q12014207",
+                "label": "trekking",
+                "depth": 2
+            },
+            {
+                "QID": "Q212434",
+                "label": "Olympic sport",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q792635",
+                "label": "axe throwing",
+                "depth": 2
+            },
+            {
+                "QID": "Q15621650",
+                "label": "skiing",
+                "depth": 2
+            },
+            {
+                "QID": "Q17080486",
+                "label": "Twirling",
+                "depth": 2
+            },
+            {
+                "QID": "Q902378",
+                "label": "equestrian sport",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 4
+    },
+    "Q2539": {
+        "positive": [
+            {
+                "QID": "Q11660",
+                "label": "artificial intelligence",
+                "depth": 1
+            },
+            {
+                "QID": "Q21198",
+                "label": "computer science",
+                "depth": 1
+            },
+            {
+                "QID": "Q11862829",
+                "label": "academic discipline",
+                "depth": 1
+            },
+            {
+                "QID": "Q192776",
+                "label": "artificial neural network",
+                "depth": 1
+            },
+            {
+                "QID": "Q6027324",
+                "label": "transfer learning",
+                "depth": 1
+            },
+            {
+                "QID": "Q1152135",
+                "label": "unsupervised learning",
+                "depth": 1
+            },
+            {
+                "QID": "Q17013334",
+                "label": "feature learning",
+                "depth": 1
+            },
+            {
+                "QID": "Q378859",
+                "label": "pattern recognition",
+                "depth": 1
+            },
+            {
+                "QID": "Q54811238",
+                "label": "graph convolutional network",
+                "depth": 2
+            },
+            {
+                "QID": "Q4387017",
+                "label": "mathematical sciences",
+                "depth": 2
+            },
+            {
+                "QID": "Q55441204",
+                "label": "3D-convolutional neural network",
+                "depth": 2
+            },
+            {
+                "QID": "Q5441227",
+                "label": "feedforward neural network",
+                "depth": 2
+            },
+            {
+                "QID": "Q20722857",
+                "label": "Deep Q-Network",
+                "depth": 2
+            },
+            {
+                "QID": "Q3478658",
+                "label": "knowledge representation and reasoning",
+                "depth": 2
+            },
+            {
+                "QID": "Q5514059",
+                "label": "symbolic artificial intelligence",
+                "depth": 2
+            },
+            {
+                "QID": "Q30642",
+                "label": "natural language processing",
+                "depth": 2
+            },
+            {
+                "QID": "Q1936384",
+                "label": "area of mathematics",
+                "depth": 2
+            },
+            {
+                "QID": "Q4875410",
+                "label": "Bayesian confidence propagation neural network",
+                "depth": 2
+            },
+            {
+                "QID": "Q7617824",
+                "label": "stochastic neural network",
+                "depth": 2
+            },
+            {
+                "QID": "Q40890078",
+                "label": "Explainable AI",
+                "depth": 2
+            },
+            {
+                "QID": "Q1948408",
+                "label": "text segmentation",
+                "depth": 3
+            },
+            {
+                "QID": "Q2991667",
+                "label": "multilayer perceptron",
+                "depth": 3
+            },
+            {
+                "QID": "Q690207",
+                "label": "perceptron",
+                "depth": 3
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q55693888",
+                "label": "Bulgarian Philology",
+                "depth": 2
+            },
+            {
+                "QID": "Q55693875",
+                "label": "International Economic Relationships",
+                "depth": 2
+            },
+            {
+                "QID": "Q19935939",
+                "label": "branch of geography",
+                "depth": 2
+            },
+            {
+                "QID": "Q55693892",
+                "label": "Fishery and Aquaculture",
+                "depth": 2
+            },
+            {
+                "QID": "Q5064071",
+                "label": "cerebellar model articulation controller",
+                "depth": 2
+            },
+            {
+                "QID": "Q4740894",
+                "label": "fish disease and parasites",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 5
+    },
+    "Q188273": {
+        "positive": [
+            {
+                "QID": "Q210167",
+                "label": "video game developer",
+                "depth": 1
+            },
+            {
+                "QID": "Q1137109",
+                "label": "video game publisher",
+                "depth": 1
+            },
+            {
+                "QID": "Q891723",
+                "label": "public company",
+                "depth": 1
+            },
+            {
+                "QID": "Q43229",
+                "label": "organization",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q11507286",
+                "label": "Association japonaise de litt\u00e9rature pour enfants",
+                "depth": 2
+            },
+            {
+                "QID": "Q7248095",
+                "label": "professional services network",
+                "depth": 2
+            },
+            {
+                "QID": "Q5419285",
+                "label": "examination board",
+                "depth": 2
+            },
+            {
+                "QID": "Q6515414",
+                "label": "student welfare organisation",
+                "depth": 2
+            },
+            {
+                "QID": "Q1032372",
+                "label": "hackerspace",
+                "depth": 2
+            },
+            {
+                "QID": "Q47533065",
+                "label": "disability organization",
+                "depth": 2
+            },
+            {
+                "QID": "Q4810155",
+                "label": "Association with lucrative purpose",
+                "depth": 2
+            },
+            {
+                "QID": "Q1193702",
+                "label": "parliamentary opposition",
+                "depth": 2
+            },
+            {
+                "QID": "Q3480110",
+                "label": "Service d'inspection",
+                "depth": 2
+            },
+            {
+                "QID": "Q681615",
+                "label": "syndicate",
+                "depth": 2
+            },
+            {
+                "QID": "Q55597159",
+                "label": "Groupe de m\u00e9decine de famille",
+                "depth": 2
+            },
+            {
+                "QID": "Q18534571",
+                "label": "medical research center",
+                "depth": 2
+            },
+            {
+                "QID": "Q21428095",
+                "label": "Union d\u2019\u00e9conomie sociale",
+                "depth": 2
+            },
+            {
+                "QID": "Q1502514",
+                "label": "cooperative movement",
+                "depth": 2
+            },
+            {
+                "QID": "Q16985923",
+                "label": "Independent Monitoring Board",
+                "depth": 2
+            },
+            {
+                "QID": "Q2801262",
+                "label": "hacker group",
+                "depth": 2
+            },
+            {
+                "QID": "Q33114024",
+                "label": "exile organization",
+                "depth": 2
+            },
+            {
+                "QID": "Q5774403",
+                "label": "historical society",
+                "depth": 2
+            },
+            {
+                "QID": "Q996839",
+                "label": "fraternal organization",
+                "depth": 2
+            },
+            {
+                "QID": "Q3184737",
+                "label": "cathedral chapter",
+                "depth": 2
+            },
+            {
+                "QID": "Q877724",
+                "label": "Seniorat",
+                "depth": 2
+            },
+            {
+                "QID": "Q2820266",
+                "label": "abbaye (association)",
+                "depth": 2
+            },
+            {
+                "QID": "Q7157353",
+                "label": "peace commission",
+                "depth": 2
+            },
+            {
+                "QID": "Q5163232",
+                "label": "Consistory",
+                "depth": 2
+            },
+            {
+                "QID": "Q2069741",
+                "label": "Matha",
+                "depth": 2
+            },
+            {
+                "QID": "Q3029536",
+                "label": "direction d\u00e9partementale des territoires",
+                "depth": 2
+            },
+            {
+                "QID": "Q3023650",
+                "label": "social rental office",
+                "depth": 2
+            },
+            {
+                "QID": "Q255632",
+                "label": "cathedral works",
+                "depth": 2
+            },
+            {
+                "QID": "Q2955972",
+                "label": "chancellerie des universit\u00e9s",
+                "depth": 2
+            },
+            {
+                "QID": "Q3029462",
+                "label": "specialized directorates of fiscal control",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 6
+    },
+    "Q918": {
+        "positive": [
+            {
+                "QID": "Q620615",
+                "label": "mobile app",
+                "depth": 1
+            },
+            {
+                "QID": "Q92438",
+                "label": "microblogging",
+                "depth": 1
+            },
+            {
+                "QID": "Q3220391",
+                "label": "social networking service",
+                "depth": 1
+            },
+            {
+                "QID": "Q7858627",
+                "label": "Twitter usage",
+                "depth": 2
+            },
+            {
+                "QID": "Q17710982",
+                "label": "Twitterature",
+                "depth": 3
+            },
+            {
+                "QID": "Q7901759",
+                "label": "use of Twitter by public figures",
+                "depth": 3
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q6839279",
+                "label": "microblogging in China",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 7
+    },
+    "Q196538": {
+        "positive": [
+            {
+                "QID": "Q17092661",
+                "label": "Recurrence tracking microscope",
+                "depth": 1
+            },
+            {
+                "QID": "Q901823",
+                "label": "ultramicroscope",
+                "depth": 1
+            },
+            {
+                "QID": "Q7187868",
+                "label": "Photonic force microscope",
+                "depth": 1
+            },
+            {
+                "QID": "Q54167390",
+                "label": "lucernal microscope",
+                "depth": 1
+            },
+            {
+                "QID": "Q1981926",
+                "label": "Neutron microscope",
+                "depth": 1
+            },
+            {
+                "QID": "Q1751850",
+                "label": "optical instrument",
+                "depth": 1
+            },
+            {
+                "QID": "Q1463415",
+                "label": "inverted microscope",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q5396251",
+                "label": "erygmascope",
+                "depth": 2
+            },
+            {
+                "QID": "Q15328",
+                "label": "camera",
+                "depth": 2
+            },
+            {
+                "QID": "Q8320",
+                "label": "optical printer",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 8
+    },
+    "Q777": {
+        "positive": [
+            {
+                "QID": "Q845620",
+                "label": "mobile browser",
+                "depth": 1
+            },
+            {
+                "QID": "Q6368",
+                "label": "web browser",
+                "depth": 1
+            },
+            {
+                "QID": "Q18156733",
+                "label": "surf",
+                "depth": 2
+            },
+            {
+                "QID": "Q13733263",
+                "label": "Internet Explorer 11",
+                "depth": 2
+            },
+            {
+                "QID": "Q266990",
+                "label": "Netscape",
+                "depth": 2
+            },
+            {
+                "QID": "Q7708379",
+                "label": "text-based web browser",
+                "depth": 2
+            },
+            {
+                "QID": "Q15477174",
+                "label": "web browser based on Firefox",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q900604",
+                "label": "addres",
+                "depth": 2
+            },
+            {
+                "QID": "Q18348827",
+                "label": "headless browser",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 9
+    },
+    "Q1152227": {
+        "positive": [
+            {
+                "QID": "Q28598684",
+                "label": "branch of biology",
+                "depth": 1
+            },
+            {
+                "QID": "Q222046",
+                "label": "genomics",
+                "depth": 1
+            },
+            {
+                "QID": "Q841450",
+                "label": "toxicogenomics",
+                "depth": 2
+            },
+            {
+                "QID": "Q1068690",
+                "label": "functional genomics",
+                "depth": 2
+            },
+            {
+                "QID": "Q7322390",
+                "label": "ribonomics",
+                "depth": 2
+            },
+            {
+                "QID": "Q1147112",
+                "label": "comparative genomics",
+                "depth": 2
+            },
+            {
+                "QID": "Q903778",
+                "label": "metagenomics",
+                "depth": 2
+            },
+            {
+                "QID": "Q2091816",
+                "label": "computational genomics",
+                "depth": 2
+            },
+            {
+                "QID": "Q7170583",
+                "label": "personal genomics",
+                "depth": 2
+            },
+            {
+                "QID": "Q25303637",
+                "label": "neurogenomics",
+                "depth": 3
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q3381973",
+                "label": "phylogenomics",
+                "depth": 2
+            },
+            {
+                "QID": "Q17002728",
+                "label": "branch of botany",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 10
+    },
+    "Q746413": {
+        "positive": [
+            {
+                "QID": "Q1320047",
+                "label": "book publisher",
+                "depth": 1
+            },
+            {
+                "QID": "Q2085381",
+                "label": "publisher",
+                "depth": 1
+            },
+            {
+                "QID": "Q737498",
+                "label": "academic journal",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 11
+    },
+    "Q80131": {
+        "positive": [
+            {
+                "QID": "Q1188693",
+                "label": "mind sport",
+                "depth": 1
+            },
+            {
+                "QID": "Q2072000",
+                "label": "Three card poker",
+                "depth": 1
+            },
+            {
+                "QID": "Q1073718",
+                "label": "Chinese poker",
+                "depth": 1
+            },
+            {
+                "QID": "Q142714",
+                "label": "card game",
+                "depth": 1
+            },
+            {
+                "QID": "Q497397",
+                "label": "video poker",
+                "depth": 1
+            },
+            {
+                "QID": "Q13586511",
+                "label": "Dealer's choice",
+                "depth": 1
+            },
+            {
+                "QID": "Q1050367",
+                "label": "online poker",
+                "depth": 1
+            },
+            {
+                "QID": "Q953223",
+                "label": "stud poker",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q718",
+                "label": "chess",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 12
+    },
+    "Q37501": {
+        "positive": [
+            {
+                "QID": "Q15978715",
+                "label": "smartglasses",
+                "depth": 1
+            },
+            {
+                "QID": "Q2332595",
+                "label": "cataract glasses",
+                "depth": 1
+            },
+            {
+                "QID": "Q1065579",
+                "label": "costume accessory",
+                "depth": 1
+            },
+            {
+                "QID": "Q2143661",
+                "label": "corrective lens",
+                "depth": 1
+            },
+            {
+                "QID": "Q244570",
+                "label": "pince-nez",
+                "depth": 2
+            },
+            {
+                "QID": "Q12721",
+                "label": "monocle",
+                "depth": 2
+            },
+            {
+                "QID": "Q575092",
+                "label": "Google Glass",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q5096292",
+                "label": "Chicken eyeglasses",
+                "depth": 1
+            },
+            {
+                "QID": "Q23797",
+                "label": "contact lens",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 13
+    },
+    "Q643290": {
+        "positive": [
+            {
+                "QID": "Q740752",
+                "label": "transport company",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 14
+    },
+    "Q121416": {
+        "positive": [
+            {
+                "QID": "Q1936384",
+                "label": "area of mathematics",
+                "depth": 1
+            },
+            {
+                "QID": "Q92552",
+                "label": "Galois theory",
+                "depth": 2
+            },
+            {
+                "QID": "Q21028313",
+                "label": "global analysis",
+                "depth": 2
+            },
+            {
+                "QID": "Q1317202",
+                "label": "Hodge theory",
+                "depth": 2
+            },
+            {
+                "QID": "Q3968",
+                "label": "algebra",
+                "depth": 2
+            },
+            {
+                "QID": "Q3532114",
+                "label": "combinatorial topology",
+                "depth": 2
+            },
+            {
+                "QID": "Q212803",
+                "label": "algebraic topology",
+                "depth": 2
+            },
+            {
+                "QID": "Q76592",
+                "label": "combinatorics",
+                "depth": 2
+            },
+            {
+                "QID": "Q61793851",
+                "label": "noncommutative algebra",
+                "depth": 2
+            },
+            {
+                "QID": "Q177409",
+                "label": "projective geometry",
+                "depth": 2
+            },
+            {
+                "QID": "Q56313053",
+                "label": "Additive combinatorics",
+                "depth": 2
+            },
+            {
+                "QID": "Q621550",
+                "label": "general topology",
+                "depth": 2
+            },
+            {
+                "QID": "Q190549",
+                "label": "functional analysis",
+                "depth": 2
+            },
+            {
+                "QID": "Q2746792",
+                "label": "noncommutative geometry",
+                "depth": 2
+            },
+            {
+                "QID": "Q7825032",
+                "label": "topological dynamics",
+                "depth": 2
+            },
+            {
+                "QID": "Q1208658",
+                "label": "ring theory",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 15
+    },
+    "Q42490": {
+        "positive": [
+            {
+                "QID": "Q14406742",
+                "label": "comic book series",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 16
+    },
+    "Q52": {
+        "positive": [
+            {
+                "QID": "Q1293664",
+                "label": "open content",
+                "depth": 1
+            },
+            {
+                "QID": "Q15633582",
+                "label": "MediaWiki website",
+                "depth": 1
+            },
+            {
+                "QID": "Q14827288",
+                "label": "Wikimedia project",
+                "depth": 1
+            },
+            {
+                "QID": "Q615699",
+                "label": "Internet encyclopedia",
+                "depth": 1
+            },
+            {
+                "QID": "Q33120876",
+                "label": "Wikimedia content project",
+                "depth": 2
+            },
+            {
+                "QID": "Q33120867",
+                "label": "Wikimedia wiki",
+                "depth": 2
+            },
+            {
+                "QID": "Q11853682",
+                "label": "open encyclopedia",
+                "depth": 2
+            },
+            {
+                "QID": "Q263",
+                "label": "Wikisource",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 17
+    },
+    "Q12725": {
+        "positive": [
+            {
+                "QID": "Q1522115",
+                "label": "energy source",
+                "depth": 1
+            },
+            {
+                "QID": "Q1293220",
+                "label": "physical phenomenon",
+                "depth": 1
+            },
+            {
+                "QID": "Q55605484",
+                "label": "bioelectricity",
+                "depth": 1
+            },
+            {
+                "QID": "Q11379",
+                "label": "energy",
+                "depth": 1
+            },
+            {
+                "QID": "Q11271324",
+                "label": "energy transformation",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q18030772",
+                "label": "prise \u00e9lectrique",
+                "depth": 1
+            },
+            {
+                "QID": "Q20058155",
+                "label": "solar island",
+                "depth": 2
+            },
+            {
+                "QID": "Q351281",
+                "label": "sound energy",
+                "depth": 2
+            },
+            {
+                "QID": "Q42213",
+                "label": "work",
+                "depth": 2
+            },
+            {
+                "QID": "Q40189366",
+                "label": "interstellar radiation field",
+                "depth": 2
+            },
+            {
+                "QID": "Q360356",
+                "label": "Hamiltonian function",
+                "depth": 2
+            },
+            {
+                "QID": "Q396045",
+                "label": "agricultural energy",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 18
+    },
+    "Q22907849": {
+        "positive": [
+            {
+                "QID": "Q218616",
+                "label": "proprietary software",
+                "depth": 1
+            },
+            {
+                "QID": "Q15614021",
+                "label": "VoIP software",
+                "depth": 1
+            },
+            {
+                "QID": "Q35127",
+                "label": "website",
+                "depth": 1
+            },
+            {
+                "QID": "Q620615",
+                "label": "mobile app",
+                "depth": 1
+            },
+            {
+                "QID": "Q40056",
+                "label": "computer program",
+                "depth": 1
+            },
+            {
+                "QID": "Q3220391",
+                "label": "social networking service",
+                "depth": 1
+            },
+            {
+                "QID": "Q287198",
+                "label": "online chat",
+                "depth": 1
+            },
+            {
+                "QID": "Q1668024",
+                "label": "service on internet",
+                "depth": 1
+            },
+            {
+                "QID": "Q28051323",
+                "label": "video-conferencing software",
+                "depth": 1
+            },
+            {
+                "QID": "Q2462003",
+                "label": "instant messaging client",
+                "depth": 1
+            },
+            {
+                "QID": "Q15548100",
+                "label": "free instant messaging client",
+                "depth": 2
+            },
+            {
+                "QID": "Q1149226",
+                "label": "web chat",
+                "depth": 2
+            },
+            {
+                "QID": "Q574577",
+                "label": "chat room",
+                "depth": 2
+            },
+            {
+                "QID": "Q81945",
+                "label": "Voice over IP",
+                "depth": 2
+            },
+            {
+                "QID": "Q3391957",
+                "label": "online community platform",
+                "depth": 2
+            },
+            {
+                "QID": "Q354869",
+                "label": "image sharing",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q17589204",
+                "label": "FootballDatabase.eu",
+                "depth": 2
+            },
+            {
+                "QID": "Q466",
+                "label": "World Wide Web",
+                "depth": 2
+            },
+            {
+                "QID": "Q60678830",
+                "label": "Smartphone apps for travellers",
+                "depth": 2
+            },
+            {
+                "QID": "Q16825545",
+                "label": "adult dating site",
+                "depth": 2
+            },
+            {
+                "QID": "Q1954906",
+                "label": "music disk",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 19
+    },
+    "Q40898": {
+        "positive": [
+            {
+                "QID": "Q484170",
+                "label": "commune of France",
+                "depth": 1
+            },
+            {
+                "QID": "Q1549591",
+                "label": "big city",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 20
+    },
+    "Q280413": {
+        "positive": [
+            {
+                "QID": "Q13582798",
+                "label": "Public Scientific and Technical Research Establishment",
+                "depth": 1
+            },
+            {
+                "QID": "Q31855",
+                "label": "research institute",
+                "depth": 1
+            },
+            {
+                "QID": "Q45400320",
+                "label": "open-access publisher",
+                "depth": 1
+            },
+            {
+                "QID": "Q3726309",
+                "label": "state research institution",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q20820271",
+                "label": "graduate school",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 21
+    },
+    "Q28785": {
+        "positive": [
+            {
+                "QID": "Q120560",
+                "label": "minor basilica",
+                "depth": 1
+            },
+            {
+                "QID": "Q570116",
+                "label": "tourist attraction",
+                "depth": 1
+            },
+            {
+                "QID": "Q1530022",
+                "label": "religious organization",
+                "depth": 1
+            },
+            {
+                "QID": "Q16970",
+                "label": "church building",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 22
+    },
+    "Q1060165": {
+        "positive": [
+            {
+                "QID": "Q210167",
+                "label": "video game developer",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 23
+    },
+    "Q1273376": {
+        "positive": [
+            {
+                "QID": "Q6881511",
+                "label": "enterprise",
+                "depth": 1
+            },
+            {
+                "QID": "Q844526",
+                "label": "Group purchasing organization",
+                "depth": 1
+            },
+            {
+                "QID": "Q4830453",
+                "label": "business",
+                "depth": 1
+            },
+            {
+                "QID": "Q43229",
+                "label": "organization",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q12309784",
+                "label": "Elklub",
+                "depth": 2
+            },
+            {
+                "QID": "Q2111762",
+                "label": "machine shop",
+                "depth": 2
+            },
+            {
+                "QID": "Q388570",
+                "label": "film laboratory",
+                "depth": 2
+            },
+            {
+                "QID": "Q814610",
+                "label": "emergency service",
+                "depth": 2
+            },
+            {
+                "QID": "Q3591573",
+                "label": "\u00e9tablissement public foncier",
+                "depth": 2
+            },
+            {
+                "QID": "Q1936090",
+                "label": "Parlements",
+                "depth": 2
+            },
+            {
+                "QID": "Q8772125",
+                "label": "Editorial Anagrama",
+                "depth": 2
+            },
+            {
+                "QID": "Q562166",
+                "label": "housing cooperative",
+                "depth": 2
+            },
+            {
+                "QID": "Q786820",
+                "label": "automobile manufacturer",
+                "depth": 2
+            },
+            {
+                "QID": "Q6819536",
+                "label": "merit shop",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 24
+    },
+    "Q68": {
+        "positive": [
+            {
+                "QID": "Q1662611",
+                "label": "IT system",
+                "depth": 1
+            },
+            {
+                "QID": "Q241317",
+                "label": "computing platform",
+                "depth": 1
+            },
+            {
+                "QID": "Q11019",
+                "label": "machine",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 25
+    },
+    "Q1199743": {
+        "positive": [
+            {
+                "QID": "Q2835765",
+                "label": "optimization algorithm",
+                "depth": 1
+            },
+            {
+                "QID": "Q29410287",
+                "label": "Adam optimizer",
+                "depth": 1
+            },
+            {
+                "QID": "Q7617819",
+                "label": "stochastic gradient descent",
+                "depth": 1
+            },
+            {
+                "QID": "Q2321565",
+                "label": "iterative numerical method",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q56506809",
+                "label": "implicit method",
+                "depth": 2
+            },
+            {
+                "QID": "Q1476018",
+                "label": "Quasi-Newton method",
+                "depth": 2
+            },
+            {
+                "QID": "Q4380101",
+                "label": "projection methods for solving system of linear equations",
+                "depth": 2
+            },
+            {
+                "QID": "Q1790321",
+                "label": "Krylov subspace methods",
+                "depth": 2
+            },
+            {
+                "QID": "Q14489129",
+                "label": "evolutionary algorithm",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 26
+    },
+    "Q6588": {
+        "positive": [
+            {
+                "QID": "Q484170",
+                "label": "commune of France",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 27
+    },
+    "Q364": {
+        "positive": [
+            {
+                "QID": "Q6881511",
+                "label": "enterprise",
+                "depth": 1
+            },
+            {
+                "QID": "Q3077240",
+                "label": "forge",
+                "depth": 1
+            },
+            {
+                "QID": "Q1668024",
+                "label": "service on internet",
+                "depth": 1
+            },
+            {
+                "QID": "Q5227240",
+                "label": "data library",
+                "depth": 1
+            },
+            {
+                "QID": "Q2910253",
+                "label": "Torah database",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 28
+    },
+    "Q2746070": {
+        "positive": [
+            {
+                "QID": "Q477248",
+                "label": "pastry",
+                "depth": 1
+            },
+            {
+                "QID": "Q5183361",
+                "label": "Cream horn",
+                "depth": 2
+            },
+            {
+                "QID": "Q273426",
+                "label": "\u00e9clair",
+                "depth": 2
+            },
+            {
+                "QID": "Q3778467",
+                "label": "gubana",
+                "depth": 2
+            },
+            {
+                "QID": "Q1660010",
+                "label": "Christmas cookies",
+                "depth": 2
+            },
+            {
+                "QID": "Q871619",
+                "label": "bear claw",
+                "depth": 2
+            },
+            {
+                "QID": "Q28416788",
+                "label": "Lotus seed paste cake",
+                "depth": 2
+            },
+            {
+                "QID": "Q1073041",
+                "label": "coconut bar",
+                "depth": 2
+            },
+            {
+                "QID": "Q13266",
+                "label": "cookie",
+                "depth": 2
+            },
+            {
+                "QID": "Q12192991",
+                "label": "meskouta",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q856330",
+                "label": "cracker",
+                "depth": 2
+            },
+            {
+                "QID": "Q3535552",
+                "label": "Tourteau fromag\u00e9",
+                "depth": 2
+            },
+            {
+                "QID": "Q1014883",
+                "label": "Burger Brezel",
+                "depth": 2
+            },
+            {
+                "QID": "Q870362",
+                "label": "rice bread",
+                "depth": 2
+            },
+            {
+                "QID": "Q251981",
+                "label": "crisp bread",
+                "depth": 2
+            },
+            {
+                "QID": "Q208729",
+                "label": "nougat",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 29
+    },
+    "Q381": {
+        "positive": [
+            {
+                "QID": "Q20983788",
+                "label": "free operating system",
+                "depth": 1
+            },
+            {
+                "QID": "Q72688",
+                "label": "Xubuntu",
+                "depth": 1
+            },
+            {
+                "QID": "Q5276054",
+                "label": "digital commons",
+                "depth": 1
+            },
+            {
+                "QID": "Q12226408",
+                "label": "Ubuntu Kylin",
+                "depth": 1
+            },
+            {
+                "QID": "Q18915790",
+                "label": "Ubuntu MATE",
+                "depth": 1
+            },
+            {
+                "QID": "Q131669",
+                "label": "Linux distribution",
+                "depth": 1
+            },
+            {
+                "QID": "Q9135",
+                "label": "operating system",
+                "depth": 1
+            },
+            {
+                "QID": "Q11250",
+                "label": "Kubuntu",
+                "depth": 1
+            },
+            {
+                "QID": "Q27964209",
+                "label": "Ubuntu Budgie",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q620615",
+                "label": "mobile app",
+                "depth": 1
+            }
+        ],
+        "cls_idx": 30
+    },
+    "Q207472": {
+        "positive": [
+            {
+                "QID": "Q5741069",
+                "label": "rock group",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 31
+    },
+    "Q718": {
+        "positive": [
+            {
+                "QID": "Q1188693",
+                "label": "mind sport",
+                "depth": 1
+            },
+            {
+                "QID": "Q2755547",
+                "label": "individual sport",
+                "depth": 1
+            },
+            {
+                "QID": "Q7858742",
+                "label": "two-player game",
+                "depth": 1
+            },
+            {
+                "QID": "Q573573",
+                "label": "abstract strategy game",
+                "depth": 1
+            },
+            {
+                "QID": "Q41595400",
+                "label": "mind game",
+                "depth": 1
+            },
+            {
+                "QID": "Q131436",
+                "label": "board game",
+                "depth": 1
+            },
+            {
+                "QID": "Q299191",
+                "label": "chess variant",
+                "depth": 1
+            },
+            {
+                "QID": "Q287618",
+                "label": "sequential game",
+                "depth": 1
+            },
+            {
+                "QID": "Q5093314",
+                "label": "Chess aesthetics",
+                "depth": 1
+            },
+            {
+                "QID": "Q31629",
+                "label": "type of sport",
+                "depth": 1
+            },
+            {
+                "QID": "Q4438147",
+                "label": "game-based sport",
+                "depth": 1
+            },
+            {
+                "QID": "Q229398",
+                "label": "three-dimensional chess",
+                "depth": 2
+            },
+            {
+                "QID": "Q933844",
+                "label": "three-player chess",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q816261",
+                "label": "jogging",
+                "depth": 2
+            },
+            {
+                "QID": "Q80131",
+                "label": "poker",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 32
+    },
+    "Q3214499": {
+        "positive": [
+            {
+                "QID": "Q3550864",
+                "label": "mixed research unit",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 33
+    },
+    "Q1847641": {
+        "positive": [
+            {
+                "QID": "Q1784017",
+                "label": "secondary sex characteristic",
+                "depth": 1
+            },
+            {
+                "QID": "Q18534278",
+                "label": "facial feature",
+                "depth": 1
+            },
+            {
+                "QID": "Q15179",
+                "label": "moustache",
+                "depth": 1
+            },
+            {
+                "QID": "Q3326291",
+                "label": "handlebar moustache",
+                "depth": 2
+            },
+            {
+                "QID": "Q5431487",
+                "label": "fake moustache",
+                "depth": 2
+            },
+            {
+                "QID": "Q7963760",
+                "label": "walrus moustache",
+                "depth": 2
+            },
+            {
+                "QID": "Q17141430",
+                "label": "pencil moustache",
+                "depth": 2
+            },
+            {
+                "QID": "Q5506845",
+                "label": "Fu Manchu moustache",
+                "depth": 2
+            },
+            {
+                "QID": "Q5906082",
+                "label": "horseshoe moustache",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q43748",
+                "label": "eyebrow",
+                "depth": 1
+            },
+            {
+                "QID": "Q1068553",
+                "label": "facial skeleton",
+                "depth": 2
+            },
+            {
+                "QID": "Q5428568",
+                "label": "facial resemblance",
+                "depth": 2
+            },
+            {
+                "QID": "Q1790542",
+                "label": "pattes d'oie",
+                "depth": 2
+            },
+            {
+                "QID": "Q17013040",
+                "label": "Facial symmetry",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 34
+    },
+    "Q12014035": {
+        "positive": [
+            {
+                "QID": "Q61788060",
+                "label": "human activity",
+                "depth": 1
+            },
+            {
+                "QID": "Q6537379",
+                "label": "walking",
+                "depth": 1
+            },
+            {
+                "QID": "Q349",
+                "label": "sport",
+                "depth": 1
+            },
+            {
+                "QID": "Q184872",
+                "label": "recreation",
+                "depth": 1
+            },
+            {
+                "QID": "Q2357239",
+                "label": "sports tourism",
+                "depth": 1
+            },
+            {
+                "QID": "Q968907",
+                "label": "outdoor recreation",
+                "depth": 1
+            },
+            {
+                "QID": "Q1914636",
+                "label": "activity",
+                "depth": 1
+            },
+            {
+                "QID": "Q747883",
+                "label": "physical activity",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 35
+    },
+    "Q11020": {
+        "positive": [
+            {
+                "QID": "Q2312410",
+                "label": "sports discipline",
+                "depth": 1
+            },
+            {
+                "QID": "Q5179579",
+                "label": "Cowboy pool",
+                "depth": 1
+            },
+            {
+                "QID": "Q3341285",
+                "label": "cue sports",
+                "depth": 1
+            },
+            {
+                "QID": "Q2060479",
+                "label": "eight-ball",
+                "depth": 1
+            },
+            {
+                "QID": "Q4208733",
+                "label": "Kaisa",
+                "depth": 2
+            },
+            {
+                "QID": "Q1324916",
+                "label": "English billiards",
+                "depth": 2
+            },
+            {
+                "QID": "Q11015",
+                "label": "snooker",
+                "depth": 2
+            },
+            {
+                "QID": "Q5580558",
+                "label": "golf billiards",
+                "depth": 2
+            },
+            {
+                "QID": "Q967318",
+                "label": "Blackball",
+                "depth": 2
+            },
+            {
+                "QID": "Q917562",
+                "label": "carom billiards",
+                "depth": 2
+            },
+            {
+                "QID": "Q5728609",
+                "label": "spanish pool",
+                "depth": 2
+            },
+            {
+                "QID": "Q5100758",
+                "label": "Chinese eight-ball",
+                "depth": 2
+            },
+            {
+                "QID": "Q512270",
+                "label": "Five-pin billiards",
+                "depth": 3
+            },
+            {
+                "QID": "Q2165733",
+                "label": "Snooker plus",
+                "depth": 3
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q677423",
+                "label": "drifting",
+                "depth": 2
+            },
+            {
+                "QID": "Q3062992",
+                "label": "F3f",
+                "depth": 2
+            },
+            {
+                "QID": "Q2072840",
+                "label": "CrossFit",
+                "depth": 2
+            },
+            {
+                "QID": "Q40679812",
+                "label": "running target shooting",
+                "depth": 2
+            },
+            {
+                "QID": "Q27907702",
+                "label": "boys' singles",
+                "depth": 2
+            },
+            {
+                "QID": "Q27907674",
+                "label": "girls' singles",
+                "depth": 2
+            },
+            {
+                "QID": "Q50386068",
+                "label": "youth mixed doubles",
+                "depth": 2
+            },
+            {
+                "QID": "Q10526896",
+                "label": "Hugg",
+                "depth": 2
+            },
+            {
+                "QID": "Q27907692",
+                "label": "girls' doubles",
+                "depth": 2
+            },
+            {
+                "QID": "Q455347",
+                "label": "variation of basketball",
+                "depth": 2
+            },
+            {
+                "QID": "Q52177345",
+                "label": "field sport",
+                "depth": 2
+            },
+            {
+                "QID": "Q27907716",
+                "label": "boys' doubles",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 36
+    },
+    "Q2905238": {
+        "positive": [
+            {
+                "QID": "Q3391957",
+                "label": "online community platform",
+                "depth": 1
+            },
+            {
+                "QID": "Q783794",
+                "label": "company",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 37
+    },
+    "Q129337": {
+        "positive": [
+            {
+                "QID": "Q16858238",
+                "label": "train category",
+                "depth": 1
+            },
+            {
+                "QID": "Q13402959",
+                "label": "high-speed train",
+                "depth": 1
+            },
+            {
+                "QID": "Q483373",
+                "label": "electric multiple unit",
+                "depth": 1
+            },
+            {
+                "QID": "Q811704",
+                "label": "rolling stock class",
+                "depth": 1
+            },
+            {
+                "QID": "Q30754613",
+                "label": "TGV inOui",
+                "depth": 1
+            },
+            {
+                "QID": "Q167270",
+                "label": "trademark",
+                "depth": 1
+            },
+            {
+                "QID": "Q432478",
+                "label": "Automotrice \u00e0 grande vitesse",
+                "depth": 2
+            },
+            {
+                "QID": "Q1049958",
+                "label": "SNCF TGV POS",
+                "depth": 2
+            },
+            {
+                "QID": "Q928468",
+                "label": "TGV R\u00e9seau",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q2205965",
+                "label": "list of Belgian railway services",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 38
+    },
+    "Q1431486": {
+        "positive": [
+            {
+                "QID": "Q6881511",
+                "label": "enterprise",
+                "depth": 1
+            },
+            {
+                "QID": "Q1266169",
+                "label": "telephone company",
+                "depth": 1
+            },
+            {
+                "QID": "Q1941618",
+                "label": "mobile network operator",
+                "depth": 1
+            },
+            {
+                "QID": "Q431289",
+                "label": "brand",
+                "depth": 1
+            },
+            {
+                "QID": "Q11371",
+                "label": "Internet service provider",
+                "depth": 1
+            },
+            {
+                "QID": "Q891723",
+                "label": "public company",
+                "depth": 1
+            },
+            {
+                "QID": "Q4830453",
+                "label": "business",
+                "depth": 1
+            },
+            {
+                "QID": "Q6887204",
+                "label": "mobile phone operator",
+                "depth": 2
+            },
+            {
+                "QID": "Q2585571",
+                "label": "wireless Internet service provider",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 39
+    },
+    "Q16820462": {
+        "positive": [
+            {
+                "QID": "Q7058673",
+                "label": "video game series",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 40
+    },
+    "Q1224715": {
+        "positive": [
+            {
+                "QID": "Q35127",
+                "label": "website",
+                "depth": 1
+            },
+            {
+                "QID": "Q1789476",
+                "label": "bibliographic database",
+                "depth": 1
+            },
+            {
+                "QID": "Q193424",
+                "label": "web service",
+                "depth": 1
+            },
+            {
+                "QID": "Q43229",
+                "label": "organization",
+                "depth": 1
+            },
+            {
+                "QID": "Q19967801",
+                "label": "online service",
+                "depth": 2
+            },
+            {
+                "QID": "Q16519632",
+                "label": "scientific organization",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q27881073",
+                "label": "fake news website",
+                "depth": 2
+            },
+            {
+                "QID": "Q25380332",
+                "label": "Kiev Archaeographic Commission",
+                "depth": 2
+            },
+            {
+                "QID": "Q1436061",
+                "label": "Coop\u00e9rative d'utilisation de mat\u00e9riel agricole",
+                "depth": 2
+            },
+            {
+                "QID": "Q1149226",
+                "label": "web chat",
+                "depth": 2
+            },
+            {
+                "QID": "Q1482252",
+                "label": "Semantic Web Service",
+                "depth": 2
+            },
+            {
+                "QID": "Q20653619",
+                "label": "Zone to Defend",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 41
+    },
+    "Q33959": {
+        "positive": [
+            {
+                "QID": "Q484170",
+                "label": "commune of France",
+                "depth": 1
+            },
+            {
+                "QID": "Q1549591",
+                "label": "big city",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 42
+    },
+    "Q35996": {
+        "positive": [
+            {
+                "QID": "Q10429667",
+                "label": "car brand",
+                "depth": 1
+            },
+            {
+                "QID": "Q891723",
+                "label": "public company",
+                "depth": 1
+            },
+            {
+                "QID": "Q786820",
+                "label": "automobile manufacturer",
+                "depth": 1
+            },
+            {
+                "QID": "Q431289",
+                "label": "brand",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 43
+    },
+    "Q325904": {
+        "positive": [
+            {
+                "QID": "Q755673",
+                "label": "search algorithm",
+                "depth": 1
+            },
+            {
+                "QID": "Q907955",
+                "label": "graph traversal",
+                "depth": 1
+            },
+            {
+                "QID": "Q4443425",
+                "label": "uninformed search algorithm",
+                "depth": 1
+            },
+            {
+                "QID": "Q1969601",
+                "label": "pathfinding",
+                "depth": 2
+            },
+            {
+                "QID": "Q7009111",
+                "label": "heuristic search algorithm",
+                "depth": 2
+            },
+            {
+                "QID": "Q1210082",
+                "label": "tree traversal",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 44
+    },
+    "Q168403": {
+        "positive": [
+            {
+                "QID": "Q55789206",
+                "label": "syndromic myopia",
+                "depth": 1
+            },
+            {
+                "QID": "Q470427",
+                "label": "refractive error",
+                "depth": 1
+            },
+            {
+                "QID": "Q18554189",
+                "label": "degenerative myopia",
+                "depth": 1
+            },
+            {
+                "QID": "Q737460",
+                "label": "visual impairment",
+                "depth": 1
+            },
+            {
+                "QID": "Q2470609",
+                "label": "Wagner's disease",
+                "depth": 2
+            },
+            {
+                "QID": "Q177895",
+                "label": "astigmatism",
+                "depth": 2
+            },
+            {
+                "QID": "Q2634782",
+                "label": "low vision",
+                "depth": 2
+            },
+            {
+                "QID": "Q18554630",
+                "label": "irregular astigmatism",
+                "depth": 3
+            }
+        ],
+        "negative": [],
+        "cls_idx": 45
+    },
+    "Q1484375": {
+        "positive": [
+            {
+                "QID": "Q13741",
+                "label": "integrated development environment",
+                "depth": 1
+            },
+            {
+                "QID": "Q467707",
+                "label": "software development kit",
+                "depth": 1
+            },
+            {
+                "QID": "Q341",
+                "label": "free software",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q10334075",
+                "label": "Mxmlc",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 46
+    },
+    "Q614362": {
+        "positive": [
+            {
+                "QID": "Q2424752",
+                "label": "product",
+                "depth": 1
+            },
+            {
+                "QID": "Q1155692",
+                "label": "DSL modem",
+                "depth": 1
+            },
+            {
+                "QID": "Q3407440",
+                "label": "wireless router",
+                "depth": 1
+            },
+            {
+                "QID": "Q11228705",
+                "label": "L-03E",
+                "depth": 2
+            },
+            {
+                "QID": "Q2877513",
+                "label": "BT Home Hub",
+                "depth": 2
+            },
+            {
+                "QID": "Q11191179",
+                "label": "BF-01D",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 47
+    },
+    "Q1474517": {
+        "positive": [
+            {
+                "QID": "Q13582798",
+                "label": "Public Scientific and Technical Research Establishment",
+                "depth": 1
+            },
+            {
+                "QID": "Q31855",
+                "label": "research institute",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 48
+    },
+    "Q9340": {
+        "positive": [
+            {
+                "QID": "Q1343205",
+                "label": "file hosting service",
+                "depth": 1
+            },
+            {
+                "QID": "Q166142",
+                "label": "application",
+                "depth": 1
+            },
+            {
+                "QID": "Q1668024",
+                "label": "service on internet",
+                "depth": 1
+            },
+            {
+                "QID": "Q914359",
+                "label": "cloud storage",
+                "depth": 1
+            },
+            {
+                "QID": "Q35127",
+                "label": "website",
+                "depth": 1
+            },
+            {
+                "QID": "Q25325314",
+                "label": "Elastic cloud storage",
+                "depth": 2
+            },
+            {
+                "QID": "Q17074646",
+                "label": "personal cloud",
+                "depth": 2
+            },
+            {
+                "QID": "Q16972647",
+                "label": "Google Chrome App",
+                "depth": 2
+            },
+            {
+                "QID": "Q16988367",
+                "label": "CloudLocker",
+                "depth": 3
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q3751111",
+                "label": "medical software",
+                "depth": 2
+            },
+            {
+                "QID": "Q847906",
+                "label": "online magazine",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 49
+    },
+    "Q201664": {
+        "positive": [
+            {
+                "QID": "Q3575260",
+                "label": "bijou",
+                "depth": 1
+            },
+            {
+                "QID": "Q7120070",
+                "label": "POW bracelet",
+                "depth": 1
+            },
+            {
+                "QID": "Q16839772",
+                "label": "Gel bracelet",
+                "depth": 1
+            },
+            {
+                "QID": "Q488720",
+                "label": "charm bracelet",
+                "depth": 1
+            },
+            {
+                "QID": "Q1455890",
+                "label": "friendship bracelet",
+                "depth": 1
+            },
+            {
+                "QID": "Q4470686",
+                "label": "decoration",
+                "depth": 1
+            },
+            {
+                "QID": "Q7538697",
+                "label": "Slap bracelet",
+                "depth": 1
+            },
+            {
+                "QID": "Q46847",
+                "label": "ring",
+                "depth": 2
+            },
+            {
+                "QID": "Q11796413",
+                "label": "decoration",
+                "depth": 2
+            },
+            {
+                "QID": "Q161439",
+                "label": "jewelry",
+                "depth": 2
+            },
+            {
+                "QID": "Q2111434",
+                "label": "pendant",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 50
+    },
+    "Q7935239": {
+        "positive": [
+            {
+                "QID": "Q1130645",
+                "label": "open-source software",
+                "depth": 1
+            },
+            {
+                "QID": "Q3932296",
+                "label": "relational database management system",
+                "depth": 1
+            },
+            {
+                "QID": "Q3539533",
+                "label": "triplestore",
+                "depth": 1
+            },
+            {
+                "QID": "Q215819",
+                "label": "Microsoft SQL Server",
+                "depth": 2
+            },
+            {
+                "QID": "Q319417",
+                "label": "SQLite",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 51
+    },
+    "Q337535": {
+        "positive": [
+            {
+                "QID": "Q58199",
+                "label": "instant messaging",
+                "depth": 1
+            },
+            {
+                "QID": "Q1334294",
+                "label": "software repository",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q192532",
+                "label": "digital rights management",
+                "depth": 1
+            },
+            {
+                "QID": "Q3559933",
+                "label": "Live support software",
+                "depth": 2
+            },
+            {
+                "QID": "Q8048052",
+                "label": "Yamigo",
+                "depth": 2
+            },
+            {
+                "QID": "Q4110622",
+                "label": "videochat",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 52
+    },
+    "Q159992": {
+        "positive": [
+            {
+                "QID": "Q911069",
+                "label": "boardsport",
+                "depth": 1
+            },
+            {
+                "QID": "Q1434370",
+                "label": "River surfing",
+                "depth": 1
+            },
+            {
+                "QID": "Q31629",
+                "label": "type of sport",
+                "depth": 1
+            },
+            {
+                "QID": "Q61065",
+                "label": "water sport",
+                "depth": 1
+            },
+            {
+                "QID": "Q842595",
+                "label": "big wave surfing",
+                "depth": 1
+            },
+            {
+                "QID": "Q159354",
+                "label": "rowing",
+                "depth": 2
+            },
+            {
+                "QID": "Q31920",
+                "label": "swimming",
+                "depth": 2
+            },
+            {
+                "QID": "Q14085739",
+                "label": "sailing",
+                "depth": 2
+            },
+            {
+                "QID": "Q60967807",
+                "label": "Aquaplaning sport",
+                "depth": 2
+            },
+            {
+                "QID": "Q2369170",
+                "label": "underwater sports",
+                "depth": 2
+            },
+            {
+                "QID": "Q7735",
+                "label": "diving",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q842284",
+                "label": "skateboarding",
+                "depth": 2
+            },
+            {
+                "QID": "Q178131",
+                "label": "snowboarding",
+                "depth": 2
+            },
+            {
+                "QID": "Q2533407",
+                "label": "surf lifesaving",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 53
+    },
+    "Q180704": {
+        "positive": [
+            {
+                "QID": "Q1114461",
+                "label": "comics character",
+                "depth": 1
+            },
+            {
+                "QID": "Q15773347",
+                "label": "film character",
+                "depth": 1
+            },
+            {
+                "QID": "Q15632617",
+                "label": "fictional human",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 54
+    },
+    "Q324254": {
+        "positive": [
+            {
+                "QID": "Q1172480",
+                "label": "data model",
+                "depth": 1
+            },
+            {
+                "QID": "Q56316737",
+                "label": "domain ontology",
+                "depth": 1
+            },
+            {
+                "QID": "Q1437388",
+                "label": "formal ontology",
+                "depth": 1
+            },
+            {
+                "QID": "Q593744",
+                "label": "knowledge base",
+                "depth": 1
+            },
+            {
+                "QID": "Q7554009",
+                "label": "soft ontology",
+                "depth": 1
+            },
+            {
+                "QID": "Q56316745",
+                "label": "application ontology",
+                "depth": 1
+            },
+            {
+                "QID": "Q1397073",
+                "label": "data schema",
+                "depth": 1
+            },
+            {
+                "QID": "Q5378800",
+                "label": "Enhanced entity\u2013relationship model",
+                "depth": 2
+            },
+            {
+                "QID": "Q7449052",
+                "label": "semantic data model",
+                "depth": 2
+            },
+            {
+                "QID": "Q1751819",
+                "label": "RDF Schema",
+                "depth": 2
+            },
+            {
+                "QID": "Q2262868",
+                "label": "domain model",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 55
+    },
+    "Q4173330": {
+        "positive": [
+            {
+                "QID": "Q1542938",
+                "label": "grand \u00e9tablissement",
+                "depth": 1
+            },
+            {
+                "QID": "Q3551775",
+                "label": "university in France",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 56
+    },
+    "Q847": {
+        "positive": [
+            {
+                "QID": "Q1153025",
+                "label": "wheelchair tennis",
+                "depth": 1
+            },
+            {
+                "QID": "Q56054951",
+                "label": "men's tennis",
+                "depth": 1
+            },
+            {
+                "QID": "Q47094420",
+                "label": "Foam Tennis",
+                "depth": 1
+            },
+            {
+                "QID": "Q31629",
+                "label": "type of sport",
+                "depth": 1
+            },
+            {
+                "QID": "Q877517",
+                "label": "ball game",
+                "depth": 1
+            },
+            {
+                "QID": "Q2426135",
+                "label": "racket sport",
+                "depth": 1
+            },
+            {
+                "QID": "Q212845",
+                "label": "Basque pelota",
+                "depth": 2
+            },
+            {
+                "QID": "Q855880",
+                "label": "football tennis",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q754796",
+                "label": "miniature golf",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 57
+    },
+    "Q3517281": {
+        "positive": [
+            {
+                "QID": "Q4671277",
+                "label": "academic institution",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 58
+    },
+    "Q38695": {
+        "positive": [
+            {
+                "QID": "Q61788060",
+                "label": "human activity",
+                "depth": 1
+            },
+            {
+                "QID": "Q16920758",
+                "label": "food and drink preparation",
+                "depth": 1
+            },
+            {
+                "QID": "Q19862406",
+                "label": "business",
+                "depth": 1
+            },
+            {
+                "QID": "Q17082653",
+                "label": "candy making",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 59
+    },
+    "Q243": {
+        "positive": [
+            {
+                "QID": "Q1440300",
+                "label": "observation tower",
+                "depth": 1
+            },
+            {
+                "QID": "Q570116",
+                "label": "tourist attraction",
+                "depth": 1
+            },
+            {
+                "QID": "Q1440476",
+                "label": "lattice tower",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q804399",
+                "label": "Blaw-Knox tower",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 60
+    },
+    "Q8333": {
+        "positive": [
+            {
+                "QID": "Q20857065",
+                "label": "United States federal agency",
+                "depth": 1
+            },
+            {
+                "QID": "Q20858006",
+                "label": "federal law enforcement agency of the United States",
+                "depth": 1
+            },
+            {
+                "QID": "Q47913",
+                "label": "intelligence agency",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 61
+    },
+    "Q180204": {
+        "positive": [
+            {
+                "QID": "Q791930",
+                "label": "Axe",
+                "depth": 1
+            },
+            {
+                "QID": "Q4838457",
+                "label": "baby shampoo",
+                "depth": 1
+            },
+            {
+                "QID": "Q11322916",
+                "label": "dry shampoo",
+                "depth": 1
+            },
+            {
+                "QID": "Q599755",
+                "label": "Garnier",
+                "depth": 1
+            },
+            {
+                "QID": "Q50430027",
+                "label": "hair care products",
+                "depth": 1
+            },
+            {
+                "QID": "Q11108449",
+                "label": "hair dye",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 62
+    },
+    "Q38076": {
+        "positive": [
+            {
+                "QID": "Q18509232",
+                "label": "fast food restaurant chain",
+                "depth": 1
+            },
+            {
+                "QID": "Q6881511",
+                "label": "enterprise",
+                "depth": 1
+            },
+            {
+                "QID": "Q167270",
+                "label": "trademark",
+                "depth": 1
+            },
+            {
+                "QID": "Q891723",
+                "label": "public company",
+                "depth": 1
+            },
+            {
+                "QID": "Q4830453",
+                "label": "business",
+                "depth": 1
+            },
+            {
+                "QID": "Q44492843",
+                "label": "McDonald's Beynost",
+                "depth": 1
+            },
+            {
+                "QID": "Q161726",
+                "label": "multinational corporation",
+                "depth": 2
+            },
+            {
+                "QID": "Q27038993",
+                "label": "food establishment",
+                "depth": 2
+            },
+            {
+                "QID": "Q5465569",
+                "label": "Foodservice distributor",
+                "depth": 2
+            },
+            {
+                "QID": "Q20015305",
+                "label": "large business",
+                "depth": 2
+            },
+            {
+                "QID": "Q56876011",
+                "label": "private corporation",
+                "depth": 2
+            },
+            {
+                "QID": "Q5466628",
+                "label": "for-profit corporation",
+                "depth": 2
+            },
+            {
+                "QID": "Q1318768",
+                "label": "snack bar",
+                "depth": 2
+            },
+            {
+                "QID": "Q2519914",
+                "label": "brand name",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q1369723",
+                "label": "Web Agency",
+                "depth": 2
+            },
+            {
+                "QID": "Q1756711",
+                "label": "video rental shop",
+                "depth": 2
+            },
+            {
+                "QID": "Q3307920",
+                "label": "console manufacturer",
+                "depth": 2
+            },
+            {
+                "QID": "Q18388277",
+                "label": "technology company",
+                "depth": 2
+            },
+            {
+                "QID": "Q936518",
+                "label": "aerospace manufacturer",
+                "depth": 2
+            },
+            {
+                "QID": "Q771063",
+                "label": "dating agency",
+                "depth": 2
+            },
+            {
+                "QID": "Q20488450",
+                "label": "mobile phone series",
+                "depth": 2
+            },
+            {
+                "QID": "Q11294827",
+                "label": "camera manufacturer",
+                "depth": 2
+            },
+            {
+                "QID": "Q1266169",
+                "label": "telephone company",
+                "depth": 2
+            },
+            {
+                "QID": "Q5346803",
+                "label": "social business",
+                "depth": 2
+            },
+            {
+                "QID": "Q4387609",
+                "label": "architectural firm",
+                "depth": 2
+            },
+            {
+                "QID": "Q2538889",
+                "label": "weapons manufacturing company",
+                "depth": 2
+            },
+            {
+                "QID": "Q2442401",
+                "label": "record company",
+                "depth": 2
+            },
+            {
+                "QID": "Q1132207",
+                "label": "business incubator",
+                "depth": 2
+            },
+            {
+                "QID": "Q19644607",
+                "label": "pharmaceutical company",
+                "depth": 2
+            },
+            {
+                "QID": "Q55635949",
+                "label": "tobacco factory",
+                "depth": 2
+            },
+            {
+                "QID": "Q1058914",
+                "label": "software company",
+                "depth": 2
+            },
+            {
+                "QID": "Q22687",
+                "label": "bank",
+                "depth": 2
+            },
+            {
+                "QID": "Q811404",
+                "label": "Bauhof",
+                "depth": 2
+            },
+            {
+                "QID": "Q786820",
+                "label": "automobile manufacturer",
+                "depth": 2
+            },
+            {
+                "QID": "Q1200676",
+                "label": "design agency",
+                "depth": 2
+            },
+            {
+                "QID": "Q1341478",
+                "label": "energy company",
+                "depth": 2
+            },
+            {
+                "QID": "Q14635346",
+                "label": "multi-channel network",
+                "depth": 2
+            },
+            {
+                "QID": "Q30765558",
+                "label": "cement company",
+                "depth": 2
+            },
+            {
+                "QID": "Q1520069",
+                "label": "bottling company",
+                "depth": 2
+            },
+            {
+                "QID": "Q25461160",
+                "label": "syndicate",
+                "depth": 2
+            },
+            {
+                "QID": "Q11032",
+                "label": "newspaper",
+                "depth": 2
+            },
+            {
+                "QID": "Q476118",
+                "label": "reinsurance",
+                "depth": 2
+            },
+            {
+                "QID": "Q946499",
+                "label": "cruise line",
+                "depth": 2
+            },
+            {
+                "QID": "Q613142",
+                "label": "law firm",
+                "depth": 2
+            },
+            {
+                "QID": "Q3063988",
+                "label": "Made in France",
+                "depth": 2
+            },
+            {
+                "QID": "Q3661311",
+                "label": "fashion house",
+                "depth": 2
+            },
+            {
+                "QID": "Q45069022",
+                "label": "skateboarding company",
+                "depth": 2
+            },
+            {
+                "QID": "Q765517",
+                "label": "credit rating agency",
+                "depth": 2
+            },
+            {
+                "QID": "Q1331793",
+                "label": "media company",
+                "depth": 2
+            },
+            {
+                "QID": "Q2085381",
+                "label": "publisher",
+                "depth": 2
+            },
+            {
+                "QID": "Q25112142",
+                "label": "dental service organization",
+                "depth": 2
+            },
+            {
+                "QID": "Q30899001",
+                "label": "software distributor",
+                "depth": 2
+            },
+            {
+                "QID": "Q10691563",
+                "label": "taxicab company",
+                "depth": 2
+            },
+            {
+                "QID": "Q1406985",
+                "label": "transmission system operator for gas",
+                "depth": 2
+            },
+            {
+                "QID": "Q1529128",
+                "label": "postal service",
+                "depth": 2
+            },
+            {
+                "QID": "Q60770436",
+                "label": "Deep tech",
+                "depth": 2
+            },
+            {
+                "QID": "Q770881",
+                "label": "online casino",
+                "depth": 2
+            },
+            {
+                "QID": "Q8007048",
+                "label": "nail salon",
+                "depth": 2
+            },
+            {
+                "QID": "Q1466031",
+                "label": "funeral home",
+                "depth": 2
+            },
+            {
+                "QID": "Q2914704",
+                "label": "advertising network",
+                "depth": 2
+            },
+            {
+                "QID": "Q7246213",
+                "label": "private intelligence agency",
+                "depth": 2
+            },
+            {
+                "QID": "Q27555350",
+                "label": "entreprise de g\u00e9nie civil",
+                "depth": 2
+            },
+            {
+                "QID": "Q16274795",
+                "label": "shipbuilding company",
+                "depth": 2
+            },
+            {
+                "QID": "Q1137109",
+                "label": "video game publisher",
+                "depth": 2
+            },
+            {
+                "QID": "Q5384579",
+                "label": "Equipment rental",
+                "depth": 2
+            },
+            {
+                "QID": "Q3117865",
+                "label": "hotel group",
+                "depth": 2
+            },
+            {
+                "QID": "Q4116756",
+                "label": "Tourism in Saudi Arabia",
+                "depth": 2
+            },
+            {
+                "QID": "Q19509097",
+                "label": "cigarette brand",
+                "depth": 2
+            },
+            {
+                "QID": "Q1917775",
+                "label": "music publishing company",
+                "depth": 2
+            },
+            {
+                "QID": "Q30103124",
+                "label": "hospital group",
+                "depth": 2
+            },
+            {
+                "QID": "Q23670565",
+                "label": "professional services firm",
+                "depth": 2
+            },
+            {
+                "QID": "Q748645",
+                "label": "shipping agent",
+                "depth": 2
+            },
+            {
+                "QID": "Q1757263",
+                "label": "moving company",
+                "depth": 2
+            },
+            {
+                "QID": "Q3393867",
+                "label": "seafood market",
+                "depth": 2
+            },
+            {
+                "QID": "Q920671",
+                "label": "parapharmacy",
+                "depth": 2
+            },
+            {
+                "QID": "Q14942280",
+                "label": "petrochemical company",
+                "depth": 2
+            },
+            {
+                "QID": "Q3579160",
+                "label": "newspaper publisher",
+                "depth": 2
+            },
+            {
+                "QID": "Q1817883",
+                "label": "furniture manufacturer",
+                "depth": 2
+            },
+            {
+                "QID": "Q3842318",
+                "label": "Made in Italy",
+                "depth": 2
+            },
+            {
+                "QID": "Q2990216",
+                "label": "mining company",
+                "depth": 2
+            },
+            {
+                "QID": "Q1116826",
+                "label": "private security company",
+                "depth": 2
+            },
+            {
+                "QID": "Q507443",
+                "label": "pharmaceutical industry",
+                "depth": 2
+            },
+            {
+                "QID": "Q29885033",
+                "label": "cosmetics manufacturer",
+                "depth": 2
+            },
+            {
+                "QID": "Q1057214",
+                "label": "private military company",
+                "depth": 2
+            },
+            {
+                "QID": "Q3487908",
+                "label": "venture capital firm",
+                "depth": 2
+            },
+            {
+                "QID": "Q811930",
+                "label": "construction business",
+                "depth": 2
+            },
+            {
+                "QID": "Q7257732",
+                "label": "public electricity supplier",
+                "depth": 2
+            },
+            {
+                "QID": "Q15634581",
+                "label": "design company",
+                "depth": 2
+            },
+            {
+                "QID": "Q133744",
+                "label": "tour operator",
+                "depth": 2
+            },
+            {
+                "QID": "Q3537883",
+                "label": "Transporteur routier",
+                "depth": 2
+            },
+            {
+                "QID": "Q1195245",
+                "label": "beauty salon",
+                "depth": 2
+            },
+            {
+                "QID": "Q2534781",
+                "label": "event management company",
+                "depth": 2
+            },
+            {
+                "QID": "Q18127",
+                "label": "record label",
+                "depth": 2
+            },
+            {
+                "QID": "Q2961813",
+                "label": "local TV channel",
+                "depth": 2
+            },
+            {
+                "QID": "Q291240",
+                "label": "car rental company",
+                "depth": 2
+            },
+            {
+                "QID": "Q11885129",
+                "label": "artist agency",
+                "depth": 2
+            },
+            {
+                "QID": "Q721067",
+                "label": "professional wrestling promotion",
+                "depth": 2
+            },
+            {
+                "QID": "Q2401749",
+                "label": "telecommunication company",
+                "depth": 2
+            },
+            {
+                "QID": "Q967140",
+                "label": "media agency",
+                "depth": 2
+            },
+            {
+                "QID": "Q12817454",
+                "label": "agricultural firm",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 63
+    },
+    "Q231136": {
+        "positive": [
+            {
+                "QID": "Q13419255",
+                "label": "hypertext encyclopedia",
+                "depth": 1
+            },
+            {
+                "QID": "Q7397",
+                "label": "software",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 64
+    },
+    "Q2283": {
+        "positive": [
+            {
+                "QID": "Q891723",
+                "label": "public company",
+                "depth": 1
+            },
+            {
+                "QID": "Q1058914",
+                "label": "software company",
+                "depth": 1
+            },
+            {
+                "QID": "Q4830453",
+                "label": "business",
+                "depth": 1
+            },
+            {
+                "QID": "Q18388277",
+                "label": "technology company",
+                "depth": 1
+            },
+            {
+                "QID": "Q13637823",
+                "label": "Independent hardware vendor",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 65
+    },
+    "Q76592": {
+        "positive": [
+            {
+                "QID": "Q5535478",
+                "label": "geometric combinatorics",
+                "depth": 1
+            },
+            {
+                "QID": "Q5422299",
+                "label": "extremal combinatorics",
+                "depth": 1
+            },
+            {
+                "QID": "Q3532114",
+                "label": "combinatorial topology",
+                "depth": 1
+            },
+            {
+                "QID": "Q6029708",
+                "label": "Infinitary combinatorics",
+                "depth": 1
+            },
+            {
+                "QID": "Q336787",
+                "label": "enumerative combinatorics",
+                "depth": 1
+            },
+            {
+                "QID": "Q1936384",
+                "label": "area of mathematics",
+                "depth": 1
+            },
+            {
+                "QID": "Q56313053",
+                "label": "Additive combinatorics",
+                "depth": 1
+            },
+            {
+                "QID": "Q2985062",
+                "label": "analytic combinatorics",
+                "depth": 1
+            },
+            {
+                "QID": "Q1005603",
+                "label": "algebraic combinatorics",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 66
+    },
+    "Q51746": {
+        "positive": [
+            {
+                "QID": "Q15773347",
+                "label": "film character",
+                "depth": 1
+            },
+            {
+                "QID": "Q22074477",
+                "label": "cyborg in a work of fiction",
+                "depth": 1
+            },
+            {
+                "QID": "Q15632617",
+                "label": "fictional human",
+                "depth": 1
+            },
+            {
+                "QID": "Q33125444",
+                "label": "character from Star Wars",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q11334882",
+                "label": "Pok\u00e9mon Professor",
+                "depth": 2
+            },
+            {
+                "QID": "Q5199354",
+                "label": "Cylon",
+                "depth": 2
+            },
+            {
+                "QID": "Q220652",
+                "label": "Borg",
+                "depth": 2
+            },
+            {
+                "QID": "Q930062",
+                "label": "Toa",
+                "depth": 2
+            },
+            {
+                "QID": "Q853715",
+                "label": "Dalek",
+                "depth": 2
+            },
+            {
+                "QID": "Q3008212",
+                "label": "Cyberman",
+                "depth": 2
+            },
+            {
+                "QID": "Q2351172",
+                "label": "Evangelion",
+                "depth": 2
+            },
+            {
+                "QID": "Q2265657",
+                "label": "Phalanx",
+                "depth": 2
+            },
+            {
+                "QID": "Q5769360",
+                "label": "Cimek",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 67
+    },
+    "Q2": {
+        "positive": [
+            {
+                "QID": "Q82794",
+                "label": "geographic region",
+                "depth": 1
+            },
+            {
+                "QID": "Q3504248",
+                "label": "inner planet of the Solar System",
+                "depth": 1
+            },
+            {
+                "QID": "Q128207",
+                "label": "terrestrial planet",
+                "depth": 1
+            },
+            {
+                "QID": "Q2670101",
+                "label": "Earth analog",
+                "depth": 2
+            },
+            {
+                "QID": "Q327757",
+                "label": "super-Earth",
+                "depth": 2
+            },
+            {
+                "QID": "Q15129745",
+                "label": "sub-Earth",
+                "depth": 2
+            },
+            {
+                "QID": "Q486972",
+                "label": "human settlement",
+                "depth": 2
+            },
+            {
+                "QID": "Q399984",
+                "label": "hemisphere of the Earth",
+                "depth": 2
+            },
+            {
+                "QID": "Q205895",
+                "label": "landmass",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q1140140",
+                "label": "mainland",
+                "depth": 2
+            },
+            {
+                "QID": "Q947362",
+                "label": "zone de protection paysag\u00e8re de Sopron",
+                "depth": 2
+            },
+            {
+                "QID": "Q10535394",
+                "label": "informal region",
+                "depth": 2
+            },
+            {
+                "QID": "Q1200957",
+                "label": "tourist destination",
+                "depth": 2
+            },
+            {
+                "QID": "Q198782",
+                "label": "tropical cyclone basin",
+                "depth": 2
+            },
+            {
+                "QID": "Q7925010",
+                "label": "vice-county",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 68
+    },
+    "Q312": {
+        "positive": [
+            {
+                "QID": "Q6881511",
+                "label": "enterprise",
+                "depth": 1
+            },
+            {
+                "QID": "Q167037",
+                "label": "corporation",
+                "depth": 1
+            },
+            {
+                "QID": "Q431289",
+                "label": "brand",
+                "depth": 1
+            },
+            {
+                "QID": "Q891723",
+                "label": "public company",
+                "depth": 1
+            },
+            {
+                "QID": "Q4830453",
+                "label": "business",
+                "depth": 1
+            },
+            {
+                "QID": "Q18388277",
+                "label": "technology company",
+                "depth": 1
+            },
+            {
+                "QID": "Q1058914",
+                "label": "software company",
+                "depth": 2
+            },
+            {
+                "QID": "Q13637823",
+                "label": "Independent hardware vendor",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 69
+    },
+    "Q209330": {
+        "positive": [
+            {
+                "QID": "Q620615",
+                "label": "mobile app",
+                "depth": 1
+            },
+            {
+                "QID": "Q3220391",
+                "label": "social networking service",
+                "depth": 1
+            },
+            {
+                "QID": "Q2721136",
+                "label": "image hosting service",
+                "depth": 1
+            },
+            {
+                "QID": "Q35127",
+                "label": "website",
+                "depth": 1
+            },
+            {
+                "QID": "Q559856",
+                "label": "online video platform",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q60784896",
+                "label": "Internet audio-visual programming service provider",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 70
+    },
+    "Q2813": {
+        "positive": [
+            {
+                "QID": "Q147538",
+                "label": "soft drink",
+                "depth": 1
+            },
+            {
+                "QID": "Q41084",
+                "label": "New Coke",
+                "depth": 1
+            },
+            {
+                "QID": "Q134041",
+                "label": "cola",
+                "depth": 1
+            },
+            {
+                "QID": "Q431289",
+                "label": "brand",
+                "depth": 1
+            },
+            {
+                "QID": "Q264554",
+                "label": "carbonated water",
+                "depth": 2
+            },
+            {
+                "QID": "Q896",
+                "label": "Mountain Dew",
+                "depth": 2
+            },
+            {
+                "QID": "Q2300409",
+                "label": "Premium-Cola",
+                "depth": 2
+            },
+            {
+                "QID": "Q50425277",
+                "label": "diet cola",
+                "depth": 2
+            },
+            {
+                "QID": "Q623561",
+                "label": "Dr Pepper",
+                "depth": 2
+            },
+            {
+                "QID": "Q12311058",
+                "label": "Fanta Free Orange",
+                "depth": 2
+            },
+            {
+                "QID": "Q59185742",
+                "label": "Craft soda",
+                "depth": 2
+            },
+            {
+                "QID": "Q937783",
+                "label": "Coca-Cola Zero",
+                "depth": 2
+            },
+            {
+                "QID": "Q1104949",
+                "label": "Coca Colla",
+                "depth": 2
+            },
+            {
+                "QID": "Q5759783",
+                "label": "Highway",
+                "depth": 2
+            },
+            {
+                "QID": "Q5873161",
+                "label": "refreshing drink",
+                "depth": 2
+            },
+            {
+                "QID": "Q1815345",
+                "label": "Diet Coke",
+                "depth": 3
+            },
+            {
+                "QID": "Q28127283",
+                "label": "Coca-Cola Zero Sugar",
+                "depth": 3
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q19799634",
+                "label": "model of calculator",
+                "depth": 2
+            },
+            {
+                "QID": "Q20888692",
+                "label": "camera brand",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 71
+    },
+    "Q3407658": {
+        "positive": [
+            {
+                "QID": "Q15825863",
+                "label": "light rail vehicle",
+                "depth": 1
+            },
+            {
+                "QID": "Q752870",
+                "label": "motor vehicle",
+                "depth": 1
+            },
+            {
+                "QID": "Q208502",
+                "label": "railroad car",
+                "depth": 1
+            },
+            {
+                "QID": "Q1562213",
+                "label": "freight tram",
+                "depth": 1
+            },
+            {
+                "QID": "Q1414135",
+                "label": "rolling stock",
+                "depth": 1
+            },
+            {
+                "QID": "Q5063597",
+                "label": "low-floor tram",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 72
+    },
+    "Q1636958": {
+        "positive": [
+            {
+                "QID": "Q891723",
+                "label": "public company",
+                "depth": 1
+            },
+            {
+                "QID": "Q4830453",
+                "label": "business",
+                "depth": 1
+            },
+            {
+                "QID": "Q167037",
+                "label": "corporation",
+                "depth": 1
+            },
+            {
+                "QID": "Q161726",
+                "label": "multinational corporation",
+                "depth": 2
+            },
+            {
+                "QID": "Q2401749",
+                "label": "telecommunication company",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q1057214",
+                "label": "private military company",
+                "depth": 2
+            },
+            {
+                "QID": "Q27043907",
+                "label": "yoga studio",
+                "depth": 2
+            },
+            {
+                "QID": "Q7311343",
+                "label": "religious corporation",
+                "depth": 2
+            },
+            {
+                "QID": "Q672070",
+                "label": "photographic studio",
+                "depth": 2
+            },
+            {
+                "QID": "Q3537883",
+                "label": "Transporteur routier",
+                "depth": 2
+            },
+            {
+                "QID": "Q8303885",
+                "label": "trust company",
+                "depth": 2
+            },
+            {
+                "QID": "Q41617857",
+                "label": "plug compatible manufacturer",
+                "depth": 2
+            },
+            {
+                "QID": "Q745829",
+                "label": "Yagi-Uda antenna",
+                "depth": 2
+            },
+            {
+                "QID": "Q216931",
+                "label": "advertising agency",
+                "depth": 2
+            },
+            {
+                "QID": "Q6819536",
+                "label": "merit shop",
+                "depth": 2
+            },
+            {
+                "QID": "Q27038993",
+                "label": "food establishment",
+                "depth": 2
+            },
+            {
+                "QID": "Q2590801",
+                "label": "commercial cleaning",
+                "depth": 2
+            },
+            {
+                "QID": "Q5225895",
+                "label": "public limited company",
+                "depth": 2
+            },
+            {
+                "QID": "Q1186164",
+                "label": "corporate spin-off",
+                "depth": 2
+            },
+            {
+                "QID": "Q59545",
+                "label": "labour hire",
+                "depth": 2
+            },
+            {
+                "QID": "Q3055260",
+                "label": "French company",
+                "depth": 2
+            },
+            {
+                "QID": "Q30022",
+                "label": "coffeehouse",
+                "depth": 2
+            },
+            {
+                "QID": "Q1116826",
+                "label": "private security company",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 73
+    },
+    "Q195": {
+        "positive": [
+            {
+                "QID": "Q1063560",
+                "label": "chocolate truffle",
+                "depth": 1
+            },
+            {
+                "QID": "Q5159627",
+                "label": "confection",
+                "depth": 1
+            },
+            {
+                "QID": "Q25403900",
+                "label": "food ingredient",
+                "depth": 1
+            },
+            {
+                "QID": "Q23461185",
+                "label": "organic chocolate",
+                "depth": 1
+            },
+            {
+                "QID": "Q757388",
+                "label": "Milka",
+                "depth": 1
+            },
+            {
+                "QID": "Q181042",
+                "label": "Kinder Surprise",
+                "depth": 1
+            },
+            {
+                "QID": "Q2596997",
+                "label": "condiment",
+                "depth": 1
+            },
+            {
+                "QID": "Q1365365",
+                "label": "stimulant foodstuff",
+                "depth": 1
+            },
+            {
+                "QID": "Q752276",
+                "label": "functional food",
+                "depth": 1
+            },
+            {
+                "QID": "Q13261",
+                "label": "hot chocolate",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q895177",
+                "label": "bouquet garni",
+                "depth": 2
+            },
+            {
+                "QID": "Q10987",
+                "label": "honey",
+                "depth": 2
+            },
+            {
+                "QID": "Q167893",
+                "label": "mayonnaise",
+                "depth": 2
+            },
+            {
+                "QID": "Q41354",
+                "label": "vinegar",
+                "depth": 2
+            },
+            {
+                "QID": "Q18547489",
+                "label": "Thasian sauce",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 74
+    },
+    "Q8548": {
+        "positive": [
+            {
+                "QID": "Q8366",
+                "label": "algorithm",
+                "depth": 1
+            },
+            {
+                "QID": "Q30503704",
+                "label": "graph algorithm",
+                "depth": 1
+            },
+            {
+                "QID": "Q504353",
+                "label": "greedy algorithm",
+                "depth": 1
+            },
+            {
+                "QID": "Q21595855",
+                "label": "pathfinding algorithm",
+                "depth": 1
+            },
+            {
+                "QID": "Q11660",
+                "label": "artificial intelligence",
+                "depth": 2
+            },
+            {
+                "QID": "Q4443425",
+                "label": "uninformed search algorithm",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q179613",
+                "label": "flooding algorithm",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 75
+    },
+    "Q13646": {
+        "positive": [
+            {
+                "QID": "Q249556",
+                "label": "railway company",
+                "depth": 1
+            },
+            {
+                "QID": "Q2324835",
+                "label": "national railway",
+                "depth": 1
+            },
+            {
+                "QID": "Q23043008",
+                "label": "Krasnoliman Directorate of Railway Transportation",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 76
+    },
+    "Q12130": {
+        "positive": [
+            {
+                "QID": "Q36784",
+                "label": "region of France",
+                "depth": 1
+            },
+            {
+                "QID": "Q3502482",
+                "label": "cultural region",
+                "depth": 1
+            },
+            {
+                "QID": "Q20719642",
+                "label": "current region of France",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q42261736",
+                "label": "cultural areas of indigenous North Americans",
+                "depth": 2
+            },
+            {
+                "QID": "Q28332",
+                "label": "overseas region",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 77
+    },
+    "Q14922": {
+        "positive": [
+            {
+                "QID": "Q1368898",
+                "label": "game of skill",
+                "depth": 1
+            },
+            {
+                "QID": "Q1342518",
+                "label": "Penny football",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q895060",
+                "label": "boules",
+                "depth": 2
+            },
+            {
+                "QID": "Q21426954",
+                "label": "bague en boghei",
+                "depth": 2
+            },
+            {
+                "QID": "Q21503645",
+                "label": "lancer de sabot de Pont-Aven",
+                "depth": 2
+            },
+            {
+                "QID": "Q1302771",
+                "label": "Egg-and-spoon race",
+                "depth": 2
+            },
+            {
+                "QID": "Q1637219",
+                "label": "speedcubing",
+                "depth": 2
+            },
+            {
+                "QID": "Q2904494",
+                "label": "birinic",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 78
+    },
+    "Q118398": {
+        "positive": [
+            {
+                "QID": "Q7094076",
+                "label": "online database",
+                "depth": 1
+            },
+            {
+                "QID": "Q5281480",
+                "label": "disciplinary repository",
+                "depth": 1
+            },
+            {
+                "QID": "Q45787211",
+                "label": "preprint server",
+                "depth": 1
+            },
+            {
+                "QID": "Q35127",
+                "label": "website",
+                "depth": 1
+            },
+            {
+                "QID": "Q52990223",
+                "label": "open science tool",
+                "depth": 1
+            },
+            {
+                "QID": "Q21606686",
+                "label": "scientific website",
+                "depth": 2
+            },
+            {
+                "QID": "Q6542714",
+                "label": "library website",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q33270324",
+                "label": "genealogy website",
+                "depth": 2
+            },
+            {
+                "QID": "Q16001076",
+                "label": "3D printing marketplace",
+                "depth": 2
+            },
+            {
+                "QID": "Q16002093",
+                "label": "video aggregator",
+                "depth": 2
+            },
+            {
+                "QID": "Q1350108",
+                "label": "fansite",
+                "depth": 2
+            },
+            {
+                "QID": "Q1294318",
+                "label": "online book",
+                "depth": 2
+            },
+            {
+                "QID": "Q213369",
+                "label": "webcomic",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 79
+    },
+    "Q335827": {
+        "positive": [
+            {
+                "QID": "Q47913",
+                "label": "intelligence agency",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 80
+    },
+    "Q244030": {
+        "positive": [
+            {
+                "QID": "Q7889",
+                "label": "video game",
+                "depth": 1
+            },
+            {
+                "QID": "Q4485157",
+                "label": "PC game",
+                "depth": 2
+            },
+            {
+                "QID": "Q6895044",
+                "label": "multiplayer video game",
+                "depth": 2
+            },
+            {
+                "QID": "Q6561427",
+                "label": "console game",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q54767",
+                "label": "puzzle video game",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 81
+    },
+    "Q392500": {
+        "positive": [
+            {
+                "QID": "Q3244038",
+                "label": "public establishment of an administrative nature",
+                "depth": 1
+            },
+            {
+                "QID": "Q51704864",
+                "label": "national public establishment of an administrative nature",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q3591561",
+                "label": "public cultural cooperation establishment",
+                "depth": 2
+            },
+            {
+                "QID": "Q3006228",
+                "label": "cr\u00e9dit municipal",
+                "depth": 2
+            },
+            {
+                "QID": "Q18706221",
+                "label": "district",
+                "depth": 2
+            },
+            {
+                "QID": "Q423785",
+                "label": "community of communes",
+                "depth": 2
+            },
+            {
+                "QID": "Q2826708",
+                "label": "Agence r\u00e9gionale de sant\u00e9",
+                "depth": 2
+            },
+            {
+                "QID": "Q3412210",
+                "label": "p\u00f4le m\u00e9tropolitain",
+                "depth": 2
+            },
+            {
+                "QID": "Q423790",
+                "label": "urban community",
+                "depth": 2
+            },
+            {
+                "QID": "Q20089159",
+                "label": "p\u00f4le d'\u00e9quilibre territorial et rural",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 82
+    },
+    "Q1437394": {
+        "positive": [
+            {
+                "QID": "Q185698",
+                "label": "methodology",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q21045430",
+                "label": "inferring horizontal gene transfer",
+                "depth": 2
+            },
+            {
+                "QID": "Q1193625",
+                "label": "social science methodology",
+                "depth": 2
+            },
+            {
+                "QID": "Q1196545",
+                "label": "historical method",
+                "depth": 2
+            },
+            {
+                "QID": "Q2670999",
+                "label": "investment strategy",
+                "depth": 2
+            },
+            {
+                "QID": "Q2292993",
+                "label": "design method",
+                "depth": 2
+            },
+            {
+                "QID": "Q1378470",
+                "label": "software development methodology",
+                "depth": 2
+            },
+            {
+                "QID": "Q179012",
+                "label": "project management",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 83
+    },
+    "Q864693": {
+        "positive": [
+            {
+                "QID": "Q10990",
+                "label": "meat",
+                "depth": 1
+            },
+            {
+                "QID": "Q56311389",
+                "label": "Poulet des C\u00e9vennes",
+                "depth": 1
+            },
+            {
+                "QID": "Q18087876",
+                "label": "poultry",
+                "depth": 1
+            },
+            {
+                "QID": "Q542042",
+                "label": "duck meat",
+                "depth": 2
+            },
+            {
+                "QID": "Q4200953",
+                "label": "turkey meat",
+                "depth": 2
+            },
+            {
+                "QID": "Q14473756",
+                "label": "poussin",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q5752993",
+                "label": "donkey meat",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 84
+    },
+    "Q8539": {
+        "positive": [
+            {
+                "QID": "Q5398426",
+                "label": "television series",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 85
+    },
+    "Q171545": {
+        "positive": [
+            {
+                "QID": "Q484170",
+                "label": "commune of France",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 86
+    },
+    "Q1139866": {
+        "positive": [
+            {
+                "QID": "Q7889",
+                "label": "video game",
+                "depth": 1
+            },
+            {
+                "QID": "Q4485157",
+                "label": "PC game",
+                "depth": 2
+            },
+            {
+                "QID": "Q116634",
+                "label": "online game",
+                "depth": 2
+            },
+            {
+                "QID": "Q6895044",
+                "label": "multiplayer video game",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q55588631",
+                "label": "Pok\u00e9mon video game",
+                "depth": 2
+            },
+            {
+                "QID": "Q54767",
+                "label": "puzzle video game",
+                "depth": 2
+            },
+            {
+                "QID": "Q16021388",
+                "label": "alien video game",
+                "depth": 2
+            },
+            {
+                "QID": "Q958821",
+                "label": "LucasArts adventure games",
+                "depth": 2
+            },
+            {
+                "QID": "Q7927920",
+                "label": "video games in education",
+                "depth": 2
+            },
+            {
+                "QID": "Q14411698",
+                "label": "romance game",
+                "depth": 2
+            },
+            {
+                "QID": "Q28004621",
+                "label": "SMS TV game",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 87
+    },
+    "Q900647": {
+        "positive": [
+            {
+                "QID": "Q1466699",
+                "label": "partie de littoral",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 88
+    },
+    "Q223127": {
+        "positive": [
+            {
+                "QID": "Q6881511",
+                "label": "enterprise",
+                "depth": 1
+            },
+            {
+                "QID": "Q431289",
+                "label": "brand",
+                "depth": 1
+            },
+            {
+                "QID": "Q891723",
+                "label": "public company",
+                "depth": 1
+            },
+            {
+                "QID": "Q4830453",
+                "label": "business",
+                "depth": 1
+            },
+            {
+                "QID": "Q18388277",
+                "label": "technology company",
+                "depth": 1
+            },
+            {
+                "QID": "Q1058914",
+                "label": "software company",
+                "depth": 2
+            },
+            {
+                "QID": "Q13637823",
+                "label": "Independent hardware vendor",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 89
+    },
+    "Q508256": {
+        "positive": [
+            {
+                "QID": "Q928830",
+                "label": "metro station",
+                "depth": 1
+            },
+            {
+                "QID": "Q11670533",
+                "label": "elevated station",
+                "depth": 1
+            },
+            {
+                "QID": "Q22808403",
+                "label": "station located underground",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 90
+    },
+    "Q83363": {
+        "positive": [
+            {
+                "QID": "Q17119191",
+                "label": "ripped jeans",
+                "depth": 1
+            },
+            {
+                "QID": "Q3237209",
+                "label": "Levi's 501",
+                "depth": 1
+            },
+            {
+                "QID": "Q39908",
+                "label": "trousers",
+                "depth": 1
+            },
+            {
+                "QID": "Q3377759",
+                "label": "Wide leg jeans",
+                "depth": 1
+            },
+            {
+                "QID": "Q618998",
+                "label": "skinny jeans",
+                "depth": 2
+            },
+            {
+                "QID": "Q1074407",
+                "label": "chinos",
+                "depth": 2
+            },
+            {
+                "QID": "Q18088270",
+                "label": "dress trousers",
+                "depth": 2
+            },
+            {
+                "QID": "Q3530132",
+                "label": "tobi trousers",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q7133943",
+                "label": "parachute pants",
+                "depth": 2
+            },
+            {
+                "QID": "Q15133790",
+                "label": "culottes",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 91
+    },
+    "Q30299483": {
+        "positive": [
+            {
+                "QID": "Q483242",
+                "label": "laboratory",
+                "depth": 1
+            },
+            {
+                "QID": "Q7315155",
+                "label": "research center",
+                "depth": 1
+            },
+            {
+                "QID": "Q13226383",
+                "label": "facility",
+                "depth": 1
+            },
+            {
+                "QID": "Q57951700",
+                "label": "research site",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q47519912",
+                "label": "bicycle repair station",
+                "depth": 2
+            },
+            {
+                "QID": "Q57504458",
+                "label": "port infrastructure",
+                "depth": 2
+            },
+            {
+                "QID": "Q47524436",
+                "label": "swimming area",
+                "depth": 2
+            },
+            {
+                "QID": "Q11560645",
+                "label": "waste management facility",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 92
+    },
+    "Q548319": {
+        "positive": [
+            {
+                "QID": "Q7802",
+                "label": "bread",
+                "depth": 1
+            },
+            {
+                "QID": "Q13276",
+                "label": "cake",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 93
+    },
+    "Q462": {
+        "positive": [
+            {
+                "QID": "Q196600",
+                "label": "media franchise",
+                "depth": 1
+            },
+            {
+                "QID": "Q19786787",
+                "label": "Archduke of Geonosis",
+                "depth": 1
+            },
+            {
+                "QID": "Q431289",
+                "label": "brand",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 94
+    },
+    "Q9798": {
+        "positive": [
+            {
+                "QID": "Q181247",
+                "label": "woodwind instrument",
+                "depth": 1
+            },
+            {
+                "QID": "Q55738874",
+                "label": "single clarinets with conical bore",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 95
+    },
+    "Q159144": {
+        "positive": [
+            {
+                "QID": "Q570116",
+                "label": "tourist attraction",
+                "depth": 1
+            },
+            {
+                "QID": "Q875157",
+                "label": "resort",
+                "depth": 1
+            },
+            {
+                "QID": "Q194195",
+                "label": "amusement park",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 96
+    },
+    "Q1200183": {
+        "positive": [
+            {
+                "QID": "Q586034",
+                "label": "Fiber to the x",
+                "depth": 1
+            },
+            {
+                "QID": "Q121359",
+                "label": "infrastructure",
+                "depth": 1
+            },
+            {
+                "QID": "Q7257917",
+                "label": "Public infrastructure",
+                "depth": 2
+            },
+            {
+                "QID": "Q594593",
+                "label": "IT infrastructure",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q1817119",
+                "label": "ICT infrastructure",
+                "depth": 2
+            },
+            {
+                "QID": "Q1438053",
+                "label": "research infrastructure",
+                "depth": 2
+            },
+            {
+                "QID": "Q15411548",
+                "label": "computing infrastructure",
+                "depth": 2
+            },
+            {
+                "QID": "Q3456887",
+                "label": "logistic network",
+                "depth": 2
+            },
+            {
+                "QID": "Q10677200",
+                "label": "municipal broadband",
+                "depth": 2
+            },
+            {
+                "QID": "Q1144084",
+                "label": "utility pole",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 97
+    },
+    "Q95": {
+        "positive": [
+            {
+                "QID": "Q891723",
+                "label": "public company",
+                "depth": 1
+            },
+            {
+                "QID": "Q4830453",
+                "label": "business",
+                "depth": 1
+            },
+            {
+                "QID": "Q18388277",
+                "label": "technology company",
+                "depth": 1
+            },
+            {
+                "QID": "Q1058914",
+                "label": "software company",
+                "depth": 2
+            },
+            {
+                "QID": "Q13637823",
+                "label": "Independent hardware vendor",
+                "depth": 2
+            }
+        ],
+        "negative": [],
+        "cls_idx": 98
+    },
+    "Q131476": {
+        "positive": [
+            {
+                "QID": "Q11862829",
+                "label": "academic discipline",
+                "depth": 1
+            },
+            {
+                "QID": "Q4671286",
+                "label": "academic major",
+                "depth": 1
+            },
+            {
+                "QID": "Q4115842",
+                "label": "topological graph theory",
+                "depth": 1
+            },
+            {
+                "QID": "Q18205998",
+                "label": "circuit topology",
+                "depth": 1
+            },
+            {
+                "QID": "Q1503271",
+                "label": "geometric graph theory",
+                "depth": 1
+            },
+            {
+                "QID": "Q4417999",
+                "label": "network analysis",
+                "depth": 1
+            },
+            {
+                "QID": "Q3180727",
+                "label": "spectral graph theory",
+                "depth": 1
+            },
+            {
+                "QID": "Q1936384",
+                "label": "area of mathematics",
+                "depth": 1
+            },
+            {
+                "QID": "Q381009",
+                "label": "chemical graph theory",
+                "depth": 1
+            },
+            {
+                "QID": "Q17737",
+                "label": "theory",
+                "depth": 1
+            },
+            {
+                "QID": "Q20026918",
+                "label": "mathematical theory",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q5004188",
+                "label": "bypass",
+                "depth": 2
+            },
+            {
+                "QID": "Q5416712",
+                "label": "Event chain methodology",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 99
+    },
+    "Q180": {
+        "positive": [
+            {
+                "QID": "Q2166013",
+                "label": "wiki hosting service",
+                "depth": 1
+            },
+            {
+                "QID": "Q708676",
+                "label": "charitable organization",
+                "depth": 1
+            },
+            {
+                "QID": "Q157031",
+                "label": "foundation",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 100
+    },
+    "Q1146208": {
+        "positive": [
+            {
+                "QID": "Q13582798",
+                "label": "Public Scientific and Technical Research Establishment",
+                "depth": 1
+            }
+        ],
+        "negative": [],
+        "cls_idx": 101
+    },
+    "Q2551422": {
+        "positive": [
+            {
+                "QID": "Q1132455",
+                "label": "hazard",
+                "depth": 1
+            },
+            {
+                "QID": "Q481609",
+                "label": "damage",
+                "depth": 1
+            },
+            {
+                "QID": "Q3433179",
+                "label": "natural risk",
+                "depth": 2
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q152749",
+                "label": "radiation damage",
+                "depth": 2
+            },
+            {
+                "QID": "Q19914521",
+                "label": "ground damage",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 102
+    },
+    "Q174320": {
+        "positive": [
+            {
+                "QID": "Q2425052",
+                "label": "electrical appliance",
+                "depth": 1
+            },
+            {
+                "QID": "Q2041172",
+                "label": "measuring instrument",
+                "depth": 1
+            }
+        ],
+        "negative": [
+            {
+                "QID": "Q831990",
+                "label": "electrical part",
+                "depth": 2
+            }
+        ],
+        "cls_idx": 103
+    }
+}

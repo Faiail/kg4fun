@@ -1,0 +1,16 @@
+general:
+  pbar: True
+  in_dir: data/raw/pruning-datasets/dataset1
+  out_dir: data/processed/dataset1
+  limit: 1000
+  chunk_node_size: 100
+  save_size: 1000
+dataset:
+  name: dataset1
+  filtered: True
+  edge_type_relations:
+    - P1647 # subproperty of
+    - P1659 # related property of
+    - P1628 # equivalent property of
+wrapper:
+  url: http://127.0.0.1:7001

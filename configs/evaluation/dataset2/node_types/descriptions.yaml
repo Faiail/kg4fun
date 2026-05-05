@@ -1,0 +1,61 @@
+general:
+  out_dir: reports/metrics/dataset2/node_types
+  pbar: True
+  out_fname: descriptions.json
+data:
+  name: NodeTypeDataset
+  config:
+    generated_dataset: data/processed/dataset2/node_types/summarization/qwen3-8b/node_type_info.json
+    node_info: data/processed/dataset2/node_type_info.json
+    decisions: data/processed/dataset2/node_types.json
+    target_content_key: itemDescription
+loader:
+  batch_size: 10
+  shuffle: False
+  drop_last: False
+  num_workers: 8
+metrics:
+  root_sem_score:
+    name: RootSEMScore
+    config:
+      model_name: &model_name all-MiniLM-L6-v2
+      device: &device cuda:1
+      gt_key: &root_key root
+  root_rouge_score:
+    name: RootROUGEScore
+    config:
+      gt_key: *root_key
+  positive_sem_score:
+    name: DecisionSEMScore
+    config:
+      model_name: *model_name
+      device: *device
+      gt_key: &positive_key positive
+  positive_rouge_score:
+    name: DecisionROUGEScore
+    config:
+      gt_key: *positive_key
+  negative_sem_score:
+    name: DecisionSEMScore
+    config:
+      model_name: *model_name
+      device: *device
+      gt_key: &negative_key negative
+  negative_rouge_score:
+    name: DecisionROUGEScore
+    config:
+      gt_key: negative
+  combined_sam_score:
+    name: CombinedSEMScore
+    config:
+      model_name: *model_name
+      device: *device
+      root_key: *root_key
+      positive_key: *positive_key
+      negative_key: *negative_key
+  combined_rouge_score:
+    name: CombinedROUGEScore
+    config:
+      root_key: *root_key
+      positive_key: *positive_key
+      negative_key: *negative_key

@@ -1,0 +1,2636 @@
+[
+    {
+        "idx": 0,
+        "thinking": "",
+        "itemLabel": "Mobile phone standard.",
+        "itemDescription": "A telecommunications standard for mobile data transmission and voice communication, encompassing technologies that extend and enhance GSM capabilities."
+    },
+    {
+        "idx": 1,
+        "thinking": "",
+        "itemLabel": "Mobile operating system.",
+        "itemDescription": "Operating system designed for mobile devices, specifically smartphones, focusing on user interface, app ecosystem, and device-specific functionalities."
+    },
+    {
+        "idx": 2,
+        "thinking": "",
+        "itemLabel": "Cryptographic protocol.",
+        "itemDescription": "Protocol involving cryptographic operations for secure communication or authentication."
+    },
+    {
+        "idx": 3,
+        "thinking": "",
+        "itemLabel": "Profession.",
+        "itemDescription": "Occupation requiring specialized training and responsibility for specific tasks or domains."
+    },
+    {
+        "idx": 4,
+        "thinking": "",
+        "itemLabel": "Profession.",
+        "itemDescription": "Occupation requiring specialized training and typically involving analytical or technical expertise in a specific field."
+    },
+    {
+        "idx": 5,
+        "thinking": "",
+        "itemLabel": "Business model.",
+        "itemDescription": "Model that defines how an organization generates revenue, delivers value, and sustains operations through structured interactions with customers and stakeholders."
+    },
+    {
+        "idx": 6,
+        "thinking": "",
+        "itemLabel": "Service provider.",
+        "itemDescription": "Organization that delivers specific services to clients, typically within a particular industry or domain."
+    },
+    {
+        "idx": 7,
+        "thinking": "",
+        "itemLabel": "Organizational role.",
+        "itemDescription": "Position within an organization that involves leadership, decision-making, and management responsibilities."
+    },
+    {
+        "idx": 8,
+        "thinking": "",
+        "itemLabel": "Computer storage medium.",
+        "itemDescription": "Physical or electronic medium used for storing digital data in a computer system."
+    },
+    {
+        "idx": 9,
+        "thinking": "",
+        "itemLabel": "Root analysis technique.",
+        "itemDescription": "Systematic method for identifying the root cause of a problem by repeatedly asking 'why' to uncover underlying issues."
+    },
+    {
+        "idx": 10,
+        "thinking": "",
+        "itemLabel": "Blanket term.",
+        "itemDescription": "A general term that encompasses a wide range of related concepts or instances within a specific domain."
+    },
+    {
+        "idx": 11,
+        "thinking": "",
+        "itemLabel": "IEEE standard version.",
+        "itemDescription": "A specific edition or revision of an IEEE recommendation, representing a distinct technical specification within a standards family."
+    },
+    {
+        "idx": 12,
+        "thinking": "",
+        "itemLabel": "markup language.",
+        "itemDescription": "Language for annotating documents with structured tags to define content and presentation."
+    },
+    {
+        "idx": 13,
+        "thinking": "",
+        "itemLabel": "Free and open-source password manager.",
+        "itemDescription": "Software application for securely storing and managing passwords, developed under a free and open-source license."
+    },
+    {
+        "idx": 14,
+        "thinking": "",
+        "itemLabel": "Business entity.",
+        "itemDescription": "Organization engaged in commercial, industrial, or professional activities with structured operations and decision-making processes."
+    },
+    {
+        "idx": 15,
+        "thinking": "",
+        "itemLabel": "Software feature.",
+        "itemDescription": "A distinctive characteristic or component that differentiates a software application or system."
+    },
+    {
+        "idx": 16,
+        "thinking": "",
+        "itemLabel": "Technology.",
+        "itemDescription": "Application of scientific knowledge for practical purposes, focusing on tools, systems, and methods to achieve specific functional or industrial objectives."
+    },
+    {
+        "idx": 17,
+        "thinking": "",
+        "itemLabel": "Workers representation.",
+        "itemDescription": "Formal mechanism for employees to participate in decision-making processes within an organization in France."
+    },
+    {
+        "idx": 18,
+        "thinking": "",
+        "itemLabel": "Programming language.",
+        "itemDescription": "Language used to communicate instructions to a computer, supporting various programming paradigms and execution models."
+    },
+    {
+        "idx": 19,
+        "thinking": "",
+        "itemLabel": "XML format.",
+        "itemDescription": "A structured data format based on XML, used for encoding and exchanging information in a standardized way."
+    },
+    {
+        "idx": 20,
+        "thinking": "",
+        "itemLabel": "Telecommunication service.",
+        "itemDescription": "Service related to the transmission of information over telecommunications networks."
+    },
+    {
+        "idx": 21,
+        "thinking": "",
+        "itemLabel": "Role.",
+        "itemDescription": "Function or part played by an entity in relation to another entity, defining its responsibilities and interactions."
+    },
+    {
+        "idx": 22,
+        "thinking": "",
+        "itemLabel": "Free and open-source software.",
+        "itemDescription": "Software that is both free (as in freedom) and open-source, allowing users to inspect, modify, and distribute the source code."
+    },
+    {
+        "idx": 23,
+        "thinking": "",
+        "itemLabel": "Concept.",
+        "itemDescription": "Abstract entity representing a general idea or principle with specific characteristics and applications."
+    },
+    {
+        "idx": 24,
+        "thinking": "",
+        "itemLabel": "Internet protocol.",
+        "itemDescription": "Protocol within the Internet protocol suite responsible for error reporting and network diagnostics."
+    },
+    {
+        "idx": 25,
+        "thinking": "",
+        "itemLabel": "File format.",
+        "itemDescription": "Structured format for storing and transmitting data, typically defined by technical specifications and used for specific media types."
+    },
+    {
+        "idx": 26,
+        "thinking": "",
+        "itemLabel": "Technical standard.",
+        "itemDescription": "Standard that defines specifications for technical performance, format, or operation in a specific domain."
+    },
+    {
+        "idx": 27,
+        "thinking": "",
+        "itemLabel": "Management tool.",
+        "itemDescription": "Tool used to analyze and visualize causal relationships in processes, aiding in problem-solving and decision-making."
+    },
+    {
+        "idx": 28,
+        "thinking": "",
+        "itemLabel": "Software feature.",
+        "itemDescription": "Distinguishing characteristic or functionality of a software application that provides specific value or capability."
+    },
+    {
+        "idx": 29,
+        "thinking": "",
+        "itemLabel": "Network protocol.",
+        "itemDescription": "Standardized method for communication and data transfer across computer networks, defining rules for data formatting, transmission, and error checking."
+    },
+    {
+        "idx": 30,
+        "thinking": "",
+        "itemLabel": "Acronym.",
+        "itemDescription": "Abbreviation formed from the initial letters of a phrase or name, used to represent a concept or term."
+    },
+    {
+        "idx": 31,
+        "thinking": "",
+        "itemLabel": "Software development approach.",
+        "itemDescription": "A methodology or practice that integrates software development and operations to enhance collaboration, automation, and efficiency in the software development lifecycle."
+    },
+    {
+        "idx": 32,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "A classification of software based on its functionality, purpose, or technical characteristics."
+    },
+    {
+        "idx": 33,
+        "thinking": "",
+        "itemLabel": "Trend.",
+        "itemDescription": "A directional shift or pattern of development observed in technology, culture, or behavior over time."
+    },
+    {
+        "idx": 34,
+        "thinking": "",
+        "itemLabel": "Wireless access point.",
+        "itemDescription": "Device that enables wireless devices to connect to a wired network or other network resources using wireless communication standards."
+    },
+    {
+        "idx": 35,
+        "thinking": "",
+        "itemLabel": "Technical standard.",
+        "itemDescription": "Standardized approach for implementing and transmitting digital data over existing telephone infrastructure."
+    },
+    {
+        "idx": 36,
+        "thinking": "",
+        "itemLabel": "Corporate title.",
+        "itemDescription": "Title within an organization that defines the duties and responsibilities of a senior executive position."
+    },
+    {
+        "idx": 37,
+        "thinking": "",
+        "itemLabel": "Nonprofit organization.",
+        "itemDescription": "Legal entity established for purposes other than generating profit, operating for the benefit of a community or specific cause."
+    },
+    {
+        "idx": 38,
+        "thinking": "",
+        "itemLabel": "scalable property.",
+        "itemDescription": "A system's capacity to handle increased workload through resource addition."
+    },
+    {
+        "idx": 39,
+        "thinking": "",
+        "itemLabel": "access control mechanism.",
+        "itemDescription": "Systematic method for verifying user identity and restricting access to resources based on predefined policies and authentication processes."
+    },
+    {
+        "idx": 40,
+        "thinking": "",
+        "itemLabel": "Specification.",
+        "itemDescription": "Explicit set of requirements defining the functional and non-functional characteristics of a system, product, or service."
+    },
+    {
+        "idx": 41,
+        "thinking": "",
+        "itemLabel": "Global navigation system.",
+        "itemDescription": "Satellite-based system providing geo-spatial positioning, navigation, and timing services with global coverage."
+    },
+    {
+        "idx": 42,
+        "thinking": "",
+        "itemLabel": "Unit of measurement.",
+        "itemDescription": "Standardized quantity used to express the magnitude of a physical or abstract attribute in a consistent and comparable manner."
+    },
+    {
+        "idx": 43,
+        "thinking": "",
+        "itemLabel": "Subculture.",
+        "itemDescription": "A group with distinct values, norms, and practices that differ from mainstream society, often characterized by specific interests or activities."
+    },
+    {
+        "idx": 44,
+        "thinking": "",
+        "itemLabel": "Working group.",
+        "itemDescription": "Collaborative assembly of domain experts focused on achieving specific objectives through structured discussion and consensus."
+    },
+    {
+        "idx": 45,
+        "thinking": "",
+        "itemLabel": "Interdisciplinary science.",
+        "itemDescription": "A field of study that integrates knowledge and methodologies from multiple academic disciplines to address complex problems."
+    },
+    {
+        "idx": 46,
+        "thinking": "",
+        "itemLabel": "Academic discipline.",
+        "itemDescription": "Field of study or profession focused on systematic research and application of knowledge within a specific domain."
+    },
+    {
+        "idx": 47,
+        "thinking": "",
+        "itemLabel": "Payment system.",
+        "itemDescription": "Infrastructure and protocols for transferring monetary value between parties, including digital and electronic transaction methods."
+    },
+    {
+        "idx": 48,
+        "thinking": "",
+        "itemLabel": "Computer network protocol.",
+        "itemDescription": "Protocol governing the transmission of data across computer networks, specifying how data is formatted, addressed, transmitted, and received."
+    },
+    {
+        "idx": 49,
+        "thinking": "",
+        "itemLabel": "State-owned enterprise.",
+        "itemDescription": "A legal entity controlled by a government to undertake commercial activities, typically operating in sectors of strategic importance."
+    },
+    {
+        "idx": 50,
+        "thinking": "",
+        "itemLabel": "Design requirement.",
+        "itemDescription": "Specification that a design, product, or process must meet or conform to."
+    },
+    {
+        "idx": 51,
+        "thinking": "",
+        "itemLabel": "Industrial sector.",
+        "itemDescription": "Economic sector focused on large-scale automated manufacturing and production processes."
+    },
+    {
+        "idx": 52,
+        "thinking": "",
+        "itemLabel": "Computer network protocol.",
+        "itemDescription": "Protocol used for data communication over telecommunications networks, specifically for encapsulating and transmitting data between network nodes."
+    },
+    {
+        "idx": 53,
+        "thinking": "",
+        "itemLabel": "Notion.",
+        "itemDescription": "Mental representation of real objects or phenomena, characterized by their essential features and relations."
+    },
+    {
+        "idx": 54,
+        "thinking": "",
+        "itemLabel": "Computer protocol.",
+        "itemDescription": "Standardized method for data communication and network interaction, defining rules for data transmission and network operations."
+    },
+    {
+        "idx": 55,
+        "thinking": "",
+        "itemLabel": "Country code.",
+        "itemDescription": "Alphabetic or numeric code representing a country or dependent area as defined by international standards."
+    },
+    {
+        "idx": 56,
+        "thinking": "",
+        "itemLabel": "Academic field.",
+        "itemDescription": "Discipline of study within academia, characterized by systematic research and teaching in a specific area of knowledge."
+    },
+    {
+        "idx": 57,
+        "thinking": "",
+        "itemLabel": "Cyberattack.",
+        "itemDescription": "Malicious activity aimed at compromising, disrupting, or exploiting computer systems, networks, or data through various technical means."
+    },
+    {
+        "idx": 58,
+        "thinking": "",
+        "itemLabel": "Mass storage device.",
+        "itemDescription": "Storage medium that records and retrieves digital data, utilizing magnetic, optical, or solid-state technologies for long-term data retention."
+    },
+    {
+        "idx": 59,
+        "thinking": "",
+        "itemLabel": "Computer number format.",
+        "itemDescription": "A method for representing numerical values in a computer using binary encoding, encompassing various formats for integers, fixed-point, and floating-point numbers."
+    },
+    {
+        "idx": 60,
+        "thinking": "",
+        "itemLabel": "Link-state routing protocol.",
+        "itemDescription": "Routing protocol that uses a link-state algorithm to determine the best path for forwarding data packets within a network."
+    },
+    {
+        "idx": 61,
+        "thinking": "",
+        "itemLabel": "Markup language.",
+        "itemDescription": "Language used to annotate and structure documents with tags for defining content and formatting."
+    },
+    {
+        "idx": 62,
+        "thinking": "",
+        "itemLabel": "Service on Internet.",
+        "itemDescription": "A service that leverages the Internet to provide communication, information exchange, or interaction capabilities."
+    },
+    {
+        "idx": 63,
+        "thinking": "",
+        "itemLabel": "Computer network protocol.",
+        "itemDescription": "Protocol defining the rules for communication over a data network, enabling structured data transfer and interaction between devices."
+    },
+    {
+        "idx": 64,
+        "thinking": "",
+        "itemLabel": "Computer network protocol.",
+        "itemDescription": "Standardized method for transferring data between computers over a network, incorporating security features through cryptographic protocols."
+    },
+    {
+        "idx": 65,
+        "thinking": "",
+        "itemLabel": "Technology.",
+        "itemDescription": "Application of scientific knowledge for practical purposes, including tools, systems, and methods to solve specific problems or enhance functionality."
+    },
+    {
+        "idx": 66,
+        "thinking": "",
+        "itemLabel": "Phonetic alphabet.",
+        "itemDescription": "Writing system used to represent the sounds of a language in a standardized way."
+    },
+    {
+        "idx": 67,
+        "thinking": "",
+        "itemLabel": "Position.",
+        "itemDescription": "Social role within an organization characterized by defined responsibilities and authority levels."
+    },
+    {
+        "idx": 68,
+        "thinking": "",
+        "itemLabel": "Business.",
+        "itemDescription": "Organization engaged in commercial activities, including the provision of goods and services for profit."
+    },
+    {
+        "idx": 69,
+        "thinking": "",
+        "itemLabel": "National research network.",
+        "itemDescription": "Specialised internet service provider supporting research and education institutions within a country."
+    },
+    {
+        "idx": 70,
+        "thinking": "",
+        "itemLabel": "Block cipher.",
+        "itemDescription": "Cryptographic algorithm that encrypts data in fixed-size blocks using a symmetric key."
+    },
+    {
+        "idx": 71,
+        "thinking": "",
+        "itemLabel": "Network protocol.",
+        "itemDescription": "Communication protocol used to facilitate data transmission and management within telecommunications networks."
+    },
+    {
+        "idx": 72,
+        "thinking": "",
+        "itemLabel": "Data-rate unit.",
+        "itemDescription": "Unit of measurement used to quantify the speed at which data is transferred or processed."
+    },
+    {
+        "idx": 73,
+        "thinking": "",
+        "itemLabel": "Query language.",
+        "itemDescription": "Language used to retrieve and manipulate data from databases or structured information systems."
+    },
+    {
+        "idx": 74,
+        "thinking": "",
+        "itemLabel": "Programming paradigm.",
+        "itemDescription": "A category of programming languages characterized by specific structural, logical, or executional features that influence how programs are designed and executed."
+    },
+    {
+        "idx": 75,
+        "thinking": "",
+        "itemLabel": "Style sheet language.",
+        "itemDescription": "Language used to define the visual presentation of structured documents such as HTML and XML."
+    },
+    {
+        "idx": 76,
+        "thinking": "",
+        "itemLabel": "Query language.",
+        "itemDescription": "Language used to retrieve and manipulate data from structured information systems and databases."
+    },
+    {
+        "idx": 77,
+        "thinking": "",
+        "itemLabel": "Investment type.",
+        "itemDescription": "A category of financial commitment characterized by non-periodic returns and structured as a capital-based investment arrangement."
+    },
+    {
+        "idx": 78,
+        "thinking": "",
+        "itemLabel": "Exterior gateway protocol.",
+        "itemDescription": "Routing protocol used to exchange routing information between different networks on the Internet."
+    },
+    {
+        "idx": 79,
+        "thinking": "",
+        "itemLabel": "Electrical phenomenon.",
+        "itemDescription": "Physical phenomenon involving the interaction of electrical signals in a system, leading to unintended effects across channels."
+    },
+    {
+        "idx": 80,
+        "thinking": "",
+        "itemLabel": "Chemical function class.",
+        "itemDescription": "Group of chemical entities that share a common role or mechanism in chemical reactions, such as acting as reducing agents or having similar therapeutic applications."
+    },
+    {
+        "idx": 81,
+        "thinking": "",
+        "itemLabel": "Coordinate system.",
+        "itemDescription": "System for defining positions and orientations in a specific spatial context, often used in geodesy, navigation, and surveying."
+    },
+    {
+        "idx": 82,
+        "thinking": "",
+        "itemLabel": "Social phenomenon.",
+        "itemDescription": "A phenomenon involving interactions between individuals or groups that result in unintended consequences or widespread public reaction."
+    },
+    {
+        "idx": 83,
+        "thinking": "",
+        "itemLabel": "Corporate concept.",
+        "itemDescription": "Concept used in business contexts, often characterized by specific terminology and evolving significance within organizational communication and strategy."
+    },
+    {
+        "idx": 84,
+        "thinking": "",
+        "itemLabel": "communications system.",
+        "itemDescription": "System facilitating the transmission of information over distances through various communication technologies and networks."
+    },
+    {
+        "idx": 85,
+        "thinking": "",
+        "itemLabel": "Information infrastructure.",
+        "itemDescription": "Systematic framework of people, processes, tools, and technology that supports the creation, storage, transport, and use of information."
+    },
+    {
+        "idx": 86,
+        "thinking": "",
+        "itemLabel": "Agile manifesto.",
+        "itemDescription": "Manifesto outlining principles and values for iterative, collaborative software development practices."
+    },
+    {
+        "idx": 87,
+        "thinking": "",
+        "itemLabel": "Text-based mail protocol.",
+        "itemDescription": "Protocol for email communication using human-readable text formats for message transmission."
+    },
+    {
+        "idx": 88,
+        "thinking": "",
+        "itemLabel": "",
+        "itemDescription": "\u56e0\u6b64\uff0c\u53ef\u80fd\u7684\u7c7b\u522b\u662f\u201c\u5e94\u7528\u5c42\u6570\u636e\u4f20\u8f93\u534f\u8bae\u201d\u6216\u201c\u7f51\u7edc\u901a\u4fe1\u4f18\u5316\u534f\u8bae\u201d\u3002\u4f46\u9700\u8981\u68c0\u67e5\u662f\u5426\u7b26\u5408\u7528\u6237\u4e4b\u524d\u7684\u6a21\u5f0f\u3002\u4f8b\u5982\uff0c\u4e4b\u524d\u7684\u4f8b\u5b50\u4e2d\uff0cS/MIME\u7684\u6b63\u4f8b\u662f\u5bc6\u7801\u534f\u8bae\uff0c\u8d1f\u4f8b\u662f\u4fe1\u53f7\u534f\u8bae\uff0c\u6240\u4ee5\u7c7b\u522b\u662f\u201c\u5bc6\u7801\u534f\u8bae\u201d\u3002\u8fd9\u91cc\u53ef\u80fd\u9700\u8981\u7c7b\u4f3c\uff0c\u5c06\u6b63\u4f8b\u5f52"
+    },
+    {
+        "idx": 89,
+        "thinking": "",
+        "itemLabel": "Markup language.",
+        "itemDescription": "Language used to annotate text documents with tags to define structure, content, and presentation for rendering in a web browser or other applications."
+    },
+    {
+        "idx": 90,
+        "thinking": "",
+        "itemLabel": "national public health agency.",
+        "itemDescription": "Public institution in France responsible for health risk management and medicine safety."
+    },
+    {
+        "idx": 91,
+        "thinking": "",
+        "itemLabel": "Protocol data unit.",
+        "itemDescription": "Basic unit of data transmitted between peer entities in a network protocol, containing both header and payload information."
+    },
+    {
+        "idx": 92,
+        "thinking": "",
+        "itemLabel": "Text-based network protocol.",
+        "itemDescription": "Network protocol utilizing human-readable text format for data transmission, specifically applied to email communication systems."
+    },
+    {
+        "idx": 93,
+        "thinking": "",
+        "itemLabel": "Internet service provider.",
+        "itemDescription": "Organization that provides access to the Internet and related services."
+    },
+    {
+        "idx": 94,
+        "thinking": "",
+        "itemLabel": "Standards organisation.",
+        "itemDescription": "Organization responsible for developing and establishing technical standards within a specific region or industry."
+    },
+    {
+        "idx": 95,
+        "thinking": "",
+        "itemLabel": "Internet service provider.",
+        "itemDescription": "Organization that provides access to the Internet and related telecommunications services."
+    },
+    {
+        "idx": 96,
+        "thinking": "",
+        "itemLabel": "Identifier.",
+        "itemDescription": "Unique name or code used to distinctly identify a specific entity or category within a defined context."
+    },
+    {
+        "idx": 97,
+        "thinking": "",
+        "itemLabel": "Convention series.",
+        "itemDescription": "A recurring sequence of professional meetings focused on a specific topic or field."
+    },
+    {
+        "idx": 98,
+        "thinking": "",
+        "itemLabel": "organization.",
+        "itemDescription": "Social entity established to meet needs or pursue goals through structured activities and resource management."
+    },
+    {
+        "idx": 99,
+        "thinking": "",
+        "itemLabel": "Internet protocol.",
+        "itemDescription": "Standardized communication protocol framework enabling data transmission across interconnected networks."
+    },
+    {
+        "idx": 100,
+        "thinking": "",
+        "itemLabel": "Reference point.",
+        "itemDescription": "A point or level relative to which measurements or values are defined and compared."
+    },
+    {
+        "idx": 101,
+        "thinking": "",
+        "itemLabel": "Measure of forecast accuracy.",
+        "itemDescription": "Statistical measure that quantifies the difference between predicted and observed values in forecasting models."
+    },
+    {
+        "idx": 102,
+        "thinking": "",
+        "itemLabel": "Internet standard.",
+        "itemDescription": "Standardized protocol or framework established for the operation and communication within internet networks."
+    },
+    {
+        "idx": 103,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "A classification of software based on its primary function or purpose, encompassing applications designed for specific tasks or domains."
+    },
+    {
+        "idx": 104,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "A classification of software based on its primary function or purpose, including types of applications and tools used in specific domains."
+    },
+    {
+        "idx": 105,
+        "thinking": "",
+        "itemLabel": "Public infrastructure manager.",
+        "itemDescription": "Organization responsible for the construction, maintenance, and management of railway infrastructure without operating train services."
+    },
+    {
+        "idx": 106,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "A classification of software based on its functionality, purpose, or application domain."
+    },
+    {
+        "idx": 107,
+        "thinking": "",
+        "itemLabel": "Computer protocol.",
+        "itemDescription": "Standardized method for communication and data transfer across computer networks, based on defined rules and formats."
+    },
+    {
+        "idx": 108,
+        "thinking": "",
+        "itemLabel": "Method.",
+        "itemDescription": "Structured approach to achieving specific objectives, encompassing techniques and procedures used in various domains such as computer security, science, and philosophy."
+    },
+    {
+        "idx": 109,
+        "thinking": "",
+        "itemLabel": "Standards organization.",
+        "itemDescription": "Organization responsible for developing and setting technical or industry standards at national, regional, or international levels."
+    },
+    {
+        "idx": 110,
+        "thinking": "",
+        "itemLabel": "Programming language.",
+        "itemDescription": "Language used to communicate instructions to a machine, typically for execution in a specific environment or platform."
+    },
+    {
+        "idx": 111,
+        "thinking": "",
+        "itemLabel": "Relational database management system.",
+        "itemDescription": "Database system that organizes and manages data using the relational model, supporting structured query and transaction processing."
+    },
+    {
+        "idx": 112,
+        "thinking": "",
+        "itemLabel": "Technical standard.",
+        "itemDescription": "Established norm for the consistent handling of data, communication, and transmission protocols in digital telecommunications."
+    },
+    {
+        "idx": 113,
+        "thinking": "",
+        "itemLabel": "Authentication method.",
+        "itemDescription": "Method of verifying a user's identity by requiring multiple forms of evidence to establish access."
+    },
+    {
+        "idx": 114,
+        "thinking": "",
+        "itemLabel": "Nonprofit organization.",
+        "itemDescription": "Organization established for the collective benefit of a community or society, typically without the primary aim of generating profit."
+    },
+    {
+        "idx": 115,
+        "thinking": "",
+        "itemLabel": "Academic discipline.",
+        "itemDescription": "Field of study or profession characterized by systematic research, theoretical frameworks, and specialized knowledge."
+    },
+    {
+        "idx": 116,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "A classification of software based on its function, purpose, or technical characteristics."
+    },
+    {
+        "idx": 117,
+        "thinking": "",
+        "itemLabel": "Application programming interface.",
+        "itemDescription": "Standardized interface for interacting with software components, enabling communication between different systems or applications."
+    },
+    {
+        "idx": 118,
+        "thinking": "",
+        "itemLabel": "Business entity.",
+        "itemDescription": "Organization engaged in commercial activities, particularly in telecommunications and technology sectors."
+    },
+    {
+        "idx": 119,
+        "thinking": "",
+        "itemLabel": "Standards organization.",
+        "itemDescription": "Organization that develops and establishes technical or industry standards."
+    },
+    {
+        "idx": 120,
+        "thinking": "",
+        "itemLabel": "Mobile phone standard.",
+        "itemDescription": "Standard defining the technical specifications for mobile telecommunications technology, enabling advanced voice and data services."
+    },
+    {
+        "idx": 121,
+        "thinking": "",
+        "itemLabel": "Personal development approach.",
+        "itemDescription": "A framework focused on improving individual growth, communication, and therapeutic techniques through structured methodologies."
+    },
+    {
+        "idx": 122,
+        "thinking": "",
+        "itemLabel": "Web framework.",
+        "itemDescription": "Software framework designed to support the development of websites, web applications, and web services."
+    },
+    {
+        "idx": 123,
+        "thinking": "",
+        "itemLabel": "Telecommunications company.",
+        "itemDescription": "Organization engaged in the provision of telecommunications services and infrastructure."
+    },
+    {
+        "idx": 124,
+        "thinking": "",
+        "itemLabel": "unit of optical power.",
+        "itemDescription": "Standardized measure of the refractive power of a lens or medium, quantifying the ability to converge or diverge light."
+    },
+    {
+        "idx": 125,
+        "thinking": "",
+        "itemLabel": "Mobile operating system.",
+        "itemDescription": "Operating system designed for mobile devices, providing a platform for application execution and device management."
+    },
+    {
+        "idx": 126,
+        "thinking": "",
+        "itemLabel": "Open standard.",
+        "itemDescription": "Standard that is publicly accessible, freely usable, and modifiable by anyone without restrictions."
+    },
+    {
+        "idx": 127,
+        "thinking": "",
+        "itemLabel": "Information system.",
+        "itemDescription": "System that integrates data, resources, and processes to support information creation, storage, and retrieval within an organizational context."
+    },
+    {
+        "idx": 128,
+        "thinking": "",
+        "itemLabel": "Technical specification.",
+        "itemDescription": "Formalized set of technical characteristics defining a standard, format, or protocol for interoperability and implementation."
+    },
+    {
+        "idx": 129,
+        "thinking": "",
+        "itemLabel": "Internet protocol.",
+        "itemDescription": "Standardized protocol for data transmission over networks, utilizing text-based formats and defined by internet engineering standards."
+    },
+    {
+        "idx": 130,
+        "thinking": "",
+        "itemLabel": "Kernel virtualization technology.",
+        "itemDescription": "Technology that enables virtualization through a kernel module, often associated with free and open-source software in the Linux ecosystem."
+    },
+    {
+        "idx": 131,
+        "thinking": "",
+        "itemLabel": "SI derived unit.",
+        "itemDescription": "Derived unit in the International System of Units (SI) formed by combining base units to express physical quantities."
+    },
+    {
+        "idx": 132,
+        "thinking": "",
+        "itemLabel": "nonprofit organization.",
+        "itemDescription": "Organization operated for a collective benefit, typically focused on advancing a specific field or societal cause through standards development, publishing, and professional advocacy."
+    },
+    {
+        "idx": 133,
+        "thinking": "",
+        "itemLabel": "Access control mechanism.",
+        "itemDescription": "Systematic method for managing user authentication, authorization, and session management across multiple systems with a unified login process."
+    },
+    {
+        "idx": 134,
+        "thinking": "",
+        "itemLabel": "Technology.",
+        "itemDescription": "Field of applied science focused on the development and application of tools, systems, and methods for practical purposes, particularly in engineering and industrial contexts."
+    },
+    {
+        "idx": 135,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "A classification of software based on its purpose, functionality, or application domain."
+    },
+    {
+        "idx": 136,
+        "thinking": "",
+        "itemLabel": "Network protocol.",
+        "itemDescription": "Protocol governing communication between two devices over a network, defining rules for data transmission and error handling."
+    },
+    {
+        "idx": 137,
+        "thinking": "",
+        "itemLabel": "Academic conference.",
+        "itemDescription": "Conference where researchers present and discuss their findings in a specific academic or professional field."
+    },
+    {
+        "idx": 138,
+        "thinking": "",
+        "itemLabel": "Information system.",
+        "itemDescription": "A structured framework of interconnected components that facilitate the creation, storage, retrieval, and dissemination of information."
+    },
+    {
+        "idx": 139,
+        "thinking": "",
+        "itemLabel": "Government agency.",
+        "itemDescription": "Organizational unit of a government responsible for managing specific public services or regulatory functions."
+    },
+    {
+        "idx": 140,
+        "thinking": "",
+        "itemLabel": "Position.",
+        "itemDescription": "Social role with defined responsibilities and authority within an organizational or project context."
+    },
+    {
+        "idx": 141,
+        "thinking": "",
+        "itemLabel": "Software application.",
+        "itemDescription": "Software designed to perform specific functions, including system management, user interaction, and resource handling."
+    },
+    {
+        "idx": 142,
+        "thinking": "",
+        "itemLabel": "Text-based protocol.",
+        "itemDescription": "Communication protocol that uses human-readable text format for data transmission and interaction."
+    },
+    {
+        "idx": 143,
+        "thinking": "",
+        "itemLabel": "GNSS enhancement.",
+        "itemDescription": "Techniques and systems that improve the accuracy, reliability, and performance of global navigation satellite system positioning data."
+    },
+    {
+        "idx": 144,
+        "thinking": "",
+        "itemLabel": "Data modeling language.",
+        "itemDescription": "Language used to describe the structure, relationships, and constraints of data within a system."
+    },
+    {
+        "idx": 145,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "A classification of software that groups related types of software based on their functionality and purpose."
+    },
+    {
+        "idx": 146,
+        "thinking": "",
+        "itemLabel": "Business organization.",
+        "itemDescription": "Organization engaged in commercial activities, particularly those focused on industry standards, advocacy, and interoperability in the telecommunications and networking sectors."
+    },
+    {
+        "idx": 147,
+        "thinking": "",
+        "itemLabel": "Role.",
+        "itemDescription": "Position or function an entity holds in relation to another entity within a specific context."
+    },
+    {
+        "idx": 148,
+        "thinking": "",
+        "itemLabel": "Software framework.",
+        "itemDescription": "A structured environment that provides common functionality and tools for building and running software applications."
+    },
+    {
+        "idx": 149,
+        "thinking": "",
+        "itemLabel": "Query language.",
+        "itemDescription": "Language used to retrieve, manipulate, and manage data stored in databases or information systems."
+    },
+    {
+        "idx": 150,
+        "thinking": "",
+        "itemLabel": "Computer communication protocol.",
+        "itemDescription": "Protocol that enables data transmission and communication between computer systems over a network."
+    },
+    {
+        "idx": 151,
+        "thinking": "",
+        "itemLabel": "Technical specification.",
+        "itemDescription": "Formalized set of technical characteristics defining the functionality, structure, or behavior of a device, system, or component."
+    },
+    {
+        "idx": 152,
+        "thinking": "",
+        "itemLabel": "Broadcast television system.",
+        "itemDescription": "Standard for transmitting and receiving terrestrial television signals, defining technical parameters for analog video and audio transmission."
+    },
+    {
+        "idx": 153,
+        "thinking": "",
+        "itemLabel": "Web server.",
+        "itemDescription": "Software system that processes and delivers web content using HTTP or HTTPS protocols."
+    },
+    {
+        "idx": 154,
+        "thinking": "",
+        "itemLabel": "Strategic process.",
+        "itemDescription": "Systematic approach to planning, decision-making, and resource allocation to achieve organizational goals."
+    },
+    {
+        "idx": 155,
+        "thinking": "",
+        "itemLabel": "Aspect ratio.",
+        "itemDescription": "Proportional relationship between the width and height of a visual display or image."
+    },
+    {
+        "idx": 156,
+        "thinking": "",
+        "itemLabel": "Identifier.",
+        "itemDescription": "Unique name or label used to identify a specific entity or class of entities within a defined context."
+    },
+    {
+        "idx": 157,
+        "thinking": "",
+        "itemLabel": "Branch of science.",
+        "itemDescription": "A specialized field of scientific study focusing on the systematic examination and application of knowledge within a defined area of inquiry."
+    },
+    {
+        "idx": 158,
+        "thinking": "",
+        "itemLabel": "Utility software.",
+        "itemDescription": "Software designed to perform specific functions that assist in the operation, maintenance, or enhancement of a computing system."
+    },
+    {
+        "idx": 159,
+        "thinking": "",
+        "itemLabel": "Executive agency.",
+        "itemDescription": "Public body of the European Union responsible for managing specific tasks and programmes within a defined timeframe."
+    },
+    {
+        "idx": 160,
+        "thinking": "",
+        "itemLabel": "Probability measure.",
+        "itemDescription": "A mathematical measure that assigns a numerical value between 0 and 1 to events, representing the likelihood of their occurrence."
+    },
+    {
+        "idx": 161,
+        "thinking": "",
+        "itemLabel": "Nonprofit organization.",
+        "itemDescription": "Organization established for the benefit of the public or a specific group, operating without the primary goal of generating profit."
+    },
+    {
+        "idx": 162,
+        "thinking": "",
+        "itemLabel": "Contractual agreement.",
+        "itemDescription": "Formal agreement between parties outlining terms, conditions, and obligations, typically involving services, permissions, or specific deliverables."
+    },
+    {
+        "idx": 163,
+        "thinking": "",
+        "itemLabel": "Carcinogen.",
+        "itemDescription": "Substance that has the potential to cause cancer through its chemical properties."
+    },
+    {
+        "idx": 164,
+        "thinking": "",
+        "itemLabel": "Academic field.",
+        "itemDescription": "Discipline of study or profession within a broader academic or professional domain."
+    },
+    {
+        "idx": 165,
+        "thinking": "",
+        "itemLabel": "Umbrella term.",
+        "itemDescription": "A term that encompasses a diverse set of related technologies, concepts, or practices under a single, generalized label."
+    },
+    {
+        "idx": 166,
+        "thinking": "",
+        "itemLabel": "Free software license.",
+        "itemDescription": "License that grants users the freedom to use, study, modify, and distribute software, often with conditions on how the software can be redistributed."
+    },
+    {
+        "idx": 167,
+        "thinking": "",
+        "itemLabel": "Technical standard.",
+        "itemDescription": "Standardized framework or specification that ensures consistency and interoperability in technical contexts."
+    },
+    {
+        "idx": 168,
+        "thinking": "",
+        "itemLabel": "Audio coding format.",
+        "itemDescription": "Digital format for representing audio signals through compression, balancing quality and data efficiency."
+    },
+    {
+        "idx": 169,
+        "thinking": "",
+        "itemLabel": "Serial communication standard.",
+        "itemDescription": "Standard defining the physical and electrical characteristics for serial data transmission between devices."
+    },
+    {
+        "idx": 170,
+        "thinking": "",
+        "itemLabel": "Logarithmic unit.",
+        "itemDescription": "Unit of measurement based on a logarithmic scale, used to express ratios of physical quantities."
+    },
+    {
+        "idx": 171,
+        "thinking": "",
+        "itemLabel": "Markup language.",
+        "itemDescription": "Language used to annotate text documents with tags to define structure and content."
+    },
+    {
+        "idx": 172,
+        "thinking": "",
+        "itemLabel": "Signal protocol.",
+        "itemDescription": "Protocol used for signaling and control within telecommunications networks, encompassing the exchange of control information between network entities."
+    },
+    {
+        "idx": 173,
+        "thinking": "",
+        "itemLabel": "Public administration of France.",
+        "itemDescription": "A governmental body responsible for administrative functions and policy implementation within the French public sector."
+    },
+    {
+        "idx": 174,
+        "thinking": "",
+        "itemLabel": "Time standard.",
+        "itemDescription": "Standardized system for measuring and regulating time across different regions and contexts."
+    },
+    {
+        "idx": 175,
+        "thinking": "",
+        "itemLabel": "XML format.",
+        "itemDescription": "A data format based on the Extensible Markup Language (XML) for structuring and transmitting information."
+    },
+    {
+        "idx": 176,
+        "thinking": "",
+        "itemLabel": "Selling technique.",
+        "itemDescription": "Method employed to promote and sell products or services directly to potential customers in person."
+    },
+    {
+        "idx": 177,
+        "thinking": "",
+        "itemLabel": "file system.",
+        "itemDescription": "System for organizing, storing, and retrieving data on a storage device or network, with specific structures for managing files and directories."
+    },
+    {
+        "idx": 178,
+        "thinking": "",
+        "itemLabel": "Technology.",
+        "itemDescription": "Application of scientific knowledge for practical purposes, focusing on communication and interaction through devices and systems."
+    },
+    {
+        "idx": 179,
+        "thinking": "",
+        "itemLabel": "",
+        "itemDescription": ""
+    },
+    {
+        "idx": 180,
+        "thinking": "",
+        "itemLabel": "Web service.",
+        "itemDescription": "Online service providing geographic data and mapping functionalities through a web interface."
+    },
+    {
+        "idx": 181,
+        "thinking": "",
+        "itemLabel": "Software framework.",
+        "itemDescription": "Framework providing structured components and tools for building and managing complex software applications."
+    },
+    {
+        "idx": 182,
+        "thinking": "",
+        "itemLabel": "Technical specification.",
+        "itemDescription": "Detailed document outlining the structure, format, and functionality of a technical system or component."
+    },
+    {
+        "idx": 183,
+        "thinking": "",
+        "itemLabel": "Distributed file system.",
+        "itemDescription": "A file system that stores and manages data across multiple interconnected nodes, enabling scalable and fault-tolerant data storage and retrieval."
+    },
+    {
+        "idx": 184,
+        "thinking": "",
+        "itemLabel": "Community project.",
+        "itemDescription": "A collaborative initiative involving public participation and volunteer efforts to achieve a common goal."
+    },
+    {
+        "idx": 185,
+        "thinking": "",
+        "itemLabel": "Polymer.",
+        "itemDescription": "A substance composed of long chains of repeating molecular units, forming a macromolecular structure."
+    },
+    {
+        "idx": 186,
+        "thinking": "",
+        "itemLabel": "Technical standard.",
+        "itemDescription": "Standardized protocol or specification that ensures consistency and interoperability in technical implementations."
+    },
+    {
+        "idx": 187,
+        "thinking": "",
+        "itemLabel": "standards organization.",
+        "itemDescription": "Organization responsible for developing and establishing technical standards across various industries and sectors."
+    },
+    {
+        "idx": 188,
+        "thinking": "",
+        "itemLabel": "Computing platform.",
+        "itemDescription": "Environment that provides the necessary resources and infrastructure for executing software applications and managing hardware interactions."
+    },
+    {
+        "idx": 189,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "Category of software applications designed for managing, organizing, and interacting with databases."
+    },
+    {
+        "idx": 190,
+        "thinking": "",
+        "itemLabel": "government agency.",
+        "itemDescription": "Public organization responsible for regulating, overseeing, or managing specific sectors or functions within a state or territory."
+    },
+    {
+        "idx": 191,
+        "thinking": "",
+        "itemLabel": "XML language.",
+        "itemDescription": "Language used for structuring, transforming, and processing XML data with a focus on document manipulation and data representation."
+    },
+    {
+        "idx": 192,
+        "thinking": "",
+        "itemLabel": "Audio compression format.",
+        "itemDescription": "Data format for compressed digital audio with loss of information, typically used for storage and transmission."
+    },
+    {
+        "idx": 193,
+        "thinking": "",
+        "itemLabel": "Independent agency.",
+        "itemDescription": "Governmental body operating independently of executive departments, responsible for specific regulatory functions."
+    },
+    {
+        "idx": 194,
+        "thinking": "",
+        "itemLabel": "Web standard.",
+        "itemDescription": "Standardized format or protocol for structuring and presenting content on the web."
+    },
+    {
+        "idx": 195,
+        "thinking": "",
+        "itemLabel": "Computer network protocol.",
+        "itemDescription": "Protocol facilitating communication and data transfer between devices over a computer network."
+    },
+    {
+        "idx": 196,
+        "thinking": "",
+        "itemLabel": "Type of economic interaction.",
+        "itemDescription": "A category of transactions where entities in the economy engage in exchanges with other entities, typically involving goods, services, or information."
+    },
+    {
+        "idx": 197,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "A classification of software based on its distribution terms, usage rights, and user freedoms."
+    },
+    {
+        "idx": 198,
+        "thinking": "",
+        "itemLabel": "Technical standard.",
+        "itemDescription": "Standard defining specifications for wireless communication technologies and protocols."
+    },
+    {
+        "idx": 199,
+        "thinking": "",
+        "itemLabel": "Registered jack.",
+        "itemDescription": "Standardized telecommunication interface used to connect devices to a network, including physical connectors and wiring specifications."
+    },
+    {
+        "idx": 200,
+        "thinking": "",
+        "itemLabel": "Directory service.",
+        "itemDescription": "Service that maps network resource names to their corresponding network addresses and manages access control and authentication within a network."
+    },
+    {
+        "idx": 201,
+        "thinking": "",
+        "itemLabel": "Broadcast television standard.",
+        "itemDescription": "Standard for transmitting and receiving terrestrial television signals, including specific technologies like PAL-50 and PAL-60."
+    },
+    {
+        "idx": 202,
+        "thinking": "",
+        "itemLabel": "Block cipher.",
+        "itemDescription": "Symmetric-key encryption algorithm that processes data in fixed-size blocks using a repeating series of rounds."
+    },
+    {
+        "idx": 203,
+        "thinking": "",
+        "itemLabel": "Agile practice.",
+        "itemDescription": "A collaborative software development approach emphasizing iterative progress, adaptability, and continuous improvement through practices like pair programming and extreme programming."
+    },
+    {
+        "idx": 204,
+        "thinking": "",
+        "itemLabel": "Communication protocol.",
+        "itemDescription": "Standardized method for exchanging messages between communication systems, ensuring structured and reliable data transmission."
+    },
+    {
+        "idx": 205,
+        "thinking": "",
+        "itemLabel": "Data-rate unit.",
+        "itemDescription": "Unit of measurement used to quantify the speed at which data is transferred or processed."
+    },
+    {
+        "idx": 206,
+        "thinking": "",
+        "itemLabel": "Electronic circuit.",
+        "itemDescription": "Physical components and systems that manipulate and process electrical signals using discrete electronic elements."
+    },
+    {
+        "idx": 207,
+        "thinking": "",
+        "itemLabel": "Notification service.",
+        "itemDescription": "Service that delivers notifications to users through various communication channels."
+    },
+    {
+        "idx": 208,
+        "thinking": "",
+        "itemLabel": "Activity.",
+        "itemDescription": "Process involving actions taken to achieve a specific goal, often with a structured approach to ensure quality and reliability in products or services."
+    },
+    {
+        "idx": 209,
+        "thinking": "",
+        "itemLabel": "Diagram.",
+        "itemDescription": "Visual representation of data or relationships, used to convey information through graphical elements."
+    },
+    {
+        "idx": 210,
+        "thinking": "",
+        "itemLabel": "Video codec.",
+        "itemDescription": "Technology that encodes or decodes digital video data for compression and transmission."
+    },
+    {
+        "idx": 211,
+        "thinking": "",
+        "itemLabel": "Microsoft component.",
+        "itemDescription": "A core part of the Microsoft Windows operating system, providing essential functionalities for system operation and management."
+    },
+    {
+        "idx": 212,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "A classification of software based on its functionality, purpose, or characteristics, including types of programs and applications."
+    },
+    {
+        "idx": 213,
+        "thinking": "",
+        "itemLabel": "Unit of length.",
+        "itemDescription": "Standardized measure of length used to quantify the dimensions of electronic equipment in rack-mounted systems."
+    },
+    {
+        "idx": 214,
+        "thinking": "",
+        "itemLabel": "Scholarly article.",
+        "itemDescription": "An academic publication that presents original research, reviews, or theoretical discussions, typically subjected to peer review."
+    },
+    {
+        "idx": 215,
+        "thinking": "",
+        "itemLabel": "Character encoding.",
+        "itemDescription": "Systematic representation of textual characters using a defined set of digital values for consistent data exchange and processing."
+    },
+    {
+        "idx": 216,
+        "thinking": "",
+        "itemLabel": "Service on Internet.",
+        "itemDescription": "Technical service provided through the Internet, enabling specific functionalities or interactions between users and systems."
+    },
+    {
+        "idx": 217,
+        "thinking": "",
+        "itemLabel": "Technical process.",
+        "itemDescription": "A method or sequence of steps performed within a technical system to achieve a specific functional outcome."
+    },
+    {
+        "idx": 218,
+        "thinking": "",
+        "itemLabel": "Network protocol.",
+        "itemDescription": "Protocol used for communication and management of network services, including authentication, authorization, and accounting functions."
+    },
+    {
+        "idx": 219,
+        "thinking": "",
+        "itemLabel": "Computer network protocol.",
+        "itemDescription": "Protocol used for communication over data networks, defining rules for transmitting data between devices."
+    },
+    {
+        "idx": 220,
+        "thinking": "",
+        "itemLabel": "Distance-vector protocol.",
+        "itemDescription": "Routing protocol that determines the best path based on distance metrics and propagates updates to neighboring nodes."
+    },
+    {
+        "idx": 221,
+        "thinking": "",
+        "itemLabel": "Standards organization.",
+        "itemDescription": "Entity engaged in the development and promotion of technical or operational standards across various industries."
+    },
+    {
+        "idx": 222,
+        "thinking": "",
+        "itemLabel": "Communication protocol.",
+        "itemDescription": "Standardized method for exchanging messages between computing systems and network devices."
+    },
+    {
+        "idx": 223,
+        "thinking": "",
+        "itemLabel": "Rule.",
+        "itemDescription": "Prescriptive guideline that defines permissible actions, restrictions, or conditions within a specified context."
+    },
+    {
+        "idx": 224,
+        "thinking": "",
+        "itemLabel": "Noise phenomenon.",
+        "itemDescription": "Random fluctuation or variation in a signal, arising from physical processes and affecting the integrity of data or images."
+    },
+    {
+        "idx": 225,
+        "thinking": "",
+        "itemLabel": "Class of computer.",
+        "itemDescription": "A category of computers defined by specific characteristics such as architecture, form factor, or intended use."
+    },
+    {
+        "idx": 226,
+        "thinking": "",
+        "itemLabel": "Moral virtue.",
+        "itemDescription": "A morally positive trait or quality that involves facing difficulty, danger, or pain with strength and moral conviction."
+    },
+    {
+        "idx": 227,
+        "thinking": "",
+        "itemLabel": "Thematic role.",
+        "itemDescription": "Role that an entity plays in relation to a specific action or state, defining its involvement in the event."
+    },
+    {
+        "idx": 228,
+        "thinking": "",
+        "itemLabel": "Technical standard.",
+        "itemDescription": "Standardized framework for exchanging business data, utilizing XML as a structured format for interoperability and consistency."
+    },
+    {
+        "idx": 229,
+        "thinking": "",
+        "itemLabel": "Free software.",
+        "itemDescription": "Software distributed under terms that allow users to freely run, study, change, and distribute it, with associated source code availability."
+    },
+    {
+        "idx": 230,
+        "thinking": "",
+        "itemLabel": "Database application.",
+        "itemDescription": "Software designed for the entry, retrieval, and management of information stored in a database, often used in data warehouse environments for specific analytical purposes."
+    },
+    {
+        "idx": 231,
+        "thinking": "",
+        "itemLabel": "Government agency.",
+        "itemDescription": "Organisational unit within a government responsible for specific public services or regulatory functions."
+    },
+    {
+        "idx": 232,
+        "thinking": "",
+        "itemLabel": "Broadcasting technology.",
+        "itemDescription": "Technology used to transmit audiovisual content over terrestrial, satellite, or other broadcast channels for public reception."
+    },
+    {
+        "idx": 233,
+        "thinking": "",
+        "itemLabel": "Mobile phone generation.",
+        "itemDescription": "A distinct phase in the evolution of wireless telephone technology, characterized by specific technical capabilities and standards."
+    },
+    {
+        "idx": 234,
+        "thinking": "",
+        "itemLabel": "Trademark.",
+        "itemDescription": "Legal identifier used to distinguish goods or services in the marketplace, granting exclusive rights to the owner."
+    },
+    {
+        "idx": 235,
+        "thinking": "",
+        "itemLabel": "Open-source movement.",
+        "itemDescription": "A collective effort promoting free redistribution and access to products, emphasizing collaboration and transparency in development and usage."
+    },
+    {
+        "idx": 236,
+        "thinking": "",
+        "itemLabel": "Quasi-autonomous organisation.",
+        "itemDescription": "An independent administrative body operating under the authority of a government, performing specific public functions without full governmental status."
+    },
+    {
+        "idx": 237,
+        "thinking": "",
+        "itemLabel": "Set.",
+        "itemDescription": "A collection of distinct elements defined by a specific criterion, forming a well-defined group within a mathematical or computational context."
+    },
+    {
+        "idx": 238,
+        "thinking": "",
+        "itemLabel": "User interface framework.",
+        "itemDescription": "Framework for creating and managing graphical user interfaces, including support for markup languages and widget toolkits."
+    },
+    {
+        "idx": 239,
+        "thinking": "",
+        "itemLabel": "Data Processing Workflow",
+        "itemDescription": "Process involving the extraction, transformation, and loading of"
+    },
+    {
+        "idx": 240,
+        "thinking": "",
+        "itemLabel": "Multinational software corporation.",
+        "itemDescription": "Corporation operating in multiple countries that specializes in developing and providing software solutions."
+    },
+    {
+        "idx": 241,
+        "thinking": "",
+        "itemLabel": "Cryptographic attack.",
+        "itemDescription": "A method used to break cryptographic systems by exploiting vulnerabilities in the encryption algorithm or implementation."
+    },
+    {
+        "idx": 242,
+        "thinking": "",
+        "itemLabel": "Proprietary audio format.",
+        "itemDescription": "Audio compression technology using a proprietary format that is not freely available or open-source."
+    },
+    {
+        "idx": 243,
+        "thinking": "",
+        "itemLabel": "RDF query protocol.",
+        "itemDescription": "Standardized method for querying and manipulating data in RDF formats, enabling data retrieval and integration across distributed systems."
+    },
+    {
+        "idx": 244,
+        "thinking": "",
+        "itemLabel": "software company.",
+        "itemDescription": "Company engaged in the development, distribution, and support of software solutions for various industries and applications."
+    },
+    {
+        "idx": 245,
+        "thinking": "",
+        "itemLabel": "Software component.",
+        "itemDescription": "A non-tangible executable unit designed to perform specific functions, often with portability and runtime support for execution in different environments."
+    },
+    {
+        "idx": 246,
+        "thinking": "",
+        "itemLabel": "Specialized database.",
+        "itemDescription": "Database designed for a specific purpose, storing structured information related to a particular domain or function."
+    },
+    {
+        "idx": 247,
+        "thinking": "",
+        "itemLabel": "Term.",
+        "itemDescription": "Concept or expression from a specific domain of knowledge or context."
+    },
+    {
+        "idx": 248,
+        "thinking": "",
+        "itemLabel": "Signaling protocol.",
+        "itemDescription": "Protocol used to establish, modify, and terminate communication sessions over a network."
+    },
+    {
+        "idx": 249,
+        "thinking": "",
+        "itemLabel": "Bus standard.",
+        "itemDescription": "Standardized interface for connecting peripheral devices to a host computer, enabling data transfer through defined physical and functional specifications."
+    },
+    {
+        "idx": 250,
+        "thinking": "",
+        "itemLabel": "Organization.",
+        "itemDescription": "Social entity established to meet specific needs or pursue particular goals through structured activities and collaboration."
+    },
+    {
+        "idx": 251,
+        "thinking": "",
+        "itemLabel": "Trade event.",
+        "itemDescription": "Event where organizations showcase and demonstrate their latest products and innovations to a professional audience."
+    },
+    {
+        "idx": 252,
+        "thinking": "",
+        "itemLabel": "Network protocol.",
+        "itemDescription": "Standardized method for communication over a network, defining rules for data transmission and error handling."
+    },
+    {
+        "idx": 253,
+        "thinking": "",
+        "itemLabel": "Transceiver.",
+        "itemDescription": "Device that both transmits and receives signals, used in communication systems."
+    },
+    {
+        "idx": 254,
+        "thinking": "",
+        "itemLabel": "Research institution.",
+        "itemDescription": "Organization primarily engaged in conducting scientific or academic research."
+    },
+    {
+        "idx": 255,
+        "thinking": "",
+        "itemLabel": "Audio coding format.",
+        "itemDescription": "Format for compressing audio data using algorithms that reduce file size while maintaining perceptual quality."
+    },
+    {
+        "idx": 256,
+        "thinking": "",
+        "itemLabel": "position.",
+        "itemDescription": "Social role with defined responsibilities in an organizational or governmental context, typically involving authority and decision-making."
+    },
+    {
+        "idx": 257,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "A classification of software systems designed to perform specific functions or serve particular purposes within an organizational or technical context."
+    },
+    {
+        "idx": 258,
+        "thinking": "",
+        "itemLabel": "Software feature.",
+        "itemDescription": "A distinct characteristic or component that contributes to the functionality of a software application."
+    },
+    {
+        "idx": 259,
+        "thinking": "",
+        "itemLabel": "markup language.",
+        "itemDescription": "Language for annotating documents with structured tags to define content and presentation."
+    },
+    {
+        "idx": 260,
+        "thinking": "",
+        "itemLabel": "Communication system.",
+        "itemDescription": "System facilitating the transmission of information between entities, encompassing infrastructure and protocols for wired or wireless data exchange."
+    },
+    {
+        "idx": 261,
+        "thinking": "",
+        "itemLabel": "Industrial sector.",
+        "itemDescription": "Economic domain characterized by large-scale automated production and information-based activities."
+    },
+    {
+        "idx": 262,
+        "thinking": "",
+        "itemLabel": "Computer component.",
+        "itemDescription": "Physical part of a computer system that performs specific functions in data processing and system operation."
+    },
+    {
+        "idx": 263,
+        "thinking": "",
+        "itemLabel": "Computer network protocol.",
+        "itemDescription": "Protocol governing communication between devices in a computer network, ensuring data is transmitted reliably and efficiently."
+    },
+    {
+        "idx": 264,
+        "thinking": "",
+        "itemLabel": "Computer network infrastructure.",
+        "itemDescription": "Network infrastructure that enables global connectivity through IP-based communication and routing protocols."
+    },
+    {
+        "idx": 265,
+        "thinking": "",
+        "itemLabel": "Telecommunication infrastructure.",
+        "itemDescription": "Physical and technological systems enabling the transmission and distribution of audiovisual content to wide audiences through broadcasting networks."
+    },
+    {
+        "idx": 266,
+        "thinking": "",
+        "itemLabel": "Technical limitation.",
+        "itemDescription": "A constraint imposed by the technical design of a system that restricts its performance or capabilities."
+    },
+    {
+        "idx": 267,
+        "thinking": "",
+        "itemLabel": "Academic discipline.",
+        "itemDescription": "Field of study or profession characterized by systematic research, theory, and practice within a specific domain of knowledge."
+    },
+    {
+        "idx": 268,
+        "thinking": "",
+        "itemLabel": "Audio coding format.",
+        "itemDescription": "Format for representing audio data with compression techniques, typically involving lossy encoding methods."
+    },
+    {
+        "idx": 269,
+        "thinking": "",
+        "itemLabel": "Network protocol.",
+        "itemDescription": "Protocol used for communication and data transfer within computer networks, enabling specific functionalities such as file systems, management, or application interactions."
+    },
+    {
+        "idx": 270,
+        "thinking": "",
+        "itemLabel": "Directory protocol.",
+        "itemDescription": "Protocol used for accessing and managing directory services in a network environment."
+    },
+    {
+        "idx": 271,
+        "thinking": "",
+        "itemLabel": "Vinyl compound.",
+        "itemDescription": "A chemical compound formed from vinyl monomers, characterized by its polymer structure and synthetic origin."
+    },
+    {
+        "idx": 272,
+        "thinking": "",
+        "itemLabel": "IP-based telephony system.",
+        "itemDescription": "Software solution for managing voice communications over Internet Protocol networks."
+    },
+    {
+        "idx": 273,
+        "thinking": "",
+        "itemLabel": "Internet standard.",
+        "itemDescription": "Standardized protocol or format published by the Internet Engineering Task Force for network communication and resource identification."
+    },
+    {
+        "idx": 274,
+        "thinking": "",
+        "itemLabel": "Relational database management system.",
+        "itemDescription": "Database system based on the relational model, providing structured data storage and retrieval through SQL or equivalent query languages."
+    },
+    {
+        "idx": 275,
+        "thinking": "",
+        "itemLabel": "Communication technology.",
+        "itemDescription": "Technology enabling the transmission of information between parties, encompassing methods for data exchange and multimedia interaction."
+    },
+    {
+        "idx": 276,
+        "thinking": "",
+        "itemLabel": "Unit of data.",
+        "itemDescription": "Base measure for quantifying the amount of digital information transmitted or stored."
+    },
+    {
+        "idx": 277,
+        "thinking": "",
+        "itemLabel": " hierarchical namespace",
+        "itemDescription": "A structured naming system enabling subdelegation of resource identification within a network hierarchy."
+    },
+    {
+        "idx": 278,
+        "thinking": "",
+        "itemLabel": "Canonical normal form.",
+        "itemDescription": "Standardized representation of logical expressions in Boolean algebra."
+    },
+    {
+        "idx": 279,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "A classification of software based on its function, purpose, or technical characteristics, including firmware, applications, and system software."
+    },
+    {
+        "idx": 280,
+        "thinking": "",
+        "itemLabel": "Organization.",
+        "itemDescription": "Social entity established to meet needs or pursue goals through structured activities and formal structures."
+    },
+    {
+        "idx": 281,
+        "thinking": "",
+        "itemLabel": "Statistical office.",
+        "itemDescription": "Governmental organization responsible for collecting, analyzing, and disseminating official statistics and census data."
+    },
+    {
+        "idx": 282,
+        "thinking": "",
+        "itemLabel": "Video coding standard.",
+        "itemDescription": "Standardized format for the compression and encoding of video data, typically developed by international standards organizations."
+    },
+    {
+        "idx": 283,
+        "thinking": "",
+        "itemLabel": "Subcultural group.",
+        "itemDescription": "A social group within a larger culture defined by shared interests, values, and practices, often centered around specific hobbies, genres, or intellectual pursuits."
+    },
+    {
+        "idx": 284,
+        "thinking": "",
+        "itemLabel": "Communications medium.",
+        "itemDescription": "Medium for the transmission and storage of information or data between parties."
+    },
+    {
+        "idx": 285,
+        "thinking": "",
+        "itemLabel": "ATEGORIES: ['software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software type', 'malware type', 'software class', 'malware class', 'software category', 'malware category', 'software",
+        "itemDescription": ""
+    },
+    {
+        "idx": 286,
+        "thinking": "",
+        "itemLabel": "Cloud service.",
+        "itemDescription": "Computing service model providing scalable and on-demand resources over the internet, encompassing infrastructure, platforms, and storage solutions."
+    },
+    {
+        "idx": 287,
+        "thinking": "",
+        "itemLabel": "Mobile phone standard.",
+        "itemDescription": "Standard defining protocols and technologies for mobile phone networks, including voice, data, and signaling transmission."
+    },
+    {
+        "idx": 288,
+        "thinking": "",
+        "itemLabel": "Organization.",
+        "itemDescription": "Social entity established to meet needs or pursue goals through structured activities and coordination."
+    },
+    {
+        "idx": 289,
+        "thinking": "",
+        "itemLabel": "Research institute.",
+        "itemDescription": "Organization primarily engaged in scientific or technological research, often with a focus on applied research and innovation."
+    },
+    {
+        "idx": 290,
+        "thinking": "",
+        "itemLabel": "Industrial application.",
+        "itemDescription": "Application of artificial intelligence in large-scale manufacturing and automated production processes."
+    },
+    {
+        "idx": 291,
+        "thinking": "",
+        "itemLabel": "Communication protocol.",
+        "itemDescription": "Systematic method for exchanging data between computing systems, defining rules for structured and reliable message transmission."
+    },
+    {
+        "idx": 292,
+        "thinking": "",
+        "itemLabel": "Regional organization.",
+        "itemDescription": "International organization operating within a specific geographic region, coordinating activities among member states."
+    },
+    {
+        "idx": 293,
+        "thinking": "",
+        "itemLabel": "Social role.",
+        "itemDescription": "Position within a societal hierarchy defined by economic activity and occupational function."
+    },
+    {
+        "idx": 294,
+        "thinking": "",
+        "itemLabel": "Quantum phenomenon.",
+        "itemDescription": "Physical phenomenon governed by quantum mechanics principles, involving particle behavior at microscopic scales."
+    },
+    {
+        "idx": 295,
+        "thinking": "",
+        "itemLabel": "Domain name registry.",
+        "itemDescription": "Organization responsible for managing and registering domain names within a specific domain namespace."
+    },
+    {
+        "idx": 296,
+        "thinking": "",
+        "itemLabel": "Government division.",
+        "itemDescription": "Administrative unit within a government responsible for specific policy areas or operational functions."
+    },
+    {
+        "idx": 297,
+        "thinking": "",
+        "itemLabel": "Modulation technique.",
+        "itemDescription": "Method of encoding information by varying properties of a carrier signal for transmission in telecommunications."
+    },
+    {
+        "idx": 298,
+        "thinking": "",
+        "itemLabel": "Academic discipline.",
+        "itemDescription": "Field of study or profession that involves systematic research, theory, and practice within a specific area of knowledge."
+    },
+    {
+        "idx": 299,
+        "thinking": "",
+        "itemLabel": "File system for optical media.",
+        "itemDescription": "File system designed for storage and retrieval of data on optical discs, ensuring compatibility and standardization across different vendors and devices."
+    },
+    {
+        "idx": 300,
+        "thinking": "",
+        "itemLabel": "Symbol.",
+        "itemDescription": "A representational element used to convey meaning, often embedded within a signal or context to signify specific information or identity."
+    },
+    {
+        "idx": 301,
+        "thinking": "",
+        "itemLabel": "United States law.",
+        "itemDescription": "Statute enacted by the United States Congress relating to public policy, governance, or national interests."
+    },
+    {
+        "idx": 302,
+        "thinking": "",
+        "itemLabel": "SI derived unit.",
+        "itemDescription": "A unit of measurement derived from the base units of the International System of Units through defined relationships."
+    },
+    {
+        "idx": 303,
+        "thinking": "",
+        "itemLabel": "Software feature.",
+        "itemDescription": "Distinguishing characteristic or functional component of a software application, enabling specific capabilities or behaviors."
+    },
+    {
+        "idx": 304,
+        "thinking": "",
+        "itemLabel": "Scheduling algorithm.",
+        "itemDescription": "Algorithm used to manage the order in which tasks or requests are processed in a system."
+    },
+    {
+        "idx": 305,
+        "thinking": "",
+        "itemLabel": "Packet forwarding.",
+        "itemDescription": "Process of relaying data packets between network segments to ensure efficient and targeted delivery."
+    },
+    {
+        "idx": 306,
+        "thinking": "",
+        "itemLabel": "Cyber conflict.",
+        "itemDescription": "A form of conflict that utilizes digital means to disrupt, damage, or gain unauthorized access to computer systems and networks, often involving state or organized actors."
+    },
+    {
+        "idx": 307,
+        "thinking": "",
+        "itemLabel": "Cloud computing model.",
+        "itemDescription": "Computing paradigm utilizing shared resources and services over a network, characterized by scalability, flexibility, and on-demand accessibility."
+    },
+    {
+        "idx": 308,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "Classification of software applications based on their functional purpose and technical characteristics."
+    },
+    {
+        "idx": 309,
+        "thinking": "",
+        "itemLabel": "Cyberattack.",
+        "itemDescription": "Malicious activity aimed at compromising the integrity, confidentiality, or availability of digital systems or data."
+    },
+    {
+        "idx": 310,
+        "thinking": "",
+        "itemLabel": "Modular connector.",
+        "itemDescription": "Electrical connector with a fixed number of contacts, commonly used in telecommunications and computer networking for data and voice transmission."
+    },
+    {
+        "idx": 311,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "A classification of software based on its function, purpose, or domain, encompassing tools, applications, and systems designed for specific user needs."
+    },
+    {
+        "idx": 312,
+        "thinking": "",
+        "itemLabel": "Public law entity.",
+        "itemDescription": "Legal person established under public law, operating as a public establishment with specific administrative functions."
+    },
+    {
+        "idx": 313,
+        "thinking": "",
+        "itemLabel": "Broadcast band.",
+        "itemDescription": "Radio frequency spectrum allocated for the transmission of broadcast signals, typically used for audio and data broadcasting."
+    },
+    {
+        "idx": 314,
+        "thinking": "",
+        "itemLabel": "Technology.",
+        "itemDescription": "Application of scientific knowledge for practical purposes, specifically in the context of broadband communication systems."
+    },
+    {
+        "idx": 315,
+        "thinking": "",
+        "itemLabel": "Registered jack.",
+        "itemDescription": "Standardized telecommunication interface used for connecting devices to communication networks."
+    },
+    {
+        "idx": 316,
+        "thinking": "",
+        "itemLabel": "Free and open-source software.",
+        "itemDescription": "Software that is both free in terms of freedom and open-source, allowing users to use, study, modify, and distribute the software."
+    },
+    {
+        "idx": 317,
+        "thinking": "",
+        "itemLabel": "Recording medium.",
+        "itemDescription": "Physical storage medium used to record and retain data or information."
+    },
+    {
+        "idx": 318,
+        "thinking": "",
+        "itemLabel": "Project.",
+        "itemDescription": "Collaborative endeavor with a defined objective, typically involving planning and execution to achieve a specific goal."
+    },
+    {
+        "idx": 319,
+        "thinking": "",
+        "itemLabel": "Industrial system.",
+        "itemDescription": "A structured assembly of machinery and equipment designed for specific production or operational tasks within a physical space."
+    },
+    {
+        "idx": 320,
+        "thinking": "",
+        "itemLabel": "Internet video service.",
+        "itemDescription": "Service delivering television content via Internet protocol suite."
+    },
+    {
+        "idx": 321,
+        "thinking": "",
+        "itemLabel": "Mobile platform.",
+        "itemDescription": "Computing environment designed for mobile devices, encompassing operating systems, software frameworks, and associated technologies."
+    },
+    {
+        "idx": 322,
+        "thinking": "",
+        "itemLabel": "Hypothetical technology.",
+        "itemDescription": "Technology that is theoretical, not yet realized, but potentially achievable in the future."
+    },
+    {
+        "idx": 323,
+        "thinking": "",
+        "itemLabel": "Internet genre.",
+        "itemDescription": "A category of content characterized by specific themes, styles, or formats within online discussions and multimedia platforms."
+    },
+    {
+        "idx": 324,
+        "thinking": "",
+        "itemLabel": "Industry.",
+        "itemDescription": "Economic sector or group of organizations engaged in producing, distributing, or providing a specific type of goods, services, or knowledge."
+    },
+    {
+        "idx": 325,
+        "thinking": "",
+        "itemLabel": "Acronym or group.",
+        "itemDescription": "A label for a collection of entities, either through an abbreviation or a well-defined collective identity."
+    },
+    {
+        "idx": 326,
+        "thinking": "",
+        "itemLabel": "business entity.",
+        "itemDescription": "Organization engaged in commercial activities, operating across various sectors and scales, with a focus on profit-driven operations and market engagement."
+    },
+    {
+        "idx": 327,
+        "thinking": "",
+        "itemLabel": "Integrated circuit technology.",
+        "itemDescription": "Technology used to fabricate and design integrated circuits, focusing on metal-oxide-semiconductor fabrication processes."
+    },
+    {
+        "idx": 328,
+        "thinking": "",
+        "itemLabel": "XML standard.",
+        "itemDescription": "Standardized format based on XML, used for structuring and transmitting data over the internet."
+    },
+    {
+        "idx": 329,
+        "thinking": "",
+        "itemLabel": "File format family.",
+        "itemDescription": "A group of related file formats that share a common structure or encoding standard."
+    },
+    {
+        "idx": 330,
+        "thinking": "",
+        "itemLabel": "Technology.",
+        "itemDescription": "Application of scientific knowledge for practical purposes, encompassing tools, systems, and methods used to solve problems or perform tasks."
+    },
+    {
+        "idx": 331,
+        "thinking": "",
+        "itemLabel": "Texture.",
+        "itemDescription": "Structural and organizational characteristics of sound, encompassing elements like melody, harmony, and timbre in a musical context."
+    },
+    {
+        "idx": 332,
+        "thinking": "",
+        "itemLabel": "Computer network protocol.",
+        "itemDescription": "Protocol used to facilitate communication and data transfer within computer networks, including specific implementations for data transmission and network management."
+    },
+    {
+        "idx": 333,
+        "thinking": "",
+        "itemLabel": "National data authority.",
+        "itemDescription": "Independent public body responsible for overseeing data protection and privacy regulations within a country."
+    },
+    {
+        "idx": 334,
+        "thinking": "",
+        "itemLabel": "Application programming interface.",
+        "itemDescription": "Standardized interface defining methods and protocols for communication between software components or between software and hardware."
+    },
+    {
+        "idx": 335,
+        "thinking": "",
+        "itemLabel": "Computer hardware.",
+        "itemDescription": "Physical components of a computer system that perform specific functions in data processing and communication."
+    },
+    {
+        "idx": 336,
+        "thinking": "",
+        "itemLabel": "Technology.",
+        "itemDescription": "Field involving the application of scientific knowledge for practical purposes, including tools, systems, and methods of communication and computation."
+    },
+    {
+        "idx": 337,
+        "thinking": "",
+        "itemLabel": "Field of work.",
+        "itemDescription": "Discipline or area of activity characterized by specialized knowledge and practical application in industry, science, or technology."
+    },
+    {
+        "idx": 338,
+        "thinking": "",
+        "itemLabel": "Network protocol.",
+        "itemDescription": "Protocol used for communication and data transfer within computer networks, adhering to defined standards for data transmission and addressing."
+    },
+    {
+        "idx": 339,
+        "thinking": "",
+        "itemLabel": "Concept.",
+        "itemDescription": "Abstract entity representing a semantic unit, defined through specialized terminology and contextual understanding."
+    },
+    {
+        "idx": 340,
+        "thinking": "",
+        "itemLabel": "Computer network protocol.",
+        "itemDescription": "Protocol governing communication over data networks, defining rules for data transmission and error handling."
+    },
+    {
+        "idx": 341,
+        "thinking": "",
+        "itemLabel": "Physical component.",
+        "itemDescription": "Fundamental part of a machine or system that contributes to its function through physical interaction or measurement."
+    },
+    {
+        "idx": 342,
+        "thinking": "",
+        "itemLabel": "Term.",
+        "itemDescription": "Concept or expression specific to a particular field, context, or domain of knowledge."
+    },
+    {
+        "idx": 343,
+        "thinking": "",
+        "itemLabel": "Computing service.",
+        "itemDescription": "Service that provides computing resources, platforms, or infrastructure for hosting and executing applications or data."
+    },
+    {
+        "idx": 344,
+        "thinking": "",
+        "itemLabel": "Software feature.",
+        "itemDescription": "A distinct characteristic or component that contributes to the functionality and user experience of a software application."
+    },
+    {
+        "idx": 345,
+        "thinking": "",
+        "itemLabel": "",
+        "itemDescription": ""
+    },
+    {
+        "idx": 346,
+        "thinking": "",
+        "itemLabel": "Web language.",
+        "itemDescription": "Language used for developing dynamic web content through client-server interaction, combining HTML, CSS, and JavaScript."
+    },
+    {
+        "idx": 347,
+        "thinking": "",
+        "itemLabel": "Technical standard.",
+        "itemDescription": "Standard that defines a consistent approach for enabling interoperability and communication between different systems and platforms."
+    },
+    {
+        "idx": 348,
+        "thinking": "",
+        "itemLabel": "Network protocol.",
+        "itemDescription": "Standardized method for communication between devices over a network, defining message formats and rules for data exchange."
+    },
+    {
+        "idx": 349,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "Broad classification of software based on its functional purpose and application domain."
+    },
+    {
+        "idx": 350,
+        "thinking": "",
+        "itemLabel": "Network protocol.",
+        "itemDescription": "Standardized method for communication and data transfer across computer networks, defining rules for data formatting, transmission, and error checking."
+    },
+    {
+        "idx": 351,
+        "thinking": "",
+        "itemLabel": "Technical concept.",
+        "itemDescription": "A concept within a technical domain that represents an inherent limitation or fluctuation affecting system performance or signal integrity."
+    },
+    {
+        "idx": 352,
+        "thinking": "",
+        "itemLabel": "Business entity.",
+        "itemDescription": "Organization engaged in commercial activities, operating across multiple regions and publicly traded."
+    },
+    {
+        "idx": 353,
+        "thinking": "",
+        "itemLabel": "Authentication protocol.",
+        "itemDescription": "Protocol used to verify the identity of a user or device by exchanging authentication data over a network."
+    },
+    {
+        "idx": 354,
+        "thinking": "",
+        "itemLabel": "Knowledge representation format.",
+        "itemDescription": "Formalized structure for encoding and exchanging knowledge, including semantic relationships and hierarchical data organization."
+    },
+    {
+        "idx": 355,
+        "thinking": "",
+        "itemLabel": "Cloud service model.",
+        "itemDescription": "Computing service model providing access to software, infrastructure, or platforms over the internet, enabling scalable and managed resources for applications and data."
+    },
+    {
+        "idx": 356,
+        "thinking": "",
+        "itemLabel": "Marketing strategy.",
+        "itemDescription": "Strategic approach to position, promote, and differentiate a product within the market to achieve specific business objectives."
+    },
+    {
+        "idx": 357,
+        "thinking": "",
+        "itemLabel": "Technical standard.",
+        "itemDescription": "Standardized framework defining specifications for technology, ensuring interoperability and consistency in implementation."
+    },
+    {
+        "idx": 358,
+        "thinking": "",
+        "itemLabel": "Mobile phone generation.",
+        "itemDescription": "A successive version of wireless telephone technology characterized by advancements in speed, capacity, and functionality."
+    },
+    {
+        "idx": 359,
+        "thinking": "",
+        "itemLabel": "Issue tracking software.",
+        "itemDescription": "Software application designed to manage and monitor issues, bugs, and tasks within software development and project management processes."
+    },
+    {
+        "idx": 360,
+        "thinking": "",
+        "itemLabel": "Overlay network.",
+        "itemDescription": "A network layer that operates on top of the Internet, requiring specific tools or permissions to access."
+    },
+    {
+        "idx": 361,
+        "thinking": "",
+        "itemLabel": "Network system.",
+        "itemDescription": "System of interconnected communication infrastructure enabling data and information exchange across various geographic and technological domains."
+    },
+    {
+        "idx": 362,
+        "thinking": "",
+        "itemLabel": "XML data format.",
+        "itemDescription": "A structured format based on XML used to encapsulate and describe data in a hierarchical and extensible manner."
+    },
+    {
+        "idx": 363,
+        "thinking": "",
+        "itemLabel": "Reference model.",
+        "itemDescription": "Abstract framework that provides a structured representation of a system or domain for understanding and communication."
+    },
+    {
+        "idx": 364,
+        "thinking": "",
+        "itemLabel": "Computer network protocol.",
+        "itemDescription": "Standardized method of communication between networked devices, defining rules for data transmission and error handling."
+    },
+    {
+        "idx": 365,
+        "thinking": "",
+        "itemLabel": "Standards organization.",
+        "itemDescription": "Organization responsible for developing and maintaining industry or national standards."
+    },
+    {
+        "idx": 366,
+        "thinking": "",
+        "itemLabel": "standards organization.",
+        "itemDescription": "Organization responsible for developing and maintaining technical or industry standards."
+    },
+    {
+        "idx": 367,
+        "thinking": "",
+        "itemLabel": "Method.",
+        "itemDescription": "Structured approach to achieve a specific goal through defined steps and procedures."
+    },
+    {
+        "idx": 368,
+        "thinking": "",
+        "itemLabel": "Business entity.",
+        "itemDescription": "Organization engaged in commercial activities, encompassing various forms of enterprise structures and operational scales."
+    },
+    {
+        "idx": 369,
+        "thinking": "",
+        "itemLabel": "XML schema.",
+        "itemDescription": "Formal definition of the structure, content, and constraints of an XML document."
+    },
+    {
+        "idx": 370,
+        "thinking": "",
+        "itemLabel": "Communication protocol.",
+        "itemDescription": "Standardized method for exchanging data between devices or systems, focusing on message transmission and network communication."
+    },
+    {
+        "idx": 371,
+        "thinking": "",
+        "itemLabel": "Video codec.",
+        "itemDescription": "Software or hardware that encodes or decodes digital video data into a compressed format for storage or transmission."
+    },
+    {
+        "idx": 372,
+        "thinking": "",
+        "itemLabel": "Government agency.",
+        "itemDescription": "Organisational unit of a government responsible for specific public services and administrative functions."
+    },
+    {
+        "idx": 373,
+        "thinking": "",
+        "itemLabel": "System.",
+        "itemDescription": "A structured set of components working together to achieve a specific function or purpose."
+    },
+    {
+        "idx": 374,
+        "thinking": "",
+        "itemLabel": "Collaborative software.",
+        "itemDescription": "Software designed to enable multiple users to work together on shared tasks, documents, or projects in real time."
+    },
+    {
+        "idx": 375,
+        "thinking": "",
+        "itemLabel": "Process.",
+        "itemDescription": "Structured sequence of steps or actions designed to achieve a specific outcome within an organizational context."
+    },
+    {
+        "idx": 376,
+        "thinking": "",
+        "itemLabel": "Concept.",
+        "itemDescription": "Abstract idea or mental representation that can be interpreted in various contexts and domains."
+    },
+    {
+        "idx": 377,
+        "thinking": "",
+        "itemLabel": "Image compression technique.",
+        "itemDescription": "Method of reducing image file size without loss of quality, enabling efficient storage and transmission of bitmap images."
+    },
+    {
+        "idx": 378,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "A classification of software that encompasses related tools, platforms, and resources for specific development or collaboration purposes."
+    },
+    {
+        "idx": 379,
+        "thinking": "",
+        "itemLabel": "Computer network technology.",
+        "itemDescription": "Technology used for data communication and network operations within computer systems."
+    },
+    {
+        "idx": 380,
+        "thinking": "",
+        "itemLabel": "Standards organization.",
+        "itemDescription": "Organization responsible for developing and maintaining industry or regional standards."
+    },
+    {
+        "idx": 381,
+        "thinking": "",
+        "itemLabel": "Standards organization.",
+        "itemDescription": "Organization responsible for developing and maintaining standards in specific fields or regions."
+    },
+    {
+        "idx": 382,
+        "thinking": "",
+        "itemLabel": "Technical standard.",
+        "itemDescription": "Standardized framework for wired communication technologies defining specifications for data transmission and network infrastructure."
+    },
+    {
+        "idx": 383,
+        "thinking": "",
+        "itemLabel": "Software framework.",
+        "itemDescription": "A structured set of tools and libraries that provide a foundation for developing and deploying software applications."
+    },
+    {
+        "idx": 384,
+        "thinking": "",
+        "itemLabel": "French public authority.",
+        "itemDescription": "Independent organization in France responsible for regulating and overseeing media and audiovisual activities."
+    },
+    {
+        "idx": 385,
+        "thinking": "",
+        "itemLabel": "Government agency.",
+        "itemDescription": "Organizational unit of a government responsible for specific public services or regulatory functions."
+    },
+    {
+        "idx": 386,
+        "thinking": "",
+        "itemLabel": "Multinational enterprise.",
+        "itemDescription": "Organization operating in multiple countries, engaged in commercial activities with a public company structure."
+    },
+    {
+        "idx": 387,
+        "thinking": "",
+        "itemLabel": "Concept.",
+        "itemDescription": "Abstract idea or mental representation that can be understood and analyzed in various contexts and domains."
+    },
+    {
+        "idx": 388,
+        "thinking": "",
+        "itemLabel": "Programming paradigm.",
+        "itemDescription": "A category of programming languages defined by a specific approach to designing and implementing programs, emphasizing particular methodologies and structures."
+    },
+    {
+        "idx": 389,
+        "thinking": "",
+        "itemLabel": "Software architecture.",
+        "itemDescription": "High-level structural design of software systems, defining components, their interactions, and the principles guiding their organization."
+    },
+    {
+        "idx": 390,
+        "thinking": "",
+        "itemLabel": "Information.",
+        "itemDescription": "Data or knowledge that is communicated, processed, or stored, serving as a basis for understanding or decision-making."
+    },
+    {
+        "idx": 391,
+        "thinking": "",
+        "itemLabel": "Standards organization.",
+        "itemDescription": "Organization responsible for developing and establishing technical standards across various industries and regions."
+    },
+    {
+        "idx": 392,
+        "thinking": "",
+        "itemLabel": "XML format.",
+        "itemDescription": "A data format based on the eXtensible Markup Language (XML) for structuring and encoding documents."
+    },
+    {
+        "idx": 393,
+        "thinking": "",
+        "itemLabel": "File format family.",
+        "itemDescription": "A group of related file formats that share a common structure or purpose for storing data."
+    },
+    {
+        "idx": 394,
+        "thinking": "",
+        "itemLabel": "Method.",
+        "itemDescription": "Structured approach to achieve a specific goal through defined steps and procedures."
+    },
+    {
+        "idx": 395,
+        "thinking": "",
+        "itemLabel": "Corporate title.",
+        "itemDescription": "Designation within an organization that defines specific duties, responsibilities, and authority related to data protection compliance and oversight."
+    },
+    {
+        "idx": 396,
+        "thinking": "",
+        "itemLabel": "Trademark.",
+        "itemDescription": "Legal identifier used to distinguish goods or services, indicating ownership and origin."
+    },
+    {
+        "idx": 397,
+        "thinking": "",
+        "itemLabel": "Mathematical concept.",
+        "itemDescription": "Abstract entity in mathematics that represents a fundamental idea or structure used to model and analyze phenomena."
+    },
+    {
+        "idx": 398,
+        "thinking": "",
+        "itemLabel": "Software application.",
+        "itemDescription": "Executable program designed to perform specific functions for users, typically running on a computer or network."
+    },
+    {
+        "idx": 399,
+        "thinking": "",
+        "itemLabel": "Intermetallic compound.",
+        "itemDescription": "A solid-state compound formed by the combination of two or more metals, exhibiting a defined stoichiometry and ordered crystal structure."
+    },
+    {
+        "idx": 400,
+        "thinking": "",
+        "itemLabel": "Point in time.",
+        "itemDescription": "Specific moment or instant within a temporal sequence, indicating a precise occurrence."
+    },
+    {
+        "idx": 401,
+        "thinking": "",
+        "itemLabel": "Organization.",
+        "itemDescription": "Social entity established to meet needs or pursue goals through structured activities and governance."
+    },
+    {
+        "idx": 402,
+        "thinking": "",
+        "itemLabel": "Tunneling protocol.",
+        "itemDescription": "Protocol that enables the encapsulation and transmission of network traffic over a different network protocol, allowing access to services not natively supported by the underlying network."
+    },
+    {
+        "idx": 403,
+        "thinking": "",
+        "itemLabel": "Global navigation system.",
+        "itemDescription": "System utilizing satellites to provide geo-spatial positioning and navigation services over a global area."
+    },
+    {
+        "idx": 404,
+        "thinking": "",
+        "itemLabel": "Unique identifier.",
+        "itemDescription": "A distinct and permanent label assigned to a specific entity within a defined context."
+    },
+    {
+        "idx": 405,
+        "thinking": "",
+        "itemLabel": "Software category.",
+        "itemDescription": "Classification of software applications designed to manage and organize personal data and information."
+    },
+    {
+        "idx": 406,
+        "thinking": "",
+        "itemLabel": "Quality attribute.",
+        "itemDescription": "Characteristic feature of information or data that determines the extent to which it is restricted from unauthorized access or disclosure."
+    },
+    {
+        "idx": 407,
+        "thinking": "",
+        "itemLabel": "Technology.",
+        "itemDescription": "Field of applied science and engineering focused on the development and application of tools, systems, and methods for information dissemination and content delivery through digital networks."
+    },
+    {
+        "idx": 408,
+        "thinking": "",
+        "itemLabel": "Technical standard.",
+        "itemDescription": "Standard that defines specifications for technology, ensuring interoperability and consistency in the development and use of technical systems."
+    },
+    {
+        "idx": 409,
+        "thinking": "",
+        "itemLabel": "Scholarly article.",
+        "itemDescription": "An article published in an academic journal or periodical, typically undergoing peer review, that presents original research, analysis, or review of a specific subject."
+    },
+    {
+        "idx": 410,
+        "thinking": "",
+        "itemLabel": "Prototype.",
+        "itemDescription": "Early model or sample used to test and demonstrate the feasibility of a concept or idea."
+    },
+    {
+        "idx": 411,
+        "thinking": "",
+        "itemLabel": "Technology.",
+        "itemDescription": "Application of scientific knowledge for practical purposes, particularly in communication, data transmission, and interactive media systems."
+    },
+    {
+        "idx": 412,
+        "thinking": "",
+        "itemLabel": "Computer network protocol.",
+        "itemDescription": "Protocol used for communication and data transmission within computer networks, specifically for routing and label distribution."
+    },
+    {
+        "idx": 413,
+        "thinking": "",
+        "itemLabel": "Computer network protocol.",
+        "itemDescription": "Standardized protocol for message transmission over computer networks, typically involving queuing and messaging mechanisms."
+    },
+    {
+        "idx": 414,
+        "thinking": "",
+        "itemLabel": "Mobile phone standard.",
+        "itemDescription": "A telecommunications standard for mobile data transmission and voice communication, encompassing technologies that extend and enhance GSM capabilities."
+    },
+    {
+        "idx": 415,
+        "thinking": "",
+        "itemLabel": "Image compression method.",
+        "itemDescription": "Technique for reducing the size of image data without loss of information, enabling efficient storage and transmission."
+    },
+    {
+        "idx": 416,
+        "thinking": "",
+        "itemLabel": "Profession.",
+        "itemDescription": "Occupation requiring formal training and accountability for specialized expertise and domain-specific responsibilities."
+    },
+    {
+        "idx": 417,
+        "thinking": "",
+        "itemLabel": "academic discipline.",
+        "itemDescription": "Field of study or profession characterized by systematic research, specialized knowledge, and structured methodologies within a defined domain."
+    },
+    {
+        "idx": 418,
+        "thinking": "",
+        "itemLabel": "Software feature.",
+        "itemDescription": "Characteristic or functionality that distinguishes a software application or system."
+    },
+    {
+        "idx": 419,
+        "thinking": "",
+        "itemLabel": "Unit of data transfer.",
+        "itemDescription": "Basic unit for transferring and measuring digital information across networks, including packets and datagrams in communication protocols."
+    },
+    {
+        "idx": 420,
+        "thinking": "",
+        "itemLabel": "Mobile phone generation.",
+        "itemDescription": "A stage in the evolution of wireless telephone technology, characterized by advancements in speed, capacity, and functionality."
+    },
+    {
+        "idx": 421,
+        "thinking": "",
+        "itemLabel": "Network protocol.",
+        "itemDescription": "Protocol that defines rules for communication and data exchange within a network, including routing, addressing, and error handling."
+    },
+    {
+        "idx": 422,
+        "thinking": "",
+        "itemLabel": "Mobile phone standard.",
+        "itemDescription": "Standard for mobile communication technologies enabling voice, data, and signaling transmission between mobile devices and network infrastructure."
+    },
+    {
+        "idx": 423,
+        "thinking": "",
+        "itemLabel": "Runtime environment.",
+        "itemDescription": "Software environment that executes programs by providing necessary resources and abstractions for program execution across different platforms."
+    },
+    {
+        "idx": 424,
+        "thinking": "",
+        "itemLabel": "Operating system.",
+        "itemDescription": "Software that manages computer hardware and provides services for running applications, typically used in embedded systems or specific device environments."
+    },
+    {
+        "idx": 425,
+        "thinking": "",
+        "itemLabel": "Collaborative software.",
+        "itemDescription": "Software designed to facilitate collaboration, document management, and content sharing among users in real-time or near real-time environments."
+    },
+    {
+        "idx": 426,
+        "thinking": "",
+        "itemLabel": "Software application.",
+        "itemDescription": "Computer program designed to perform specific functions, typically involving user interaction and execution on a computing platform."
+    },
+    {
+        "idx": 427,
+        "thinking": "",
+        "itemLabel": "Scheduling algorithm.",
+        "itemDescription": "Algorithm used to manage the order in which tasks or requests are processed in a system."
+    },
+    {
+        "idx": 428,
+        "thinking": "",
+        "itemLabel": "Network protocol.",
+        "itemDescription": "Communication protocol governing data transmission across a network, defining rules for data formatting, routing, and error handling."
+    },
+    {
+        "idx": 429,
+        "thinking": "",
+        "itemLabel": "Activity.",
+        "itemDescription": "A sequence of actions performed by an agent that leads to a tangible or intangible change in the environment."
+    },
+    {
+        "idx": 430,
+        "thinking": "",
+        "itemLabel": "Organization.",
+        "itemDescription": "Social entity established to meet specific needs, pursue goals, or carry out structured activities."
+    },
+    {
+        "idx": 431,
+        "thinking": "",
+        "itemLabel": "Institution of higher education.",
+        "itemDescription": "Higher education institution specializing in applied sciences, technology, and engineering, typically with a focus on research and innovation."
+    },
+    {
+        "idx": 432,
+        "thinking": "",
+        "itemLabel": "Internet standard.",
+        "itemDescription": "Standardized protocol framework defining the rules for communication and data transmission over IP networks."
+    },
+    {
+        "idx": 433,
+        "thinking": "",
+        "itemLabel": "Template processor.",
+        "itemDescription": "Software that generates output documents by combining templates with dynamic data models."
+    },
+    {
+        "idx": 434,
+        "thinking": "",
+        "itemLabel": "Version control system.",
+        "itemDescription": "Software tool for managing changes to documents, source code, and other collections of information."
+    },
+    {
+        "idx": 435,
+        "thinking": "",
+        "itemLabel": "Computer network protocol.",
+        "itemDescription": "Standardized method for communication and data transfer across computer networks, defining rules for data formatting, transmission, and error checking."
+    },
+    {
+        "idx": 436,
+        "thinking": "",
+        "itemLabel": "Data serialization format.",
+        "itemDescription": "Standardized method for representing structured data in a format that can be efficiently transmitted or stored and reconstructed later."
+    },
+    {
+        "idx": 437,
+        "thinking": "",
+        "itemLabel": "Process.",
+        "itemDescription": "A sequence of actions or steps that transform inputs into outputs through physical or operational mechanisms."
+    },
+    {
+        "idx": 438,
+        "thinking": "",
+        "itemLabel": "Standards organization.",
+        "itemDescription": "Organization responsible for developing and maintaining technical standards in a specific domain."
+    }
+]

@@ -1,0 +1,73 @@
+general:
+  out_dir: data/processed/dataset1/node_types/summarization/qwen3-8b
+  pbar: True
+  out_fname: node_type_info.json
+data:
+  name: NodeCLSDataset
+  config:
+    node_type_info: data/processed/dataset1/node_type_info.json
+    node_types: data/processed/dataset1/node_types.json
+loader:
+  batch_size: 2
+  shuffle: False
+  num_workers: 16
+  drop_last: False
+model:
+  name: HuggingFaceSummarizer
+  config:
+    model_name: AutoModelForCausalLM
+    model_config:
+      pretrained_model_name_or_path: &llm_name Qwen/Qwen3-8B
+      device_map: cuda:2
+    quantization_config:
+      load_in_4bit: True
+      bnb_4bit_compute_dtype: bfloat16
+      bnb_4bit_use_double_quant: True
+      bnb_4bit_quant_type: nf4
+    shots: 
+      0: |
+        Mobile phone standard.\nA telecommunications standard for mobile data transmission and voice communication, encompassing technologies that extend and enhance GSM capabilities.
+      1: |
+        Mobile operating system.\nOperating system designed for mobile devices, specifically smartphones and tablets, focusing on user interface, app ecosystem, and device-specific functionalities.
+      2: |
+        Cryptographic protocol.\nProtocol involving cryptographic operations for secure communication or authentication.
+      3: |
+        Profession.\nOccupation requiring specialized training and responsibility for specific tasks or domains.
+    system_prompt: |
+      You are designing a high-level ontology abstraction layer on top of Wikidata.
+      Given:
+      - Root
+      - Positive examples
+      - Negative examples (OPTIONAL. IF NOT MENTIONED, ASSUME THERE ARE NONE)
+      Both root, positives and negatives are Wikidata classes. Both positives and negatives are subclasses of root (at different depths-provided in the promopt).
+
+      Your task:
+      1. Identify the shared semantic properties of the positives.
+      2. Infer the lowest common abstraction that includes all positives and excludes negatives.
+
+      Constraints:
+      - Node type name must be max 3 words.
+      - Description must be ontology-style.
+      - Avoid vague or overly broad categories.
+      - Avoid metaphorical language.
+
+      The output should separate node type name and description with a newline, DO NOT ADD ANYTHING ELSE. HERE IS A TEMPLATE:
+      node type name
+      node type description
+    tokenizer_name: AutoTokenizer
+    tokenizer_config:
+      pretrained_model_name_or_path: *llm_name
+      padding_side: left
+    tokenizer_kwargs:
+      return_tensors: pt
+      padding: True
+      truncation: True
+    generation_kwargs:
+      max_new_tokens: 500
+      temperature: 0.1
+      do_sample: False
+    chat_template_kwargs:
+      tokenize: False
+      add_generation_prompt: False
+      enable_thinking: False
+    think: False
