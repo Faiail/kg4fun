@@ -24,11 +24,11 @@ In this work, we instantiate the pipeline using the [Wikidata Thematic Subgraph 
 
 The pipeline takes two inputs — a **LOD graph** and a **seed-centric dataset** (encoding positive and negative relevance decisions per seed node) — and produces three outputs through sequential stages:
 
-1. **Initial Graph Definition**: The input $\mathcal{LOD}$ and dataset $\mathcal{D}$ are combined to construct the starting knowledge graph $\mathcal{KG} = (\mathcal{V}, \mathcal{R}, \mathcal{E})$, which includes both relevant and irrelevant entities and relations, ensuring the filtering task is non-trivial.
+1. **Initial Graph Definition**: The input LOD (e.g. Wikidata) and dataset $\mathcal{D}$ are combined to construct the starting knowledge graph $\mathcal{KG}_i = (\mathcal{V}_I, \mathcal{R}_I, \mathcal{E}_I)$, which includes both relevant and irrelevant entities and relations, ensuring the filtering task is non-trivial.
 
-2. **Schema Graph Definition**: A domain-specific schema graph $\mathcal{SG} = (\mathcal{V}{\mathcal{S}}, \mathcal{R}{\mathcal{S}}, \mathcal{E}{\mathcal{S}})$ is derived from the seed nodes and their associated positive/negative sets, defining the target node and edge types that the filtered graph must conform to.
+2. **Schema Graph Definition**: A domain-specific schema $\mathcal{S} = (\mathcal{V}{\mathcal{S}}, \mathcal{R}{\mathcal{S}}, \mathcal{E}{\mathcal{S}})$ is derived from the seed nodes and their associated positive/negative sets, defining the target node and edge types that the filtered graph must conform to.
 
-3. **Filtered Graph**: Given KG and SG, the ground-truth filtered graph $\mathcal{G} = (\mathcal{V}', \mathcal{R}', \mathcal{E}')$ is constructed by selecting and relabeling only those nodes and edges from KG that are consistent with the structural and semantic constraints encoded in SG.
+3. **Filtered Graph**: Given $\mathcal{KG}_I$ and $\mathcal{S}$, the ground-truth filtered graph $\mathcal{KG}_O = (\mathcal{V}_O, \mathcal{R}_O, \mathcal{E}_O)$ is constructed by selecting and relabeling only those nodes and edges from KG that are consistent with the structural and semantic constraints encoded in SG.
 
 > **Note:** While the pipeline is fully general and can accommodate any LOD source and relevance dataset D, in this project we instantiate it using **Wikidata** as the LOD graph and the **[Wikidata Thematic Subgraph Selection Dataset](https://doi.org/10.5281/zenodo.8091584)** as D.
 
@@ -257,14 +257,14 @@ These structural distributions characterize both **Dataset 1** and **Dataset 2**
 
 <div align="center">
 
-|          | $\vert\mathcal{V}\vert$|   $\vert\mathcal{E}\vert$ |$\vert\mathcal{R}\vert$ |$\vert\mathcal{V}_{\mathcal{S}}\vert$|$\vert\mathcal{E}_{\mathcal{S}}\vert$|$\vert\mathcal{R}_{\mathcal{S}}\vert$|$\vert\mathcal{V}'\vert$|$\vert\mathcal{E}'\vert$|$\vert\mathcal{R}'\vert$|
+|          | $\vert\mathcal{V}_I\vert$|   $\vert\mathcal{E}_I\vert$ |$\vert\mathcal{R}_I\vert$ |$\vert\mathcal{V}_{\mathcal{S}}\vert$|$\vert\mathcal{E}_{\mathcal{S}}\vert$|$\vert\mathcal{R}_{\mathcal{S}}\vert$|$\vert\mathcal{V}_O\vert$|$\vert\mathcal{E}_O\vert$|$\vert\mathcal{R}_O\vert$|
 |:---------|-----------:|-----------:|---------------------:|-----------:|-----------:|---------------------:|----------:|----------:|--------------------:|
 | Dataset1 |     304982 |     299193 |                46295 |       5030 |      58868 |                    2 |    233013 |    249186 |               29434 |
 | Dataset2 |      82044 |      59393 |                 6568 |       1279 |       8606 |                    2 |     72915 |     54920 |                4303 |
 
 </div>
 
-This table highlights the KG4FUN statistics. While $\mathcal{KG}$ exhibits large scale and high relational diversity—especially in **Dataset 1**—the corresponding schema graphs $\mathcal{SG}$ remain compact. The filtered graphs $\mathcal{G}$ retain a substantial portion of nodes and edges, while significantly reducing the number of relation types, reflecting the aggregation of fine-grained predicates into higher-level abstractions.
+This table highlights the KG4FUN statistics. While $\mathcal{KG}_I$ exhibits large scale and high relational diversity—especially in **Dataset 1**—the corresponding schema graphs $\mathcal{S}$ remain compact. The filtered graphs $\mathcal{KG}_O$ retain a substantial portion of nodes and edges, while significantly reducing the number of relation types, reflecting the aggregation of fine-grained predicates into higher-level abstractions.
 
 ## LLM-Generation
 <table>
