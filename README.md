@@ -24,7 +24,7 @@ In this work, we instantiate the pipeline using the [Wikidata Thematic Subgraph 
 
 The pipeline takes two inputs — a **LOD graph** and a **seed-centric dataset** (encoding positive and negative relevance decisions per seed node) — and produces three outputs through sequential stages:
 
-1. **Initial Graph Definition**: The input LOD (e.g. Wikidata) and dataset $\mathcal{D}$ are combined to construct the starting knowledge graph $\mathcal{KG}_i = (\mathcal{V}_I, \mathcal{R}_I, \mathcal{E}_I)$, which includes both relevant and irrelevant entities and relations, ensuring the filtering task is non-trivial.
+1. **Initial Graph Definition**: The input LOD (e.g. Wikidata) and dataset $\mathcal{D}$ are combined to construct the starting knowledge graph $\mathcal{KG}_I = (\mathcal{V}_I, \mathcal{R}_I, \mathcal{E}_I)$, which includes both relevant and irrelevant entities and relations, ensuring the filtering task is non-trivial.
 
 2. **Schema Graph Definition**: A domain-specific schema $\mathcal{S} = (\mathcal{V}{\mathcal{S}}, \mathcal{R}{\mathcal{S}}, \mathcal{E}{\mathcal{S}})$ is derived from the seed nodes and their associated positive/negative sets, defining the target node and edge types that the filtered graph must conform to.
 
